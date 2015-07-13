@@ -1,0 +1,605 @@
+<Scenario 09>
+[0000:00192E00:020D5001 Leon]
+Leon: What's the status of the Castle Forces?
+Give a full report<>
+
+[0001:00192E08:0211C601 Laird]
+Laird:Yes, sir. We've just now taken
+control of the castle, but it's better
+protected than we thought. We're having
+a bit of trouble.<>
+
+[0002:00192E10:020D5001 Leon]
+Leon: Impressive... Karzas Castle. However, we can't
+waste time as we're on enemy grounds. They could
+appear at any time.<>
+
+[0003:00192E18:0211C601 Laird]
+Laird: Soon we must make our attack.<>
+
+[0004:00192E20:020D5001 Leon]
+Leon: ...True...<>
+
+[0005:00192E2C:02319B01 I. soldier 4 purple]
+Imperial General: Leon! Emergency!<>
+
+[0006:00192E34:020D5001 Leon]
+Leon: What's wrong?!<>
+
+[0007:00192E3C:02319B00 I. soldier 4 purple]
+Imperial General: Monsters are appearing in the
+Vicinity of the border.  Even civilians are
+Being killed.
+We can't last.<>
+
+[0008:00192E44:020D5000 Leon]
+Leon: Shit! Of all the times...!<wait>
+We can't leave our civilians to be murdurered.
+Laird, I'll leave this to you. I'll go rescue the
+citizens.<>
+
+[0009:00192E4C:0211C601 Laird]
+Laird: Yes, sir. Be careful, Leon.<>
+
+[000A:00192E56:021D3E01 I. general 2 yellow]
+General: The enemy's commander has left!
+Now's our chance!
+Counter attack!!!<>
+
+[000B:00192E7E:02040D01 Sherry]
+Sherry: Our soldiers are quite impressive, aren't they?
+Such spirit!<>
+
+[000C:00192E86:021E4001 I. general 2 blue]
+General: Oh, the Princess!
+Everyone do their best! It's the reinforcements!<>
+
+[000D:00192E8E:021B2A00 Soldier 1 blue]
+Soldier:Oh...<>
+
+[000E:00192E96:02072101 Keith]
+Keith: We the Karzas forces will show the
+Empire our strength.
+Protect the castle until we can
+save you!<>
+
+[000F:00192E9E:0211C601 Laird]
+Laird: Reinforcements?!  
+Kramer was beaten?! <wait>
+With Leon gone, we cannot hesitate.
+We'll show them the wrath of the
+Blue Dragon Knights!<>
+
+
+[0010:00192EC4:0211C601 Laird]
+Laird: Make use of the aviation divisions mobility
+and divert the enemies reinforcements! <wait> 
+Split their reinforcements down the middle.
+Alert the archers in the mountains and protect them. <wait>
+Whilst we're stopping the enemy reinforcements movement, 
+destroy their defense forces.
+I'll act on their escape!<wait>
+Whether our continent is restored to it's former state
+depends on this victory. Failure is intolerable.<>
+
+[0011:00192ECE:02040D01 Sherry]
+Sherry: Hey Scott,
+Isn't Laird's group quite strong?<wait>
+You're the one that's always using your head,
+so think of an easy way out!<>
+
+[0012:00192ED6:02061501 Scott]
+Scott: Huh?!  There's no "easy" about it!
+Our opponent is the sub-leader of the
+Blue Dragon Knights!<wait>
+But maybe I have something...
+If we attack his group with Phalanx or Griffon we
+should be able to defeat him.<>
+
+[0013:00192EDE:02072101 Keith]
+Keith: Careful though...If you don't use your subordinates 
+sparingly, you'll be struggling in the end.<>
+
+[0014:00192EE6:02040D01 Sherry]
+Sherry: R... Really??<>
+
+[0015:00192EF6:0200FF00 ]
+ ": You found the Runestone<>
+
+[0016:00192F06:02010100 Elwin]
+Elwin: You're going to have to do better than that!<>
+
+[0017:00192F10:02010201 Elwin dead]
+Elwin: This is it? Sorry, Sherry.<>
+
+[0018:00192F1C:02051201 Hain dead]
+Hain: Ouch! Sorry... Retreat!<>
+
+[0019:00192F26:02061601 Scott dead]
+Scott: Shit! It's no good!<>
+
+[001A:00192F30:02020601 Riana dead]
+Riana: Sherry, I'm sorry.
+I couldn't get the job done.<>
+
+[001B:00192F3A:02040E01 Sherry dead]
+Sherry: Even though I came to just protect the castle,
+I die first?!<>
+
+[001C:00192F48:02040F00 Sherry mad]
+Sherry: I can't have you changing my castle!<>
+
+[001D:00192F52:02040F00 Sherry mad]
+Sherry: I won't be killed here!<>
+
+[001E:00192F62:021D3E01 I. general 2 yellow]
+General: Pr-Princess?!<>
+
+[001F:00192F6A:02040D01 Sherry]
+Sherry: I'm okay!
+This command... am I going to lose?<>
+
+[0020:00192F72:021D3E01 I. general 2 yellow]
+General: Please Princess.
+Don’t do anything in vain.
+If there's something we can...<>
+
+[0021:00192F7A:02040D01 Sherry]
+Sherry: What're you talking about?!
+Even though everyone's fighting so hard,
+you expect me to retreat alone?!<>
+
+[0022:00192F88:02072100 Keith]
+Keith: Don't you worry Karzas! I'll definitely save you!<>
+
+[0023:00192F92:02072100 Keith]
+Keith: No way am I inferior!<>
+
+[0024:00192F9C:02072201 Keith dead]
+Keith: Im-Impossible...<>
+
+[0025:00192FAA:02072101 Keith]
+Keith: We must protect Karzas!<>
+
+[0026:00192FB8:02082601 Aaron dead]
+Aaron: I'm done for...<>
+
+[0027:00192FC2:021D3E01 I. general 2 yellow]
+General: Just a bit more.
+If we can just hold on a bit more...
+The Princess will save us!<>
+
+[0028:00192FCA:021C3801 I. general 1 yellow]
+General: Alright.
+We'll wait and and get back to you.<>
+
+[0029:00192FD4:021C3901 I. general 1 yellow dead]
+General: P-Princess. Forgive me...<>
+
+[002A:00192FE8:02041001 Sherry sad]
+Sherry: .......<>
+
+[002B:00192FF6:02072101 Keith]
+Keith: Let's hurry!
+We don't need anymore dead than this.<>
+
+[002C:00192FFE:02040F01 Sherry mad]
+Sherry: I won't forgive you! 
+I'll definitely have my revenge!<>
+
+[002D:00193014:021C3801 I. general 1 yellow]
+General: What a fighter!
+If this continues, we won't last long.<wait>
+We have to at least wait for the princess
+To get back to us.<>
+
+[002E:0019301E:021D3E00 I. general 2 yellow]
+General: No matter what, I'll protect this castle.<>
+
+[002F:00193028:021D3F01 I. general 2 yellow dead]
+General: Princess...
+Forgive me...<>
+
+[0030:00193038:02041001 Sherry sad]
+Sherry: E-Everyone!<>
+
+[0031:00193042:021E3A00 I. general 1 blue]
+General: Don't think we'll just keep on getting
+killed like this.<>
+
+[0032:0019304C:021E3B01 I. general 1 blue dead]
+General: Princess...!!!<>
+
+[0033:0019305C:02041001 Sherry sad]
+Sherry: Terrible...<>
+
+[0034:0019306A:02072101 Keith]
+Keith: Unforgiveable!
+The Karzas we bore and raised to be
+used by the Empire...<>
+
+[0035:00193072:02040F01 Sherry mad]
+Sherry: Now I'm mad!
+I swear on my life you won't like me much
+after I'm finished with you!!!<>
+
+[0036:00193086:0211C601 Laird]
+Laird: Well done.
+Leon will be quite pleased.<>
+
+[0037:00193094:02072401 Keith sad]
+Keith: Did we fail?!
+Our... castle...<>
+
+[0038:001930A2:02041001 Sherry sad]
+Sherry: Sorry, everyone.
+I took it on my own to leave the castle...<>
+
+[0039:001930AA:02010401 Elwin sad]
+Elwin: The Karzas castle has been defeated...<>
+
+[003A:001930B6:022A8500 I. saint grey]
+Imperial General: You all will die here!<>
+
+[003B:001930C0:022A8601 I. saint grey dead]
+Imperial General: Just a bit...<>
+
+[003C:001930CA:022BA301 I. soldier 5 green]
+Imperial General: We'll head-off the reinforcements attack!<>
+
+[003D:001930D2:0211C601 Laird]
+Laird: I beg you! Stop them before they destroy
+the castle!<>
+
+[003E:001930DC:022BA300 I. soldier 5 green]
+Imperial General: This will not do!<>
+
+[003F:001930E6:022BA401 I. soldier 5 green dead]
+Imperial General: Ah...<>
+
+[0040:001930F0:022C8500 I. saint grey]
+Imperial General: You've done well to get this far.
+However, I won't give up.<>
+
+[0041:001930FA:022C8601 I. saint grey dead]
+Imperial General: Ak...k...<>
+
+[0042:00193104:022D9001 I. soldier 2 purple dead]
+Imperial General: Ah!<>
+
+[0043:0019310E:022E9C01 I. soldier 4 purple dead]
+Imperial General: Is this it?<>
+
+[0044:00193118:022F9501 I. soldier 3 purple]
+Imperial General: Go! Invade!<>
+
+[0045:00193120:0211C601 Laird]
+Laird: Please. Take out the castle when
+they've stopped their advance.<>
+
+[0046:00193128:022F9501 I. soldier 3 purple]
+Imperial General: Yes!<>
+
+[0047:00193162:022F9601 I. soldier 3 purple dead]
+Imperial General: Just a bit more, and the castle...<>
+
+[0048:00193178:021E3A01 I. general 1 blue]
+General: Oh! You saved us!<>
+
+[0049:0019318C:021E3A01 I. general 1 blue]
+General: Thank you very much!
+The castle should be fine now!<>
+
+[004A:001931B2:02309601 I. soldier 3 purple dead]
+Imperial General: This is it for me...<>
+
+[004B:001931C8:021C3801 I. general 1 yellow]
+General: Oh! You saved us!<>
+
+[004C:001931DC:021C3801 I. general 1 yellow]
+General: Thank you very much!
+The castle should be fine now!<>
+
+[004D:001931E6:02319C01 I. soldier 4 purple dead]
+Imperial General: Ah! Will I die here?!<>
+
+[004E:001931F2:0211C601 Laird]
+Laird: What?!  
+Broken through?!
+They truly are formidable foes...<wait>
+We've come this far. I've no other choice
+but to fight them myself.<>
+
+[004F:00193216:02309501 I. soldier 3 purple]
+Imperial General: Yes, sir!<>
+
+[0050:00193228:0211C601 Laird]
+Laird: They've followed us all the way here.<wait>
+But, even if I fight alone, I’ll make this
+battle successful!
+That's the nature of the Blue Dragon Knights!<>
+
+[0051:0019323C:022F9501 I. soldier 3 purple]
+Imperial General: Yes, sir!<>
+
+[0052:0019324A:0211C600 Laird]
+Laird: With a knights glory, there’s no way we can lose.<>
+
+[0053:00193254:0211C600 Laird]
+Laird: You again?!
+Even so, I'll take back what you owe!<>
+
+[0054:00193262:0211C601 Laird]
+Laird: Ah...
+Retreat at once! <wait>
+Leon, please forgive me.<>
+
+[0055:0019327C:02040D01 Sherry]
+Sherry: Is anyone hurt?!<>
+
+[0056:0019328A:021D3E01 I. general 2 yellow]
+General: No, Princess.
+Luckily we were saved.<>
+
+[0057:0019329E:021E4001 I. general 2 blue]
+General: No, Princess.
+Luckily we were saved.<>
+
+[0058:001932AC:021C3801 I. general 1 yellow]
+General: No, Princess.
+Luckily we were saved.<>
+
+[0059:001932BA:02072101 Keith]
+Keith: You withstood the attacks of the 
+Blue Dragon Knights well.  Good job.<>
+
+[005A:001932CE:021C3E01 I. general 2 yellow]
+General: Thanks to the Princess and 
+the others rushing to the castle.<>
+
+[005B:001932D6:02072101 Keith]
+Keith: Princess...
+We must pay homage to Elwin.<>
+
+[005C:001932E4:02040D01 Sherry]
+Sherry: Yes...
+What's...?
+Sorry, Elwin.
+I feel we should give you something as 
+a way of saying thanks...<>
+
+[005D:001932EC:02010101 Elwin]
+Elwin: Speaking of..
+I feel like I received something.
+Maybe it's just me.<>
+
+[005E:001932FA:02040D01 Sherry]
+Sherry: Yes.
+Well, what about this?
+The armor used by our ancestors.<wait>
+Supposedly much stronger armor existed,
+but cannot be found.
+But, this shoud do just fine
+I should think.<>
+
+[005F:00193302:0200FF00 ]
+ ": You received the Dragonscale Armour<>
+
+[0060:00193310:02051101 Hain]
+Hain: Even so, Karzas is quite a 
+strong castle.
+It seems that it could even
+Protect Riana.<>
+
+[0061:00193318:02040D01 Sherry]
+Sherry: Of course!
+Leave it to me!<>
+
+[0062:00193320:02061501 Scott]
+Scott: Somehow, my duty seems finished.
+I shall hurry back to Sarlas.<>
+
+[0063:0019332E:02051101 Hain]
+Hain: Huh?!  Without you, Scott, I won't know
+how to fight with any strategy!<>
+
+[0064:00193336:02061501 Scott]
+Scott: Yes.
+But it's not always good to rely
+on someone.<>
+
+[0065:0019333E:02051101 Hain]
+Hain: Sheesh.
+But I guess that's that.
+Suppose I'll just have to study
+from other soldiers.<>
+
+[0066:00193346:02010101 Elwin]
+Elwin: Thanks for everything.<>
+
+[0067:0019334E:02061501 Scott]
+Scott: But I...
+Well then...<>
+
+[0068:0019335E:021D3E01 I. general 2 yellow]
+General: Elwin, there's someone here to see you.<>
+
+[0069:00193370:021B2C00 Soldier 2 grey]
+Soldier: Elwin, there's someone here to see you.<>
+
+[006A:00193378:021FCA00 Shinto grey]
+Priest: It's been a while, Elwin.<>
+
+[006B:00193380:02010101 Elwin]
+Elwin: Priest!<>
+
+[006C:00193388:021FCA00 Shinto grey]
+Priest: I examined the ancient
+Document I received from Aaron. <wait>
+Thanks to that, we now understand
+the hidden power of the evil sword
+Alhazard.<>
+
+[006D:00193396:02082501 Aaron]
+Aaron: Oh... that’s great news.<>
+
+[006E:0019339E:021FCA00 Shinto grey]
+Priest: It appears the Evil Sword Alhazard beholds
+a frightful power. <wait>
+Not only will the weilder of that sword
+have increased strength and psyche, but will
+also approach the dark world.<>
+
+[006F:001933A6:02051101 Hain]
+Hain: Dark world?!  We couldn't find a magician
+that could do that if we searched the 
+contintent through!<>
+
+[0070:001933AE:021FCA00 Shinto grey]
+Priest: Exactly.
+But it’s written that the one King of
+the Dark World - The Demon 
+Lord - can be summoned using Alhazard.<>
+
+[0071:001933BC:02020501 Riana]
+Riana: The demon that can single-handedly destroy an entire city?!<>
+
+[0072:001933C4:02040D01 Sherry]
+Sherry: All will be lost if such a thing is used!
+Is there anything we can do?<>
+
+[0073:001933CC:021FCA00 Shinto grey]
+Priest: Fortunately, Alhazard has yet to be fully 
+Revived. <wait>
+And it’s written that one needs the 
+Dark Rod to fully revive it.<>
+
+[0074:001933DA:02072101 Keith]
+Keith: I see.  
+So the empirical forces were
+Diligently searching for the ancient
+Amnuscript.<>
+
+[0075:001933E2:02010101 Elwin]
+Elwin: Anyway... seeing as how Alhazard's
+Power is unusable without the Dark Rod.<>
+
+[0076:001933EA:021FCA00 Shinto grey]
+Priest: This is so.
+However, it is written that the Dark
+Rod exists somewhere.<>
+
+[0077:001933F2:02040D01 Sherry]
+Sherry: Speaking of...
+I've heard something of
+a great magician near the Rahl River
+from some hundreds of years ago.
+Someone like that will
+likely know where it is.<>
+
+[0078:001933FA:02072101 Keith]
+Keith: I've heard something of him too.<>
+
+[0079:00193402:02020501 Riana]
+Riana: Then let's head over there.<>
+
+[007A:0019340A:02010101 Elwin]
+Elwin: We can't just ignore the empire just yet.<>
+
+[007B:00193412:02040D01 Sherry]
+Sherry: True.
+We'd better just take off.<>
+
+[007C:0019341A:02051101 Hain]
+Hain: I'll help as well.
+I'd like to meet this magician too.
+But I wonder if he’s got a human body.<>
+
+[007D:00193422:02072101 Keith]
+Keith: Okay!
+Prepare for departure!<>
+
+[007E:0019342A:021B2C00 Soldier 2 grey]
+Soldier: Y-Yes, sir!<>
+
+[007F:00193432:02020801 Riana sad]
+Riana: .......<>
+
+[0080:0019343A:02010101 Elwin]
+Elwin: What's wrong?
+No matter where we are,
+we'll protect the people of the caslte.
+There's no need to worry.<>
+
+[0081:00193442:02040D01 Sherry]
+Sherry: True, True.
+No need to hesitate.<>
+
+[0082:0019344A:02020800 Riana sad]
+Riana: No, its not that... 
+Uh...<>
+
+[0083:00193452:02010101 Elwin]
+Elwin: ...Its okay.
+We'll definitely come back.<>
+
+[0084:0019345A:02072101 Keith]
+Keith: Princess!
+We've finished preparations!<>
+
+[0085:00193462:02040D01 Sherry]
+Sherry: Depart!<>
+
+[0086:0019346A:02020501 Riana]
+Riana: ...Take care...<>
+
+[0087:0019347C:02072101 Keith]
+Keith: Just a little more!
+Let’s do it!<>
+
+[0088:0019348A:02040D01 Sherry]
+Sherry: Now we'll get the rest of them!<>
+
+[0089:00193494:0211C601 Laird]
+Laird: They've fought their way through the defence?!
+Impressive! However this time they're fighting me.
+There will be no other.
+Take down the castle while I gain some time!<>
+
+
+[008A:001934C2:02040F00 Sherry mad]
+Sherry: What?!
+I can't allow you to do that!<>
+
+[008B:001934CA:022F9500 I. soldier 3 purple]
+Imperial General: Shit!
+They came all the way here!<>
+
+[008C:001934D4:02072300 Keith mad]
+Keith: Think of something!
+This is the end for you too!<>
+
+[008D:001934DC:022F9500 I. soldier 3 purple]
+Imperial General: That asshole! 
+We won't give up!<>
+
+[008E:001934EC:0211C601 Laird]
+Laird: Hurry!
+Wipe out their defenses!<>
+
+[008F:001934F4:02309500 I. soldier 3 purple]
+Imperial General: Y-Yes, sir!<>
+
+[0090:0019350C:0211C601 Laird]
+Laird: Okay!
+There's only that one fleet remaining!
+Blow them away as quickly as possible!<>
+
+[0091:00193514:02309500 I. soldier 3 purple]
+Imperial General: Y-Yes, sir!
+Leave it to us!<>
+
+[0092:0019351E:022F9500 I. soldier 3 purple]
+Imperial General: The only way out of this is a sudden attack -
+Even if we lose many of our own, we'll take
+out that castle with one swoop!<>

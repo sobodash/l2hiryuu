@@ -1,0 +1,412 @@
+<Scenario 25>
+[0000:001B05BE:02144D01 Eggbert]
+Eggbert: At last you finally made it here.<>
+
+[0001:001B05C6:02010101 Elwin]
+Elwin: Eggbert!<>
+
+[0002:001B05CE:02144D01 Eggbert]
+Eggbert: I have something very interesting to show you.<>
+
+[0003:001B05DA:02020501 Riana]
+Riana:Jessica!<>
+
+[0004:001B05E2:02144D01 Eggbert]
+Eggbert: She tried sending His Majesty to the other world, foolish sorceress.<wait>
+She underestimated the power of Alhazard.<>
+
+[0005:001B05EA:020D5001 Leon]
+Leon: Wait Eggbert.
+I have no intentions of using hostages in this operation.<wait>
+This fight is between me and Elwin!<wait>
+No matter what you say, interference is a waste.
+Don't get in my way!<>
+
+[0006:001B05F2:02144D01 Eggbert]
+Eggbert: Ha ha....
+How soft of you Leon.
+But this is a good place for you.<wait>
+Luckily I'll release this woman.
+Now you'll have nothing to regret.<>
+
+[0007:001B0600:02144D01 Eggbert]
+Eggbert:Then I'll prepare the welcoming reception.
+I hope this isn't going to be a waste of my time...<>
+
+[0008:001B060A:020A1901 Jessica]
+Jessica: Eggbert....<>
+
+[0009:001B0616:020D5001 Leon]
+Leon: Elwin! Now we can fight it out with all our might!<>
+
+[000A:001B061E:02010101 Elwin]
+Elwin: Leon!
+Why are you fighting like this!<wait>
+To release Alhazard's power Bernhart has
+unleased a huge disaster upon the world!<>
+
+[000B:001B0626:02030C01 Larna sad]
+Larna: Please Leon!
+Stop this futile battle!<>
+
+[000C:001B062E:020D5001 Leon]
+Leon: To unify this world of wars, you need power
+to acheive peace!<wait>
+Even if that power is the power of evil!<>
+
+[000D:001B063A:0231A101 I. soldier 5 purple]
+Imperial General: Sir Leon!!!
+The troops are ready! We can attack at will!<>
+
+[000E:001B0642:020D5001 Leon]
+Leon: Elwin!
+At last the final battle has come!
+I'll show no mercy!<>
+
+[000F:001B064A:02010101 Elwin]
+Elwin: Idiot......
+Well it can't be helped, can it.....
+Everyone, let's go!<>
+
+[0010:001B0664:020D5001 Leon]
+Leon: If we lose here there is no tommorow.
+Fight with all your might!<wait>
+Among the Blue Dragon Knights, you
+are the most elite squadron.
+Fight a proud battle that will bring
+honour to the Blue Dragon Knights!<>
+
+[0011:001B0674:020D5001 Leon]
+Leon:Elwin!<>
+
+[0012:001B067C:02010101 Elwin]
+Elwin: ......<>
+
+[0013:001B0684:020D5001 Leon]
+Leon: .....No, I have nothing to say....<>
+
+[0014:001B0692:02030C01 Larna sad]
+Larna:....Leon.....<>
+
+[0015:001B069A:020D5001 Leon]
+Leon: Glory to the Empire and the Blue Dragon Knights!!
+Everyone Attack!!<>
+
+[0016:001B06AA:02030C01 Larna sad]
+Larna: Stop Leon!
+Why? Why must you fight us?<wait>
+If we join hands we can end these wars.<>
+
+[0017:001B06B2:020D5001 Leon]
+Leon: Of course if we fight together we can end these wars.....<wait>
+But some day people will continue to fight. Even if we end this war,
+people will continue making the same mistakes throughout the ages...<wait>
+Because of that, to end this age of wars we must form an ideal unified 
+nation with power.<wait>
+And I swore, together with the Emperor, that his dream of the continent's 
+conquest shall become a reality! Only the Emperor can do that.<wait>
+And that is the shortcut to making a world without wars!
+To acheive that, Elwin's existence is in the way!<><>
+
+
+[0018:001B06BA:02030C01 Larna sad]
+Larna: Why...
+Why must you fight like this?<>
+
+[0019:001B06C2:020D5001 Leon]
+Leon: I don't want to wash blood with more blood.
+The Empire? Elwin?
+Who has the power to bring about peace....<>
+
+[001A:001B06CA:02010101 Elwin]
+Elwin: ......<>
+
+[001B:001B06D2:020D5001 Leon]
+Leon: Well then, let's go, Elwin!
+Mercy is useless.
+Come fight at full power!<>
+
+[001C:001B06DC:02010100 Elwin]
+Elwin: You still haven't noticed the mistakes you're making!<>
+
+[001D:001B06E4:020D5000 Leon]
+Leon: I was born to the glorious Empire, raised in the Empire....
+And became head of the proud Blue Dragon Knights!<wait>
+I can never run away from the path I've chosen!<>
+
+[001E:001B06EE:02010201 Elwin dead]
+Elwin: Damn!<>
+
+[001F:001B06F6:020D5001 Leon]
+Leon: Have we won....
+It was a painful battle.<>
+
+[0020:001B06FE:02010201 Elwin dead]
+Elwin: This is the end....<>
+
+[0021:001B070C:020D5001 Leon]
+Leon: Hmphhh...
+Your skill has improved Elwin.
+But you won't get through me!<>
+
+[0022:001B0716:02051201 Hain dead]
+Hain: I'm done with...<>
+
+[0023:001B0720:02040E01 Sherry dead]
+Sherry: OOOWWWWWW!<>
+
+[0024:001B072A:02082601 Aaron dead]
+Aaron: Dammit....<>
+
+[0025:001B0734:02072201 Keith dead]
+Keith: Damn!
+So careless....<>
+
+[0026:001B073E:02091E01 Lester dead]
+Lester: Jeez! I'm beat....<>
+
+[0027:001B0748:02020601 Riana dead]
+Riana: Kyaaaa!<>
+
+[0028:001B0752:02030C01 Larna sad]
+Larna: Leon....
+We can't stop you anymore?<>
+
+[0029:001B075A:020D5001 Leon]
+Leon: ......
+You know how I feel.<wait>
+I can't betray the Empire..... No, his Majesty, Bernhart.<wait>
+Till the end I want to fight with his Majesty.<>
+
+[002A:001B0762:02030C01 Larna sad]
+Larna: Leon! There's no one who's despises fighting and ward
+more than you do. Why do you continue this fight?<>
+
+[002B:001B076A:020D5001 Leon]
+Leon: War only creates sorrow. However,
+a fight does not finish until there is a
+victor!<wait>
+It is necesssary that we unify the continent!
+And I will stand for that!<wait>
+Therefore we must finish this fight!!!<>
+
+[002C:001B0774:02030A01 Larna dead]
+Larna: Leon....<>
+
+[002D:001B0784:020D5001 Leon]
+Leon: ..Sorry, Larna....<>
+
+[002E:001B078E:020A1A01 Jessica dead]
+Jessica: Ahhhh.....<>
+
+[002F:001B0798:02061601 Scott dead]
+Scott: Ughhh.....
+This is no good at all...<>
+
+[0030:001B07A2:020D5001 Leon]
+Leon: Even if I must sacrifice my life, I will defeat you!
+Let's go Elwin!<>
+
+[0031:001B07AC:020D5000 Leon]
+Leon: Elwin!
+It's over!<>
+
+[0032:001B07BC:020D5101 Leon dead (eye open)]
+Leon: You can't....pass...through....<wait>
+Ughh.<>
+
+[0033:001B07CA:020D5101 Leon dead (eye open)]
+Leon: Damnit! Better than I expected....<>
+
+[0034:001B07D8:0211C601 Laird]
+Laird: Leon! Please fall back!<>
+
+[0035:001B07E6:0272AC00 I. soldier 7 blue]
+Imperial Soldier: Leon! Please fall back!<>
+
+[0036:001B07EE:020D5101 Leon dead (eye open)]
+Leon: Even in the face of death I won't retreat!<>
+
+[0037:001B07FC:0211C601 Laird]
+Laird: We can't allow that!
+If General Leon is killed, who will protect the Empire of tommorow!<>
+
+[0038:001B080A:0272AC00 I. soldier 7 blue]
+Imperial Soldier: We can't allow that!
+If General Leon is killed, who will protect the Empire of tommorow!<>
+
+[0039:001B0818:022B7501 I. archmage blue/purple]
+Imperial General: That's right!
+This is our duty!<>
+
+[003A:001B082C:022C7501 I. archmage blue/purple]
+Imperial General: That's right!
+This is our duty!<>
+
+[003B:001B083A:0272A900 I. soldier 6 blue]
+Imperial Soldier: That's right!
+This is our duty!<>
+
+[003C:001B0842:020D5101 Leon dead (eye open)]
+Leon: You...all of you...<>
+
+[003D:001B0850:0211C601 Laird]
+Laird: No matter what we will waste some time.
+In that time please reorganize!<>
+
+[003E:001B0858:020D5101 Leon dead (eye open)]
+Leon: .......<wait>
+Got it.
+Please.....<>
+
+[003F:001B0866:0211C601 Laird]
+Laird: Please go well.....
+Take care of the Empire.<>
+
+[0040:001B086E:020D5101 Leon dead (eye open)]
+Leon: Don't die.....<>
+
+[0041:001B0876:0211C601 Laird]
+Laird: I won't!<>
+
+[0042:001B0882:022A9E01 I. soldier 4 yellow dead]
+Imperial General: General Leon!<>
+
+[0043:001B088C:022B7601 I. archmage blue/purple dead]
+Imperial General: I can't die....yet...<wait>
+Guhaaa!<>
+
+[0044:001B0896:022C7601 I. archmage blue/purple dead]
+Imperial General: Uoooooo!<>
+
+[0045:001B08A0:022D9C01 I. soldier 4 purple dead]
+Imperial General: This is it.....<>
+
+[0046:001B08AA:022E9C01 I. soldier 4 purple dead]
+Imperial General: Leon... I'm sorry...<>
+
+[0047:001B08B4:022F9B00 I. soldier 4 purple]
+Imperial General: Attack!!<>
+
+[0048:001B08BE:022F9C01 I. soldier 4 purple dead]
+Imperial General: Ughhh!<>
+
+[0049:001B08C8:02309C01 I. soldier 4 purple dead]
+Imperial General: Uuuu....<wait>
+Leon, please..... for...gi... ve...me...<>
+
+[004A:001B08D2:0211C601 Laird]
+Laird: Attack! Don't let them near His Majesty!<>
+
+[004B:001B08DC:0211C600 Laird]
+Laird: Prepare yourself!<>
+
+[004C:001B08EC:0211C701 Laird dead]
+Laird: Leon...
+Once again, I have failed you...<>
+
+[004D:001B08F4:020D5001 Leon]
+Leon: Laird! I won't let you die!<wait>
+You didn't come here to fight just to die!
+Don't die Laird!<>
+
+[004E:001B08FC:0211C701 Laird dead]
+Laird: ..... I'm sorry........<wait>
+Please... with his Majesty......
+Acheive his dream.....
+of unifying...... the continent....<>
+
+[004F:001B0904:020D5001 Leon]
+Leon:I won't let you go to hell before me!
+Open you eyes Laird! Please open your eyes!<>
+
+[0050:001B090E:020D5001 Leon]
+Leon: ....Again, I've lost my only friend.....<wait>
+We must finish this age quickly.
+Us? Or Elwin?
+One of us can do it.<wait>
+This is the best condolence for all those who have given their
+lives for the Empire....<>
+
+[0051:001B091C:02030C01 Larna sad]
+Larna:Leon....<>
+
+[0052:001B092A:0211C701 Laird dead]
+Laird: General Leon....
+It looks like this the end for me....
+Please... with His Majesty......
+Acheive his dream.....
+of unifying...... the continent....<>
+
+[0053:001B0938:0211C601 Laird]
+Laird: You have all fought well...
+However, that stops here! Even if it
+kills me I will defeat you!<>
+
+[0054:001B0942:0231A201 I. soldier 5 purple dead]
+Imperial General: Argh...!<>
+
+[0055:001B0950:0231A100 I. soldier 5 purple]
+Imperial General: I can't believe they've even made it this far...!<>
+
+[0056:001B0962:020D5001 Leon]
+Leon: The glorious Blue Dragon Knights have led down to just me....<>
+
+[0057:001B096A:02010101 Elwin]
+Elwin: Give up Leon.
+You've already lost!<>
+
+[0058:001B0972:020D5001 Leon]
+Leon: Ha!
+You think a man like you can defeat my platoon.<>
+
+[0059:001B097A:02010101 Elwin]
+Elwin: ......<>
+
+[005A:001B0982:020D5001 Leon]
+Leon: I am the leader of the Blue Dragon Knights!
+I never retreat, and I always win!!!<>
+
+[005B:001B0990:02030C01 Larna sad]
+Larna: Please Leon!
+Stop it! I don't want to fight anymore with you!<>
+
+[005C:001B0998:020D5001 Leon]
+Leon: Larna......
+I love........
+No I have no right to say that....
+I will fight to the end! For the men who have died!<>
+
+[005D:001B09A0:02030C01 Larna sad]
+Larna:Leon!<>
+
+[005E:001B09A8:020D5001 Leon]
+Leon: This is the end!
+Let's go Elwin!<>
+
+[005F:001B09B4:02010101 Elwin]
+Elwin: Leon...<>
+
+[0060:001B09C2:02051401 Hain sad]
+Hain: That fool...<>
+
+[0061:001B09D0:02040D01 Sherry]
+Sherry: He was stubborn but....
+Leon......<>
+
+[0062:001B09D8:02030C01 Larna sad]
+Larna: Even when I was under Bosel's spell controlled as the Dark Princess, he treated me
+like a regular woman.<wait>
+There's was no one warmer than him, and his heart desired peace....<>
+
+[0063:001B09E0:02020801 Riana sad]
+Riana: Elwin...
+I can feel a wave of evil... very nearby.<>
+
+[0064:001B09E8:02030C01 Larna sad]
+Larna: Alhazard is in the castle's basement.
+Perhaps it's an underground temple.<>
+
+[0065:001B09F0:02010401 Elwin sad]
+Elwin: Let's advance.
+Let's finish this immediately.<>

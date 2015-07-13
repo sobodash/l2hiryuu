@@ -1,0 +1,49 @@
+How-to edit EUCs for warui toransu L2 project. written by alamone.
+
+Quick Start------------------------------------------------------------------
+1) Edit a EUC file in a EUC-JIS capable plain text editor.
+   [Example: Run NJWIN in EUC and use Wordpad, then save as TEXT when done]
+   You can delete all instances of <wait> to use the inserter's auto-adjust.
+2) Run the MAKEIT program to generate a NEW.BIN which is the patched ROM.
+3) Run NEW.BIN in emulator / copier to test out your translating.
+
+Explanation of EUCs----------------------------------------------------------
+* English EUCs will have an "E" as suffix.
+  The script inserter will use the English EUCs to translate.
+  The final edited text will have an "F" suffix (for Final).
+* Japanese EUCs will have no suffix or a "J" suffix.
+  These are here for your own reference.
+
+FILE      DESCRIPTION
+DUMP8-1 - 8x8 Classes
+DUMP8-2 - 8x8 Items (unused?)
+DUMP8-3 - 8x8 Names
+L2-1    - 16x16 Items (unused?)
+L2-2    - System text
+L2-3    - Magic
+L2-4    - Troops (unused?)
+L2-5    - 16x16 Names
+L2-6    - Credits
+L2-10   - 16x16 Items (look-up)
+L2-11   - 16x16 Item Descriptions (9x5 size)
+L2-12   - Pre-scenario prologues (18x?? size - you must manually adjust!)
+L2-13   - Win/Lose conditions (16x7 size)
+L2-D??  - Scenario 01 - 27, ?1 - ?4 (after 27 comes secret scenarios)
+L2-DUMMY- Leave it alone.
+L2-NAMES- Used internally by programs [names]. Update if you update L2-5.
+          Remove <>'s if any exist in this file.
+L2-PORTS- Used internally by programs [portrait descriptions].
+LANG8X8 - EUC Chart for 8x8
+LANGRISS- EUC Chart for 16x16 (SoM2Freak)
+OPENING - Opening intro text by Bernhart (this is .TXT not .EUC)
+
+Special commands-------------------------------------------------------------
+<1> <A> - Single tile
+<>      - End Phrase
+<other> - Comment (ignored)
+\n      - Force line break    Note: You will not normally need to use these
+<wait>  - Force window pause        commands as width/height will be adjusted.
+
+Extraneous-------------------------------------------------------------------
+FE      - Font editor for 16x16. Must specify fontfile.
+FE2     - Font editor for 8x16. Opens 8x16.fnt automatically.

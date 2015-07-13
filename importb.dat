@@ -1,0 +1,80 @@
+15
+l16x16-1.fnt
+16x16 font (1/2)
+l16x16-2.fnt
+16x16 font (2/2)
+charmap8.dat
+char naming map
+name-def.dat
+default name (Elwin)
+chlookup.dat
+char naming lookup convert map
+itemtype.dat
+item types (weapon/defend/misc)
+rangerev.dat
+range/revise text
+tb.dat
+terrain bonus text
+music.dat
+music menu
+cheat.dat
+cheat for elwin's stats
+pnt8-1.dat
+8x8 pointers (1/3)
+pnt8-2.dat
+8x8 pointers (1/3)
+pnt8-3.dat
+8x8 pointers (1/3)
+data0001.dat
+final chunk
+numbers.fnt
+number font
+16
+262144
+0
+15
+385088
+1232
+9
+386634
+12
+10
+386774
+0
+11
+394084
+0
+12
+399592
+0
+13
+548972
+12
+8
+633654
+10
+7
+633738
+12
+7
+634024
+10
+7
+634094
+12
+7
+661710
+36
+6
+670017
+379
+3
+670460
+18
+4
+670510
+112
+5
+2113536
+0
+14

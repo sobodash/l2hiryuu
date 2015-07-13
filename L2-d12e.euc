@@ -1,0 +1,329 @@
+<Scenario 12>
+[0000:00198FDA:02010101 Elwin]
+Elwin: This seems to be the place.<>
+
+[0001:00198FE2:0245BA01 Lich blue]
+Witch: Those who trespass upon the forbidden land listen.
+Leave immediately.
+No one shall desecrate this sacred place. If you enter, know that you shall die!<>
+
+[0002:00198FEA:02072101 Keith]
+Keith: Who are these guys?<>
+
+[0003:00198FF2:020A1901 Jessica]
+Jessica: Ancient Guardians.
+....Protectors of the Dark Rod.<>
+
+[0004:00198FFA:02040D01 Sherry]
+Sherry: So then Eggbert can't take it either?<>
+
+[0005:00199002:02082501 Aaron]
+Aaron: He's not the kind of the man that would stop at this.<>
+
+[0006:0019900A:02051101 Hain]
+Hain: Anyway let's get the rod before Eggbert does!<>
+
+[0007:00199012:02091D01 Lester]
+Lester: Don't get sloppy, Hain. The opponent is the ancient undead, if you let 
+your guard down you'll die for sure.<>
+
+[0008:00199030:02010101 Elwin]
+Elwin: I can't believe Eggbert was Jessica's apprentice...<>
+
+[0009:00199038:020A1C01 Jessica sad]
+Jessica: Before I used Rebirth, he studied magic under my wing. But soon 
+enough he craved a more powerful magic and created the 
+Rayguard Empire with the Emperor.<>
+ 
+[000A:00199046:02144D01 Eggbert]
+Eggbert: If His Majesty and I combine our power, it’s a simple task to create a nation.
+Once we break Alhazard's seal we'll receive infinite power.
+Our conquering of this continent shall become reality!<>
+
+[000B:0019904E:020A1901 Jessica]
+Jessica: I regret ever teaching you magic...
+But at least I can stop your ambitions!<>
+
+[000C:00199056:02144D01 Eggbert]
+Eggbert: I'm sorry but I must hurry to revive Alhazard. I don't have time to play with you.<>
+
+[000D:00199060:02010101 Elwin]
+Elwin: I'm worried about Riana. Let's beat them and go to Karzas.<>
+
+[000E:0019908A:02144D01 Eggbert]
+Eggbert: Is seems with that amount of power you can't defeat them.<>
+
+[000F:00199092:02010101 Elwin]
+Elwin:Eggbert!<>
+
+[0010:0019909A:02144D01 Eggbert]
+Eggbert: Well you did beat some undead for me.
+This time you have my thanks...<>
+
+[0011:001990A2:020A1901 Jessica]
+Jessica: Eggbert...
+You know how dangerous Alhazard's... power really is...<>
+
+[0012:001990AA:02144D01 Eggbert]
+Eggbert: Power can be controlled, when the one who uses it is competent enough.
+Can't it, Jessica?
+Or should I still call you "teacher"?<>
+
+[0013:001990B2:020A1901 Jessica]
+Jessica: You're so fascinated with power that you have no right to call me teacher.<>
+
+[0014:001990BA:02051101 Hain]
+Hain: What!
+Eggbert was Jessica's apprentice?!<>
+
+[0015:001990C8:02091D01 Lester]
+Lester: Yup...
+After Jessica's Rebirth he suddenly disapeared...<>
+
+[0016:001990D0:02144D01 Eggbert]
+Eggbert: I don't have time to baby-sit like you do.<>
+
+[0017:001990D8:02091D01 Lester]
+Lester: I see your attitude still leaves a heck of a lot to be desired...<>
+
+[0018:001990EE:02010101 Elwin]
+Elwin: Entrance to the Muscle Shrine?
+What is this about?
+Well, we'll think about it later.<>
+
+[0019:00199102:0200FF00 ]
+ ": You found Carbunkle!<>
+
+[001A:00199112:020A1901 Jessica]
+Jessica: Stop it! You mustn't allow Alhazard's revival!<>
+
+[001B:0019911A:02144D01 Eggbert]
+Eggbert: Well try and stop me.<>
+
+[001C:00199124:02010201 Elwin dead]
+Elwin: Damn it! This is it....<>
+
+[001D:00199132:02051201 Hain dead]
+Hain: Uwwa!<>
+
+[001E:0019913C:02040E01 Sherry dead]
+Sherry: Ouch... I'm dead.<>
+
+[001F:00199146:02082601 Aaron dead]
+Aaron: Guh!
+How sickening...<>
+
+[0020:00199150:02072201 Keith dead]
+Keith: Damnit!<>
+
+[0021:0019915A:02091D00 Lester]
+Lester: I'll protect you Lady Jessica!
+You won’t lay a hand on here!<>
+
+[0022:00199162:02144D00 Eggbert]
+Eggbert: Lester.... Is that all the power you've got?<>
+
+[0023:0019916C:02091E01 Lester dead]
+Lester: Son of a! Not to shabby!<>
+
+[0024:00199176:020A1900 Jessica]
+Jessica:Be careful! Don't slacken off!<>
+
+[0025:00199180:020A1900 Jessica]
+Jessica:Eggbert!
+Prepare yourself!<>
+
+[0026:00199188:02144D00 Eggbert]
+Eggbert: Jessica, stop saying such useless things!<>
+
+[0027:00199192:020A1A01 Jessica dead]
+Jessica: Aaaahhh....<>
+
+[0028:0019919C:02144D01 Eggbert]
+Eggbert: Hahaha... It's a waste to try and get in my way...<>
+
+[0029:001991AA:02144D01 Eggbert]
+Eggbert: ....hmm.
+This is the Dark Rod?<>
+
+[002A:001991B2:02010101 Elwin]
+Elwin: Wait! Eggbert!<>
+
+[002B:001991BA:02144D01 Eggbert]
+Eggbert: Noisy brat...
+....?
+Who are you!?
+That winged tiara....
+Is he a descendant of light....?<>
+
+[002C:001991C2:02010101 Elwin]
+Elwin: What are you talking about?<>
+
+[002D:001991CA:02144D01 Eggbert]
+Eggbert: A descendant of Light would get in my way...
+Of course that person was right.
+Oh well whatever....
+The Dark Rod is mine!<>
+
+[002E:001991DA:0200FF01 ]
+ ": The Dark Rod was taken!<>
+
+[002F:001991E2:020A1901 Jessica]
+Jessica: Eggbert!
+Stop it!!<>
+
+[0030:00199208:02144D00 Eggbert]
+Eggbert: How could you make it this far. I haven't taken a good enough look yet.<>
+
+[0031:00199212:02144D01 Eggbert]
+Eggbert: Impossible...<>
+
+[0032:0019921A:020A1901 Jessica]
+Jessica: Don't go!
+We must get the Dark Rod quickly!<>
+
+[0033:00199222:02144D01 Eggbert]
+Eggbert: It's too late!<>
+
+[0034:0019922A:02010101 Elwin]
+Elwin: It's impossible!
+We're too late!<>
+
+[0035:0019923A:0245BA01 Lich blue]
+Witch: There are so many fools here today. But no matter who you are we won't 
+forgive the desecration of our sacred temple. You shall all die.<>
+
+[0036:00199244:0245BA00 Lich blue]
+Witch: The foolish trespassers upon the forbidden earth.
+Await your death.<>
+
+[0037:0019924E:0245BA00 Lich blue]
+Witch: How could such reckless people challenge me,
+me who's lived beyond centuries?<>
+
+[0038:00199258:0245BA01 Lich blue]
+Witch: I can't believe it...
+I've been defeated!<>
+
+[0039:00199262:0248BE00 Living armor yellow]
+Living Armor: Haaa!<>
+
+[003A:0019926C:0248BE01 Living armor yellow]
+Living Armor: Guu....<>
+
+[003B:00199276:0249BE01 Living armor yellow]
+Living Armor: Gu....<>
+
+[003C:00199284:0248BE00 Living armor yellow]
+Living Armor: I won't forgive you!<>
+
+[003D:0019928E:024BB501 Face mist]
+Ghost: Suu....<>
+
+[003E:00199298:024DB101 Cerberus]
+Cerberus:GUUUUU....<>
+
+[003F:001992A2:0250B701 Master dino]
+Master Dino:WAOOOOON...<>
+
+[0040:001992AC:023AB001 Gelgazer]
+Great Slime:Squish!<>
+
+[0041:001992B6:023BB001 Gelgazer]
+Great Slime:Splash!<>
+
+[0042:001992C0:023CB001 Gelgazer]
+Great Slime:Squelch!<>
+
+[0043:001992CA:023DB001 Gelgazer]
+Great Slime:Splat!<>
+
+[0044:001992DE:02144D01 Eggbert]
+Eggbert: Now all there's left is that girl, Riana.
+You can fight as many undead as you want. If you manage to make 
+it out of here, I'll play with you some other time.<>
+
+[0045:001992EC:020A1901 Jessica]
+Jessica: Wait!<>
+
+[0046:001992F4:02144D01 Eggbert]
+Eggbert: Jessica after this I will defeat you.
+But now is too soon. It would be too boring to defeat you now when 
+you haven't yet reached your full power...
+Well then farewell.<>
+
+[0047:0019930C:02051101 Hain]
+Hain: Dammit!<>
+
+[0048:00199314:02010101 Elwin]
+Elwin: Shit!
+He ran away?!<wait>
+It's pointless to continue fighting the undead than.<>
+
+[0049:0019931C:020A1901 Jessica]
+Jessica: However since the Guardians have begun their actions, 
+unless we exterminate them there's no way we can leave.<>
+
+[004A:00199324:02010101 Elwin]
+Elwin: Got it.
+Everyone let's wipe them out!<>
+
+[004B:00199332:02010101 Elwin]
+Elwin: It seems we beat them all...<>
+
+[004C:0019933A:020A1901 Jessica]
+Jessica: However the Dark Rod was taken....
+Later to unlock Alhazard's power they will need a catalyst...
+I think Eggbert was referring to Riana as the catalyst.<>
+
+[004D:00199348:02040D01 Sherry]
+Sherry: Riana is in danger!
+We must quickly return to Kalzas caslte.<>
+
+[004E:00199356:021B2900 Soldier 1 grey]
+Soldier: Riana is probably in danger! Shall we hurry back to Kalzas castle?<>
+
+[004F:00199364:02010101 Elwin]
+Elwin: Yes...
+But what will we do about this shrine?
+There's probably some big riddle involved...?<>
+
+[0050:0019936C:1D00FF00 ]
+ ": Will you investigate it?<>
+
+[0051:00199378:02010101 Elwin]
+Elwin: Wait up!
+There's a path to this hidden shrine!
+If we investigate, maybe there's something that can help us understand Alhazard better. Let's quickly investigate!<>
+
+[0052:00199382:02010101 Elwin]
+Elwin: Yes....
+I'm worried about Riana. Let's return to Kalzas!<>
+
+[0053:0019938A:020A1C01 Jessica sad]
+Jessica: I'm sorry. If only I hadn't taught Eggbert magic....<>
+
+[0054:00199392:02082501 Aaron]
+Aaron: Jessica, you can't blaim yourself.<wait>
+He did this as a man of his own actions.<wait>
+It is the same with the sword,
+for what purpose do swordsmen they master their skill? It's very essential.<wait>
+Even if you didn't teach him he would still likely lust for power.<>
+
+[0055:0019939A:02051101 Hain]
+Hain: Yeah! Everyone essentialy want's power, I'm not studying magic for nothing.<wait>
+Me, I decided to study magic to help those in need!<>
+
+[0056:001993A2:020A1901 Jessica]
+Jessica: ...Thank you.
+I feel a little bit more relaxed now...
+Speaking of which, Hain, you said that you wanted to be my apprentice.
+If we can destroy the Empire's ambitions, I'll happily teach you magic.<>
+
+[0057:001993AA:02051101 Hain]
+Hain: Yeahhh!
+Alright, let's hurry and save Riana!<>
+
+[0058:001993B2:02010101 Elwin]
+Elwin: Yes.
+Alright let's go to Kalzas!<>

@@ -1,0 +1,398 @@
+<Scenario 17>
+[0000:001A2290:020E4A01 Bernhart]
+Bernhart: What a noisy little bunch has come...<>
+
+[0001:001A22B8:02010101 Elwin]
+Elwin: We found you!
+You're Bernhart!<>
+
+[0002:001A22C0:020E4A01 Bernhart]
+Bernhart: I am the\nRayguard Empire's Emperor Bernhart.
+I'll have to thank you for bringing Langrisser all this way.<>
+
+[0003:001A22C8:02040D01 Sherry]
+Sherry: How can you be so calm while being pushed in such a corner?<>
+
+[0004:001A22D0:020E4A01 Bernhart]
+Bernhart: Why shouldn't\nI be? The last laugh shall be ours!<>
+
+[0005:001A22D8:02010101 Elwin]
+Elwin: .....
+Riana isn't here!
+Why isn't she here?!<>
+
+[0006:001A22E0:02105D01 Bosel]
+Bosel: .....Ha
+You came all this way for the girl.
+Too bad isn't it<>
+
+[0007:001A22E8:020A1901 Jessica]
+Jessica: Th, That can't be!
+That man is....<>
+
+[0008:001A22F0:020E4A01 Bernhart]
+Bernhart: Hmmm.....\n
+You know this man? He helped me obtain Alhazard.<>
+
+[0009:001A22F8:020A1901 Jessica]
+Jessica: Emperor Bernhart, this man Bosel is called the Prince of Darkness....
+You are being used by him. The power you think you've achieved isn't just 
+from the sword. Alhazard will bring over the destruction of this world, the cursed sword of evil!<>
+
+[000A:001A2300:020E4A01 Bernhart]
+Bernhart: Even if it's\na cursed evil sword I will control all its power.
+If you have time to talk...<wait>Then you have time to fight.<>
+
+[000B:001A2308:02010101 Elwin]
+Elwin: You wish! Let's go guys!<>
+
+[000C:001A231E:02329B01 I. soldier 4 purple]
+Imperial General: Your Majesty! Are you ok!<>
+
+[000D:001A2326:020E4A01 Bernhart]
+Bernhart: Yes. They\nmade it here. Engage them before they have time to develope a strategy.<>
+
+[000E:001A232E:02319B01 I. soldier 4 purple]
+Imperial General: Yes, sir!<>
+
+[000F:001A233E:020E4A01 Bernhart]
+Bernhart: Elwin? I've learned much about you from my men.
+However with just those soldiers it will be a long fight to this throne.
+Not to mention that raising a sword to me is pure suicide...<>
+
+[0010:001A2346:02010101 Elwin]
+Elwin: Is that so!
+We will win this fight!<>
+
+[0011:001A234E:020E4A01 Bernhart]
+Bernhart: Hmm...
+You're interesting...
+In that case show me what you've got.<>
+
+[0012:001A235E:02105D01 Bosel]
+Bosel: Be careful, Bernhardt. These fools
+have more power than you'd five them credit for...<>
+
+[0013:001A2366:020E4A01 Bernhart]
+Bernhart: Those fools\neven being able to touch a man of your measure is a riduculous concept.<wait>
+Yet, from what you've said, you think the Descendants of Light are a danger.<>
+
+[0014:001A236E:02105D01 Bosel]
+Bosel: Fu....
+No I said I was worried about your ability to defeat them.<>
+
+[0015:001A2376:020E4A01 Bernhart]
+Bernhart: That's a\nwaste of breath. I won't lose to them.<>
+
+[0016:001A2386:0200FF00 ]
+ ": You found a Runestone!<>
+
+[0017:001A239C:0200FF00 ]
+ ": You found the Masayan Sword!<>
+
+[0018:001A23AC:02010101 Elwin]
+Elwin: Bernhart! You've already lost. Give up while you can!<>
+
+[0019:001A23B4:020E4A01 Bernhart]
+Bernhart: Pathetic! The Rayguard Emperor doesn't know the meaning of give up.
+Not to mention defeat!<>
+
+[001A:001A23C4:02010100 Elwin]
+Elwin: Where is Riana? Answer me Bernhart!!<>
+             
+[001B:001A23D2:020E4A00 Bernhart]
+Bernhart: That is not\nof my concern. 
+To revive Alhazard, Bosel took her. After that I have no idea.
+Why don't you find out yourself.<>
+
+[001C:001A23E0:020E4A00 Bernhart]
+Bernhart: That is not of my concern. 
+To revive Alhazard, Bosel took her. After that I have no idea.
+Find him and ask him yourself.<>
+
+[001D:001A23EA:02010201 Elwin dead]
+Elwin: I made it this far just to die...<>
+
+[001E:001A23FA:02010100 Elwin]
+Elwin: Your ambitions are over!<>
+
+[001F:001A2404:02051100 Hain]
+Hain: Let's finish it!<>
+
+[0020:001A240E:02051201 Hain dead]
+Hain: Shit! How could I die now, pathetic...<>
+
+[0021:001A2418:02040D00 Sherry]
+Sherry: Bernhart, prepare yourself!<>
+
+[0022:001A2422:02040E01 Sherry dead]
+Sherry: Ouuchh!
+I won't forgive you!<>
+
+[0023:001A242C:02082501 Aaron]
+Aaron: Don't even think about it!<>
+
+[0024:001A2436:02082601 Aaron dead]
+Aaron: No!<>
+
+[0025:001A2440:02072100 Keith]
+Keith: This is it for you!<>
+
+[0026:001A244A:02072201 Keith dead]
+Keith: Uooohh!
+I was too reckless....<>
+
+[0027:001A2454:02091D00 Lester]
+Lester: I'm gonna kick your ass!<>
+
+[0028:001A245E:02091E01 Lester dead]
+Lester: Keh... Pretty good...<>
+
+[0029:001A2468:020A1900 Jessica]
+Jessica: Prepare yourself!<>
+
+[002A:001A2472:020A1900 Jessica]
+Jessica: Bosel! This time, I'm going
+to make sure you can't continue doing
+as you see fit!<>
+
+[002B:001A247A:02105D00 Bosel]
+Bosel: Wait a minute... You were that sorceress?
+Using Rebirth means that you possess a high command of extremely powerful magic.
+But this time I won't make the same mistake, I'll you pay you back for that humilitation.<>
+
+[002C:001A2484:020A1A01 Jessica dead]
+Jessica: Impossible.....<>
+
+[002D:001A248E:02061500 Scott]
+Scott: Let's go!<>
+
+[002E:001A2498:02061601 Scott dead]
+Scott: Not good...<>
+
+[002F:001A24A2:022A7500 I. archmage blue/purple]
+Imperial General: Let's show them our power!<>
+
+[0030:001A24AC:022A7601 I. archmage blue/purple dead]
+Imperial General: Guuooooo!<>
+
+[0031:001A24BA:022A7501 I. archmage blue/purple]
+Imperial General: Kuu Ha ha ha.
+Hows that!<>
+
+[0032:001A24C4:022B8500 I. saint grey]
+Imperial General: I'll protect His Majesty!
+Don't let them take another step!<>
+
+[0033:001A24CE:022B8601 I. saint grey dead]
+Imperial General: What power...
+But that's not enough to beat his Majesty.<>
+
+[0034:001A24E2:022B8501 I. saint grey]
+Imperial General: Let's see if you've got what it takes.<>
+
+[0035:001A24F2:022C7601 I. archmage blue/purple dead]
+Imperial General: Gwah...!<>
+
+[0036:001A2500:022C7500 I. archmage blue/purple]
+Imperial General: No matter how much pain I must endure, I WILL protect the Emporer!<>
+
+[0037:001A250A:022D8500 I. saint grey]
+Imperial General: Take this!<>
+
+[0038:001A2514:022D8601 I. saint grey dead]
+Imperial General: Why....<>
+
+[0039:001A251E:022E7701 I. archmage green/red]
+Imperial General: We'll teach them what it means the oppose the Imperial Army.<>
+
+[003A:001A2528:022E7801 I. archmage green/red dead]
+Imperial General: I... Impossible?!<>
+
+[003B:001A2532:022E7700 I. archmage green/red]
+Imperial General: How arrogant!<>
+
+[003C:001A253C:022F7801 I. archmage green/red dead]
+Imperial General: Geh...<>
+
+[003D:001A2546:02308601 I. saint grey dead]
+Imperial General: Y....Your Majesty...<>
+
+[003E:001A2554:02308500 I. saint grey]
+Imperial General: Not bad at all.
+But you won't reach his Highness!<>
+
+[003F:001A255E:02319B01 I. soldier 4 purple]
+Imperial General: You dare raise arms His Majesty, you fools won't leave this castle alive.
+Wipe them all out!<>
+
+[0040:001A2568:02319B00 I. soldier 4 purple]
+Imperial General: Uuooooooooooo!<>
+
+[0041:001A2572:02319C01 I. soldier 4 purple dead]
+Imperial General: Nuah... Long live...Emporer Bernhardt...<>
+
+[0042:001A257C:02329B00 I. soldier 4 purple]
+Imperial General: I've got you!<>
+
+[0043:001A2586:02329C01 I. soldier 4 purple dead]
+Imperial General: Gwah!<>
+
+[0044:001A2590:020E4B01 Bernhart dead]
+Bernhart: Damn!! You're stronger than I thought, but don't think this is over!
+Arrgghh!<>
+
+[0045:001A25A0:02105D01 Bosel]
+Bosel: How foolish.
+We still have the puppet....<>
+
+[0046:001A25A8:020A1901 Jessica]
+Jessica: Bosel! You can't escape!<>
+
+[0047:001A25D0:02091D01 Lester]
+Lester: It's over....<>
+
+[0048:001A25D8:02010101 Elwin]
+Elwin: No not yet.<>
+
+[0049:001A25E6:02040D01 Sherry]
+Sherry: Why not? We beat Bernhart.<>
+
+[004A:001A25F4:02051101 Hain]
+Hain :Why? Bernhart has been defeated.<>
+
+[004B:001A25FC:020A1901 Jessica]
+Jessica: That man....
+It's not over while Bosel lives.<>
+
+[004C:001A2604:02010101 Elwin]
+Elwin: Unless he is killed he will revive Alhazard....
+And also Riana... If we don't defeat him, we can't rescue Riana.<>
+
+[004D:001A2612:02040D01 Sherry]
+Sherry: That's it!
+That man is controlling Riana!<>
+
+[004E:001A2620:02051101 Hain]
+Hain: Yes!!! That man is controlling Riana!<>
+
+[004F:001A2628:02010101 Elwin]
+Elwin: Well.... We must follow after Bosel.<>
+
+[0050:001A2630:020A1901 Jessica]
+Jessica: Bosel is called the Prince of Darkness, a long time ago he 
+obtained the power of the God of Chaos, and covered the world in 
+fear. However his ambition were always cut off by descendants of 
+Light's hands. Knowing this hundreds of years ago he tried to lead 
+the world into ruin.<>
+
+[0051:001A263E:02061501 Scott]
+Scott: That's what's called the War of the Holy Sword. Was this the 
+fight you fought with the Baldia royal family?<>
+
+[0052:001A264C:021B2900 Soldier 1 grey]
+Soldier: That's was called the War of the Holy Sword. Was this 
+the fight you fought with the Baldia royal family?<>
+
+[0053:001A2654:02010101 Elwin]
+Elwin: In other words, he didn't die during that war.<>
+
+[0054:001A265C:020A1901 Jessica]
+Jessica: We couldn't completely destroy him...
+He was no longer human, he'd reached the power of the God of Chaos, and by
+using the power of darkness he could ressurect himself.
+Even with Langrisser there was limit to how much we could seal him.<>
+
+[0055:001A266A:02061101 Hain]
+Scott: But how did he break the seal?<>
+
+[0056:001A2678:02010101 Elwin]
+Elwin: But how could he have broken the seal?<>
+
+[0057:001A2680:020A1901 Jessica]
+Jessica: I don't know, but there's one thing I can answer.
+Bosel controlled Emperor Bernhart so that he could revive Alhazard.<>
+
+[0058:001A268E:02082501 Aaron]
+Aaron: Bernhart was helpless... During his hunt for power he lost sight of himself...
+That was how Bosel used him...<>
+
+[0059:001A269C:02010101 Elwin]
+Elwin: Pathetic man....
+He lost sight of himself over his crave for power.
+That was how Bosel used him.<>
+
+[005A:001A26A4:020A1901 Jessica]
+Jessica: If Alhazard's power is revived, then no one will 
+be able to defeat Bosel. Since he already possesses an 
+incredible magic power, Alhazard's power will intesify 
+his strength even more.<>
+
+[005B:001A26B2:02091D01 Lester]
+Lester: Well then, let's tear him up before he revives Alhazard!<>
+
+[005C:001A26C0:02010101 Elwin]
+Elwin: Then we must defeat Bosel before he revives Alhazard.<>
+
+[005D:001A26C8:020A1901 Jessica]
+Jessica: Let's go to the forbidden land Velzeria.
+Bosel and Riana must be there.<>
+
+[005E:001A26D0:02010101 Elwin]
+Elwin: Alright, let's go!
+To save the world and Riana!<>
+
+[005F:001A26DC:02105D00 Bosel]
+Bosel: Die beyond agony...<>
+
+[0060:001A26FC:02105E01 Bosel dead]
+Bosel: My full power still hasn't returned....
+You just wait until it does!
+Then we shall meet again, descendants of Light.<>
+
+[0061:001A2710:02105E01 Bosel dead]
+Bosel: Sorry, but I don't have time to play with you.
+When I reach my full power we'll meet again....
+Descendants of Light<>
+
+[0062:001A271A:020E4A01 Bernhart]
+Bernhart: What rubbish.<>
+
+[0063:001A2730:02105D01 Bosel]
+Bosel: You've got some balls...<>
+
+[0064:001A2748:02105D00 Bosel]
+Bosel: Fu....
+The Descendants of Light?<>
+
+[0065:001A2756:02105F01 Bosel mad]
+Bosel: Descendants of Light?...
+You're always intefering with my plans!
+I tried to kill you all before you could take the sword.
+I almost succeeded in wiping out your bloodline forever too...
+You've got good luck in bad situations, eh?<>
+
+[0066:001A275E:02010301 Elwin mad]
+Elwin: Wait a minute...! You killed Doren?!<>
+
+[0067:001A2766:02105D01 Bosel]
+Bosel: I didn't know who he was.
+But your old man seriously wounded one of my men.<>
+
+[0068:001A276E:02010301 Elwin mad]
+Elwin: So it was your orders!!  I'll avenge Doren!<>
+
+[0069:001A2776:02105D01 Bosel]
+Bosel: What a snobby little idiot you are... 
+If that old man wasn't there you would be already dead!
+Because of that battle, the old man Fayas still has to tend to his wounds.<>
+
+[006A:001A277E:02010301 Elwin mad]
+Elwin: I'll never forgive you! I'll defeat both you and Fayas!!!<>
+
+[006B:001A2788:02105D01 Bosel]
+Bosel: I'm sorry but I don't have time to play with you.
+When I reach my full power we will meet again, Descendant's of Light!
+You'd better prepare yourself!<>
+
+

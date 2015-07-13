@@ -1,0 +1,1309 @@
+\n
+   Scenario - 01\n
+ "Knights of the
+  Rayguard Empire"\n
+\n
+ Tired of travel,\n
+Elwin rested for\n
+a while at a small\n
+village in Sulras.\n
+Elwin got on well\n
+with the local\n
+people, especially\n
+a young magician\n
+called Hain - they\n
+soon became great\n
+friends.\n
+ One quiet day,\n
+Hain burst into\n
+the inn where\n
+Elwin was staying,\n
+and in a fearful\n
+tone told him that\n
+the Knights of the\n
+Rayguard Empire\n
+were attacking the\n
+village. Hain's\n
+childhood friend\n
+Riana lived close\n
+to where the enemy\n
+troops were.\n
+ Grasping his\n
+sword, Elwin went\n
+to try and help\n
+her.\n
+\n
+*Winning Condition\n
+ -Death of Baldo\n
+*Losing Condition\n
+ -Death of Elwin\n
+ -Baldo escapes to\n
+  bottom-right of\n
+  map<>
+\n
+   Scenario - 02\n
+ "Besieged Manor"\n
+\n
+ Elwin safely led\n
+Riana to Lord\n
+Rolan's manor in\n
+Sulras. There, it\n
+was decided they\n
+would seek refuge\n
+for Riana in the\n
+Temple of Light in\n
+Estol. But forces\n
+of the Imperial\n
+Empire were about\n
+to lead an assault\n
+against Rolan's\n
+manor. Commander\n
+Zolm, General\n
+Vargas' right hand\n
+man, was to abduct\n
+Riana.\n
+\n
+*Winning condition\n
+ -Riana escapes to\n
+  top of map\n
+ -Enemies defeated\n
+*Losing condition\n
+ -Death of Riana\n
+ -Death of Elwin<>
+\n
+   Scenario 03\n
+ "Mountain Ambush"\n
+\n
+Elwin and his\n
+party escaped from\n
+Zolm's besiege and\n
+tried to reach the\n
+light shrine in\n
+Estol. But the\n
+leader of the army\n
+Zolm was from,\n
+General Vargas,\n
+had caught them\n
+and sent Zolm to\n
+kill them. Elwin\n
+and his party\n
+had to face huge\n
+numbers of enemies\n
+and fight with a\n
+big handicap\n
+\n
+*Winning Condition\n
+ -Death of all\n
+  enemies\n
+
+*Losing Condition\n
+ -Death of Elwin\n
+ -Death of Riana\n
+<>
+\n
+   Scenario 04\n
+"The Light Shrine"\n
+\n
+With the\n
+mysterious\n
+knight's help,\n
+Elwin and the\n
+people defeated\n
+General Vargas\n
+and tried to\n
+reach the light\n
+shrine in Estol.\n
+If they could\n
+reach the shrine,\n
+the Priests in the\n
+shrine could help\n
+protect Riana. The\n
+Shrine was famous\n
+for having lots of\n
+strong Priests,\n
+because it was the\n
+main light shrine\n
+out of all of\n
+them. However, the\n
+thing that Elwin\n
+and his party saw\n
+when they reached\n
+the shrine was\n
+the Black Dragon\n
+Sorcerers from the\n
+Rayguard Empire\n
+trying to fight\n
+their way into the\n
+Shrine\n
+\n
+*Win Condition \n
+ -Death of Mage\n
+  Morgan\n
+\n
+*Lose Condition\n
+ -Death of\n
+  Shinto priests\n
+ -Death of Riana\n
+ -Death of Elwin\n
+<>
+\n
+   Scenario 05\n
+"A Werewolf Howls"\n
+\n
+The damage to the\n
+Light Shrine was\n
+far worse than\n
+people though and\n
+if the Imperial\n
+Forces were to\n
+attack one more\n
+time, Elwin would\n
+not be able to\n
+protect Riana from\n
+them. Also, Mage\n
+Morgan was about\n
+to escape to the\n
+village near the\n
+shrine and would\n
+probably kill all\n
+the villagers for\n
+revenge. Elwin\n
+and his party\n
+pursued Morgan\n
+with Sherry, and\n
+Riana, who'd also\n
+decided to join\n
+their fight as a\n
+healer.\n
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies within\n
+  22 turns\n
+ -Elwin reaches\n
+  above map in\n
+  22 turns\n
+
+*Lose Condition\n
+ -Run out of\n
+  time\n
+ -Death of Elwin\n
+<>
+\n
+   Scenario 06\n
+"The Lone Warrior"\n
+\n
+Elwin and his\n
+party had managed\n
+to defeat the\n
+werewolfs, and\n
+Morgan was left\n
+with but a handful\n
+of soldiers. But\n
+the village was\n
+already in front\n
+of them and Morgan\n
+had already gone\n
+in. It seemed\n
+that there was\n
+something very\n
+important to him\n
+in the village.\n
+People were coming\n
+running and\n
+screaming from the\n
+village, except\n
+for one old brave\n
+Soldier with sharp\n
+eyes.\n
+\n
+*Win Condition\n
+ -Death of\n
+  enemies\n
+\n
+*Lose Condition\n
+ -Death of all\n
+  citizens\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 07\n
+"Revival of the\n
+old Spirits"\n
+\n
+With the joining\n
+of Sherrys sword\n
+teacher Aaron,\n
+night fell around\n
+the party. In this\n
+peaceful dimly-lit\n
+environment, an\n
+intense battle\n
+seemed unlikely to\n
+occur any time\n
+soon.\n
+\n
+However, in the\n
+graveyard outside\n
+the village,\n
+several men were\n
+participating in\n
+what appeared to\n
+be some kind of\n
+ceremony. There,\n
+the souls of the\n
+dead were being\n
+summoned from\n
+their slumber in\n
+to an evil\n
+existance.\n
+\n
+*Win Conditions\n
+ -Death of \n
+  Necromancer\n
+  Ginam\n
+\n
+*Lose Condition\n
+ -Death of all\n
+  citizens\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 08\n
+"The Great Bridge"\n
+\n
+After receiving\n
+word from Keith\n
+that the entirety\n
+of the Blue Dragon\n
+Knight's army were\n
+advancing towards\n
+Karzas Castle,\n
+Sherry tried to\n
+hurry back to the\n
+castle. Keith\n
+also joined them\n
+to guide Sherry\n
+and the party\n
+back to Karzas\n
+Castle.\n
+\n
+In the vicinity of\n
+Karzas Castle,\n
+there was a wide\n
+crevice. Elwin's\n
+party decided to\n
+cross a certain\n
+bridge that would\n
+cut many days off\n
+of their journey,\n
+but they found\n
+a branch of the\n
+Blue Dragon\n
+Knights, led by\n
+Kramer, attempting\n
+to lower the\n
+bridge. If Kramer\n
+was successful in\n
+lowering the\n
+bridge, it would\n
+add a few days to\n
+their journey,\n
+and Karzas Castle\n
+would almost\n
+certaintly fall.\n
+\n
+*Win Condition\n
+ -Death of\n
+  Kramer within\n
+  23 turns\n
+\n
+*Lose Condition\n
+ -Run out of\n
+  time\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 09\n
+"The seige of\n
+Karzas Castle"\n
+\n
+Thanks to a\n
+brilliant charge\n
+by Elwin and his\n
+party, they were\n
+able to defeat\n
+Kramer and cross\n
+the bridge to\n
+Karzas Castle.\n
+\n
+The moment they\n
+step out of the\n
+forest, Elwin sees\n
+the castle\n
+defending against\n
+a fierce attack\n
+by the Blue Dragon\n
+Knights. The\n
+defenders of the\n
+castle were\n
+putting up a\n
+brave struggle,\n
+but due to the\n
+superiority of the\n
+soldiers led by\n
+Leon and Laird,\n
+the castle's fall\n
+was inevitable if\n
+Elwin and his\n
+party did not do\n
+something soon.\n
+The intense\n
+battle for Karzas\n
+Castle unfolded.\n
+\n
+*Win Condition\n
+ -Death of Laird\n
+\n
+*Lose Condition\n
+ -Death of all\n
+  NPC members\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 10\n
+"The defender of\n
+the Raul River"\n
+
+\n
+After learning the\n
+true horrors of\n
+the sword Alhazard\n
+from the Priest of\n
+Estol, and being\n
+told that for the\n
+Empire to restore\n
+Alhazard\n
+completely, the\n
+magical Dark Rod\n
+would be required,\n
+Elwin decided to\n
+seek out the Dark\n
+Rod in hopes that\n
+if he obtained it\n
+first, the Empire\n
+would not be able\n
+to revive Alhazard\n
+without it.\n
+\n
+Elwin and his\n
+party rushed to\n
+the Raul River to\n
+meet a Wizard who\n
+was said to know\n
+the location of\n
+the Dark Rod.\n
+But when they got\n
+there, they were\n
+stopped by Lester,\n
+the defender of\n
+the Raul River.\n
+\n
+*Win Condition\n
+ -Death of\n
+  Lester\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+
+\n
+Scenario 11\n
+"Inside the Flame"\n
+\n
+Lester guided\n
+Elwin's party to\n
+meet the Wizard\n
+who was rumoured\n
+to know the\n
+location of the\n
+Dark Rod, the\n
+Great Wizard\n
+Jessica who was\n
+said to have lived\n
+hundreds of years.\n
+\n
+However, the\n
+Rayguard Empire\n
+had plans of their\n
+own, and the Black\n
+Dragon Dark Priest\n
+Eggbert was\n
+secretly devising\n
+one of his own.\n
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+ -Death of\n
+ Jessica\n
+<>
+\n
+Scenario 12\n
+"The Holy Land\n
+Reital"\n
+\n
+The Holy Land\n
+Reital. Surrounded\n
+by rocky mountains\n
+and so skillfully\n
+hidden beyond the\n
+eyes of men, no\n
+man had ever set\n
+a foot inside,\n
+and there was no\n
+trace of Eggbert.\n
+And inside the\n
+cave, the ancient\n
+guardians and\n
+protectors of the\n
+Dark Rod awaited\n
+the intruders.\n
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+ -Get the dark\n
+  rod\n
+\n
+*Lose Condition\n
+ - Death of Elwin\n
+<>
+\n
+Scenario 13\n
+"Battle with the\n
+Fire Dragon Corps"\n
+\n
+Elwin and his\n
+party managed to\n
+defeat the ancient\n
+Guardians, but\n
+before they could\n
+obtain the Dark\n
+Rod, Eggbert\n
+suddenly appeared\n
+and with his magic\n
+managed to get the\n
+Dark Rod and get\n
+away.\n
+\n
+Moreover, Eggbert\n
+then teleported to\n
+Karzas Castle to\n
+kidnap Riana. The\n
+party, worried\n
+about Riana, tried\n
+to hurry back to\n
+Karzas Castle to\n
+see what they\n
+could do, but\n
+General Vargas the\n
+Valiant was\n
+waiting for them\n
+to hinder their\n
+progress.\n
+\n
+*Win Condition\n
+ -Death of\n
+  General Vargas\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 14\n
+"The race for\n
+Langrisser"\n
+\n
+Hundreds of years\n
+ago, it is said\n
+that the\n
+Descendants of\n
+Light once ruled\n
+the Kingdom of\n
+Baltia. The\n
+legendary ancient\n
+castle now rested\n
+quietly at the\n
+bottom of a lake.\n
+With Jessica's\n
+help, Elwin and\n
+his party were\n
+able to find\n
+Baltia castle, and\n
+within it, the\n
+holy sword,\n
+Langrisser. Elwin\n
+and his party\n
+weren't the only\n
+people seeking\n
+Langrisser,\n
+however, as the\n
+Blue Dragon\n
+Knights were also\n
+at Baltia castle\n
+with the same\n
+purpose in mind.\n
+Now, after\n
+hundreds of years,\n
+the stage was set\n
+once again for the\n
+struggle of the\n
+holy sword\n
+Langrisser.\n
+\n
+*Win Condition\n
+ -Elwin, Jessica\n
+  or Sherry\n
+  gets to\n
+  Langrisser\n
+ -Death of the\n
+  Blue Dragon\n
+  Knight Leon\n
+\n
+*Lose Condition\n
+ -Leon reaches\n
+  Langrisser\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 15\n
+"The battle at\n
+Roleck River"\n
+\n
+Elwin's party had\n
+at last retrieved\n
+Langrisser and\n
+decided to go to\n
+Rayguard to rescue\n
+Riana. With little\n
+time left, however\n
+the quickest route\n
+to Rayguard was\n
+to trudge across\n
+the Roleck River.\n
+However, on the\n
+opposite shore,\n
+the Amazon Imelda\n
+has been awaiting\n
+them. While at a\n
+disadvantage,\n
+Elwin and his\n
+party decided\n
+there wasn't\n
+enough time to\n
+find another\n
+route. Though\n
+worried about\n
+Riana, Elwin\n
+drew his sword\n
+and prepered to\n
+fight Imelda.\n
+\n
+*Win Condition\n
+ -Beat General\n
+  Imelda\n
+ -Elwin reaches\n
+  the bottom of\n
+  the map\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 16\n
+"The Blue Dragon\n
+Knights again"\n
+\n
+Riana was\n
+apparantely being\n
+controlled by\n
+someone, and\n
+Elwin and his\n
+party were in\n
+shock over her\n
+complete and\n
+total change.\n
+\n
+At last, Emperor\n
+Bernhardt would\n
+reveal himself.\n
+His castle was\n
+designed to be\n
+hard to attack,\n
+and easy to\n
+defend. Bernhardt\n
+had, in just one\n
+generation,\n
+formed a nation,\n
+and had taken over\n
+half a continent.\n
+\n
+But now he was\n
+planning to use\n
+Alhazard, the\n
+legendary sword\n
+of evil, to unify\n
+the entire\n
+continent. To\n
+prevent this,\n
+Elwin's party had\n
+to penetrate into\n
+Bernhardt's castle\n
+and stop him\n
+before Alhazard's\n
+seal was broken.\n
+\n
+But as Elwin and\n
+his party\n
+approached the\n
+castle gates,\n
+they saw Elwin's\n
+old rival, Leon,\n
+waiting for them.\n
+The final battle\n
+with the Blue\n
+Dragon Knights\n
+had begun.\n
+\n
+*Win Condition\n
+ -Death of Blue\n
+  Dragon Knight\n
+  Leon\n
+ -OR One character\n
+  reaches the\n
+  gate of the\n
+  castle\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 17\n
+"Emperor\n
+Bernhardt"\n
+\n
+Elwin's party\n
+defeated the Blue\n
+Dragon Knights and\n
+broke into the\n
+castle to find a\n
+hard bodied man\n
+with piercing eyes\n
+sitting on a\n
+throne. He looked\n
+more like a\n
+soldier than an\n
+Emperor, but he\n
+seemed to carry an\n
+air of dignity\n
+that seperated him\n
+from normal\n
+soldiers.\n
+\n
+Near him was a man\n
+with an evil smile\n
+standing back,\n
+looking extremely\n
+interested in\n
+the party that\n
+had fought their\n
+way through so\n
+many of the\n
+Empire's best\n
+soldiers.\n
+\n
+Elwin and his\n
+party had very\n
+little time to\n
+prepare their\n
+soldiers, while\n
+Bernhardt calmly\n
+awaited the\n
+decisive battle.\n
+\n
+*Win Condition\n
+ -Death of\n
+  Emperor\n
+  Bernhardt\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 18\n
+"The Dark Princess\n
+Larna"\n
+\n
+Hot on Bosel's\n
+heels to Velzeria,\n
+Elwin and his\n
+party came across\n
+a village being\n
+attacked by\n
+demons. Laughing\n
+amidst the carnage\n
+was a young girl.\n
+Elwin couldn't\n
+believe it when\n
+he saw that the\n
+young girl was\n
+Riana.\n
+\n
+Despite being at\n
+a total loss as to\n
+what had happened\n
+to Riana to make\n
+her evil and allow\n
+her to be able to\n
+control monsters,\n
+Elwin and his\n
+party rushed to\n
+stop Riana.\n
+
+\n
+*Win Condition\n
+ -Death of Great\n
+  Dragon\n
+ -Death of Dark\n
+  Princess\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+ -Death of all\n
+  the people in\n
+  the village\n
+<>
+\n
+Scenario 19\n
+"Battle at Mireil"\n
+\n
+After Elwin and\n
+his party managed\n
+to save the little\n
+village under\n
+attack from the\n
+Dark Princess and\n
+her Dragon, the\n
+grateful villagers\n
+informed Elwin of\n
+preparations going\n
+on at the Imperial\n
+Port in Mireil.\n
+\n
+Elwin and his\n
+party decided that\n
+they would capture\n
+a boat from this\n
+port and thus\n
+would be able to\n
+get to Velzeria\n
+much quicker via\n
+the Dires channel.\n
+\n
+Elwin and his\n
+party began the\n
+operation to\n
+capture the ship.\n
+\n
+*Win Condition\n
+ -Death of\n
+  General Imelda\n
+  in 23 turns\n
+\n
+*Lose Condition\n
+ -Run out of\n
+  time\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 20\n
+"The Red Sea"\n
+\n
+After Defeating\n
+Imelda, and\n
+successfully\n
+taking the boat,\n
+Elwin left for\n
+Velzeria to rescue\n
+Riana.\n
+\n
+Inside the calm\n
+heavens, the trip\n
+seemed to be going\n
+smoothly, but a\n
+big ship from\n
+Velzeria drew\n
+near. On that ship\n
+were monsters\n
+controlled by\n
+Bosel for an\n
+ambush, and they\n
+had come to stop\n
+and challenge\n
+Elwin's invasion.\n
+Two boats joined\n
+via gangplanks,\n
+and the fight\n
+began between\n
+the two boats.\n
+
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 21\n
+"Marionette"\n
+\n
+The forbidden\n
+land Velzeria....\n
+It had been around\n
+for hundreds of\n
+years.\n
+\n
+The Descendants of\n
+Light had defeated\n
+Bosel here before.\n
+The mountain\n
+ranges surrounded\n
+the area. It was\n
+also said the God\n
+of Chaos was in\n
+this cursed land.\n
+\n
+When Elwin found\n
+the bay and tried\n
+to land, the Dark\n
+Princess, being\n
+controlled by\n
+Bozel once again,\n
+stood in his way.\n
+\n
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 22\n
+"Alhazards\n
+Revival"\n
+\n
+To prevent the\n
+dark sword\n
+Alhazard's release\n
+Elwin's party\n
+finally made it to\n
+the Temple of\n
+Darkness, where\n
+an astonishing\n
+sight awaited\n
+them.\n
+
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+ -Death of\n
+  Jessica\n
+<>
+\n
+Scenario 23\n
+"The Light Rod"\n
+\n
+Finally Alhazard's\n
+seal was broken.\n
+But Bernhart, who\n
+everyone thought\n
+dead had appeared,\n
+and had taken\n
+Alhazard from\n
+Bosel.\n
+\n
+Moreover, to\n
+accomplish his\n
+ambition of\n
+continental\n
+unification,\n
+Bernhart\n
+planned to awaken\n
+the dark power of\n
+Alhazard which\n
+would cover the\n
+world in darkness\n
+and give Bernhardt\n
+immense powers.\n
+\n
+Due to Jessica's\n
+sacrafice, they\n
+flew to Velzeria.\n
+Both Riana and\n
+Lana had had their\n
+spells broken,\n
+and Lana told\n
+Elwin that\n
+Langrisser's power\n
+was not yet\n
+complete. Now, to\n
+release\n
+Langrisser's full\n
+power, Elwin's\n
+party had gone to\n
+Elrad where the\n
+Holy Rod was said\n
+to exist, which\n
+had the ability\n
+to awaken the full\n
+power of\n
+Langrisser.\n
+
+\n
+*Win Condition\n
+ -The person\n
+  with the light\n
+  rod reaches\n
+  the top of\n
+  the map\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ -If the light\n
+  rod is lost\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 24\n
+"Light and Dark"\n
+\n
+After a long and\n
+intense battle\n
+with Laird,\n
+finally Elwin's\n
+party obtained the\n
+Holy Rod.\n
+\n
+The maiden of\n
+light, Riana, and\n
+Lana at last began\n
+the ceremony to\n
+release\n
+Langrisser's seal.\n
+\n
+Now, the Legendary\n
+Sword's power had\n
+been released.\n
+\n
+However, Bernhardt\n
+had been waiting\n
+this moment, and\n
+waged an attack.\n
+
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 25\n
+"The continent's\n
+strongest knights"\n
+\n
+The source of all\n
+evil, the cursed\n
+castle Velzeria\n
+castle.... Within\n
+the castle's\n
+deepest halls,\n
+Emperor Bernhart,\n
+who wielded\n
+Alhazard awaited.\n
+\n
+But first before\n
+him, the Blue\n
+Dragon Knight Leon\n
+and Eggbert stood\n
+before Elwin.\n
+Moreover, Eggbert\n
+was holding\n
+Jessica captive.\n
+\n
+Neither side could\n
+surrender, and\n
+an intense battle\n
+begun.\n
+
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 26\n
+"The Black Dragon\n
+Sorcerer's Trap"\n
+\n
+Elwin defeated his\n
+destined rival\n
+Leon, and invaded\n
+Velzeria Castle,\n
+and while rushing\n
+towards the\n
+underground temple\n
+fell into a secret\n
+passageway. There\n
+lay the leader\n
+of the Black\n
+Dragon Sorcerers,\n
+Eggbert, who\n
+waited to encircle\n
+the party.\n
+\n
+Surrounded by\n
+enemies on all\n
+sides, Elwin's\n
+party begun taking\n
+massive magical\n
+attacks from the\n
+Black Dragon\n
+Sorcerers.\n
+
+\n
+*Win Condition\n
+ -Death of Mage\n
+  Eggbert\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario 27\n
+"The end of the\n
+legend"\n
+\n
+Elwin and the\n
+party finally made\n
+it to their final\n
+battle with\n
+Bernhardt.\n
+\n
+In the deepest\n
+halls of Velzeria\n
+castle, Bernhardt\n
+had awaited them.\n
+\n
+The Temple of\n
+Darkness was\n
+eerily silent.\n
+At the altar stood\n
+Bernhart, with\n
+Alhazard. With\n
+the destructive\n
+power within\n
+Alhazard,\n
+Bernhart's eyes\n
+were filled with\n
+confidence and\n
+fighting spirit.\n
+
+\n
+*Win Condition\n
+ -Death of\n
+  Bernhardt\n
+\n
+*Lose Condition\n
+ -Death of Elwin\n
+<>
+\n
+Scenario ?1\n
+"The temple of\n
+Muscle"\n
+\n
+Eggbert took the\n
+rod for himself,\n
+and Elwin's party\n
+discovered a\n
+secret tunnel and\n
+decided to\n
+investigate it.\n
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ Death of Elwin\n
+<>
+\n
+Scenario ?2\n
+"Fierce Battle of\n
+Diress"\n
+\n
+With the\n
+preparations of\n
+the large ship\n
+incomplete, Elwins\n
+party decided to\n
+leave on small\n
+boats, one for\n
+each Commander.\n
+\n
+However, in the\n
+horizon, Elwin\n
+saw an imperial\n
+boat that was\n
+persuing them.\n
+\n
+Could it perhaps\n
+be General Imeldas\n
+troops who meant\n
+to avenge her\n
+defeat? Elwin and\n
+his group got\n
+ready to face\n
+what they expected\n
+to be a quick\n
+battle.\n
+\n
+However, the\n
+Rayguard troops\n
+aboard the tiny\n
+ship were prepared\n
+to fight fiercely\n
+for their fallen\n
+general.\n
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ Death of Elwin\n
+<>
+\n
+Scenario ?3\n
+"Magic Dragon's
+Lair"\n
+\n
+In the temple,\n
+Elwin's party\n
+continued to\n
+progress deeper\n
+into a dragon's\n
+lair, and passed\n
+through a\n
+dangerous\n
+passageway. They\n
+opened the passage\n
+and entered the\n
+cave to find that\n
+it was actually a\n
+Great Dragon's\n
+Lair. Inside was\n
+one person, a\n
+young  female\n
+witch who lived\n
+there....\n
+\n
+Who was she? For\n
+what purpose did\n
+she live there?\n
+Everything was\n
+unusual about\n
+this strange\n
+young girl.\n
+\n
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ Death of Elwin\n   
+<>
+\n
+Scenario ?4\n
+"The Death Tower"\n
+\n
+Elwin accepted\n
+Eggberts challenge\n
+and entered the\n
+Death Tower. There\n
+Bernhardt began\n
+the assualt of\n
+many powerful\n
+enemies.\n
+\n
+The situation was\n
+also worsened by\n
+Eggberts powerful\n
+magic and the\n
+power of Alhazard,\n
+and it seemed that\n
+the enemies were\n
+more powerful than\n
+usual. Though many\n
+familiar faces\n
+were fighting,\n
+they had newfound\n
+strength. Moreover\n
+Elwin's friends\n
+were captured on\n
+each floor, and\n
+even if Elwin was\n
+to use stage\n
+select, this\n
+battle appeared\n
+to be a\n
+disadvantagous\n
+battle situation.\n
+\n
+With only Hain by\n
+side, whether or\n
+not he could\n
+defeat these\n
+poweful enemies,\n
+and capture each\n
+floor of the\n
+impressive Death\n
+Tower all fell\n
+to Elwin's\n
+strategy.\n
+\n
+*Win Condition\n
+ -Death of all\n
+  enemies\n
+\n
+*Lose Condition\n
+ Death of Elwin\n
+<>

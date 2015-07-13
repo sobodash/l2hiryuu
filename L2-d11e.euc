@@ -1,0 +1,388 @@
+<Scenario 11>
+[0000:0019726C:02091D01 Lester]
+Lester: Miss Jessica!
+There's some people here to see you.<>
+
+[0001:00197278:020A1901 Jessica]
+Jessica: Welcome, everybody.
+I am Jessica.<>
+
+[0002:00197280:02051101 Hain]
+Hain: What!
+This person, for hundreds of years...
+She still looks so young no matter how I look at her!<>
+
+[0003:00197288:02010101 Elwin]
+Elwin: Pleased to meet you, Lady Jessica.
+I am Elwin.<wait>
+There is a matter, which I must consult you.
+That is why I am here...<>
+
+[0004:00197290:020A1901 Jessica]
+Jessica: The sword of Darkness Alhazard, yes?
+And what you want to know is the
+whereabouts of the Dark Rod.<>
+
+[0005:00197298:02040D01 Sherry]
+Sherry: !?
+How did you know that?<>
+
+[0006:001972A0:020A1901 Jessica]
+Jessica: The Imperial armies have been on the attack at the borders. 
+Following that the world will be filled with waves of evil and chaos. 
+An ancient relic lying dormant...<wait>
+All of this can only mean one thing... the Sword of the Dark, Alhazard.<>
+
+[0007:001972A8:02082501 Aaron]
+Aaron: Wow, you know so much.
+Not bad.<>
+
+[0008:001972B0:020A1901 Jessica]
+Jessica: The cause of the waves of destruction this time has nothing at all to do with Alhazard.<wait>
+Alhazard is still dormant and has yet to fully regain it's strength.<>
+
+[0009:001972B8:02010101 Elwin]
+Elwin: For that very reason, we have to get Dark Rod first before the empire!
+Before any more damage is done!<>
+
+[000A:001972C0:020A1901 Jessica]
+Jessica: Dark Rod can be found at the Sacred Ground, Reital.<>
+
+[000B:001972C8:02010101 Elwin]
+Elwin: The Sacred Ground.... Reital.<>
+
+[000C:001972D8:02144D01 Eggbert]
+Eggbert: I see.  I would've never 
+suspected it to be in such a place.<>
+
+[000D:001972E0:020A1901 Jessica]
+Jessica: That voice?!
+Eggbert!!<>
+
+[000E:001972E8:02051101 Hain]
+Hain: It's Eggbert!?
+The legendary sorcerer from the Rayguard Empire!<wait>
+Those who practise the black arts all know of him and his immense powers!<>
+
+[000F:001972F0:02072101 Keith]
+Keith: I too have heard of his magical prowess, and his brilliant use of strategy.
+He is responsible for the defeat of numerous kingdoms at the hands of the Empire....<>
+
+[0010:001972F8:02144D01 Eggbert]
+Eggbert: Ooh.... You're all well informed....<wait>
+Still, I now know the location of the Dark Rod.
+There is no longer the need to make use of you all.
+All of you will perish here.<>
+
+[0011:00197300:020A1901 Jessica]
+Jessica: Eggbert! No, stop!<>
+
+[0012:00197308:02144D01 Eggbert]
+Eggbert: Hehehe...
+No matter what you say, you will not be able to save even one of their lives!<>
+
+[0013:00197310:02091F01 Lester mad]
+Lester: Eggbert! Dammit, How dare you say such things to Miss Jessica?! <wait>
+Here marks the end of your evil doings!<>
+
+[0014:00197318:02144D01 Eggbert]
+Eggbert: Heh....
+I think Lester thinks that I will be his only opponent.
+Not quite!!!<>
+
+[0015:00197344:022B6A01 Bandit grey]
+Imperial General: Master Eggbert!
+The others have arrived!<>
+
+[0016:0019734C:02091D01 Lester]
+Lester: What the?!
+Hey, something reeks like oil....<>
+
+[0017:00197354:02082501 Aaron]
+Aaron: Be careful!
+He's planning something...<>
+
+[0018:00197386:0200FF00 ]
+": The rune stone is found!<>
+
+[0019:0019739E:02010201 Elwin dead]
+Elwin: What?!
+My end is here....<>
+
+[001A:001973AC:02051201 Hain dead]
+Hain: It's too cruel....<>
+
+[001B:001973B6:02040E01 Sherry dead]
+Sherry: Aaaah!<>
+
+[001C:001973C0:02082601 Aaron dead]
+Aaron: Damn! I'm dead...<>
+
+[001D:001973CA:02072201 Keith dead]
+Keith: What!?
+I was too careless....<>
+
+[001E:001973D4:02091E01 Lester dead]
+Lester: Damn!
+I let my guard down....<>
+
+[001F:001973F4:020A1901 Jessica]
+Jessica: Eggbert...
+As I thought, you plan to break the seal
+of Alhazard.<>
+
+[0020:001973FC:02144D01 Eggbert]
+Eggbert: Oh, so you knew eh? You may have transmigrated and been reborn, 
+but will you be able to defeat me?<>
+
+[0021:00197404:020A1901 Jessica]
+Jessica: You are right. From an old, dying body, I transmigrated to a younger body 
+and was reborn. My magical powers are also recovering.<wait>
+However.... if you revive Alhazard, you will not be a match for it! You 
+don't know what you're getting yourself into!<>
+
+[0022:0019740C:02144D01 Eggbert]
+Eggbert: Is that so....
+If it's true I will take my chances.
+But for you, you will die here!<>
+
+[0023:0019741A:02091D01 Lester]
+Lester: Miss Jessica only needs to lift but one finger to deal with you!<>
+
+[0024:00197422:02144D01 Eggbert]
+Eggbert: I see you're still the same good-natured man.<>
+
+[0025:00197430:020A1901 Jessica]
+Jessica: Apparently, the Empire is serious about removing the seal from Alhazard.
+I shall deal with it.<>
+
+[0026:00197438:02010101 Elwin]
+Elwin: Hurry up!
+I won't allow Dark Rod to fall into the hands of the Empire!<>
+
+[0027:00197442:020A1A01 Jessica dead]
+Jessica: Ahhh, the sky is a shade of blue....<>
+
+[0028:00197458:02144D01 Eggbert]
+Eggbert: Weakling.... I have never met my match before in my life.<wait>
+I shall get to the Sacred Ground Reital first.<>
+
+[0029:00197468:02144D00 Eggbert]
+Eggbert: How thoughtless to raise a sword against me...<>
+
+[002A:00197472:02144D01 Eggbert]
+Eggbert: Indeed there is no one who can surpass in strength and power.
+However now is not the time to finish this matter.<wait>
+I'll go to the Sacred Ground Reital early.<>
+
+[002B:00197480:02144D01 Eggbert]
+Eggbert: However, before that, I want to thank you.<>
+
+[002C:0019749C:02144D01 Eggbert]
+Eggbert: Don't let them escape!<>
+
+[002D:001974A4:022A9F01 I. soldier 5 blue]
+Imperial General: Die!!!<>
+
+[002E:001974B2:022A9F01 I. soldier 5 blue]
+Imperial General: Run for your lifes, fools!<>
+
+[002F:001974BC:022AA001 I. soldier 5 blue dead]
+Imperial General: What?!<>
+
+[0030:001974C6:022B6B01 Bandit grey dead]
+Imperial General:H... How DARE you... you... urk...<>
+
+[0031:001974D0:022C8401 I. saint blue dead]
+Imperial General: Dead....<>
+
+[0032:001974DA:022D8B01 I. soldier 1 yellow]
+Imperial General: Don't let them escape, all of them must die!<>
+
+[0033:001974E2:02010101 Elwin]
+Elwin: Are you serious!?
+If you are to do that, I shall use fire to trap and attack you!<>
+
+[0034:001974EA:022D8B01 I. soldier 1 yellow]
+Imperial General: No! It does not matter how big the flame is!<wait>
+For the Empire, we can even lay down our lives!<wait>
+Forward! We must kill all of them!<>
+
+[0035:001974F4:022D8C01 I. soldier 1 yellow dead]
+Imperial General: Why are we defeated?!<>
+
+[0036:001974FE:022E9E01 I. soldier 4 yellow dead]
+Imperial General: Argh...<>
+
+[0037:00197508:022F9E01 I. soldier 4 yellow dead]
+Imperial General: What!<>
+
+[0038:00197512:02308601 I. saint grey dead]
+Imperial General:Aahhh...<>
+
+[0039:0019751C:0231A601 I. water soldier blue dead]
+Imperial General: We've lost....<>
+
+[003A:00197526:0232A101 I. soldier 5 purple]
+Imperial General: Your destinies shall end here!<>
+
+[003B:00197530:0232A100 I. soldier 5 purple]
+Imperial General: Aaaaaaaaaaaah!<>
+
+[003C:0019753A:0232A201 I. soldier 5 purple dead]
+Imperial General: Why....<>
+
+[003D:00197560:020A1901 Jessica]
+Jessica: The fire, due to the oil has spread too early and quickly.
+While we are battling our enemies, we could be trapped within the fire.<>
+
+[003E:0019756E:02091D01 Lester]
+Lester: Elwin, I will protect Jessica! 
+The rest of you quickly finish off the remaining enemies!<>
+
+[003F:00197576:02010101 Elwin]
+Elwin: Alright!
+I understand, Lester!<>
+
+[0040:0019757E:02091D01 Lester]
+Lester:Yes!
+Leave it to me!<>
+
+[0041:00197586:020A1901 Jessica]
+Jessica: Lester, thank you.<>
+
+[0042:0019758E:02091D00 Lester]
+Lester: Please don't mention it.
+It is only right that we protect Miss Jessica.<>
+
+
+[0043:001975BE:02051101 Hain]
+Hain:By the way, Jessica.
+Can I call you teacher from now on?<wait>
+Truth is, I'm studying to become a magician, so
+I've always wanted to become a famous magician's pupil.<>
+
+[0044:001975CC:02040D01 Sherry]
+Sherry:I've been thinking about that, 
+But you're pretty carefree, aren't you, Hain?!<wait>
+Why don't you worry about flames!<>
+
+[0045:001975D4:02051101 Hain]
+Hain:But we might not have another opportunity like this!<wait>
+I doubt you'll understand, Sherry, but to a magician,
+searching for a teacher is a matter of life and death!<>
+
+[0046:001975DC:020A1C01 Jessica sad]
+Jessica:Sorry.
+I don't plan on taking another pupil.<>
+
+[0047:001975E4:02051401 Hain sad]
+Hain:Eh?! But you don't...<wait>
+I...<>
+
+[0048:001975EC:02091D01 Lester]
+Lester:I'm sure you'll find a teacher...
+Don't worry about it too much.<>
+
+[0049:001975FA:0232A101 I. soldier 5 purple]
+Imperial General:You'll all fry here!<>
+
+[004A:00197602:02010101 Elwin]
+Elwin:Of all the times!<>
+
+[004B:0019760A:020A1901 Jessica]
+Jessica:Elwin!
+This isn't the time for such timid talking!
+That feather-like decoration is...<>
+
+[004C:00197612:02010101 Elwin]
+Elwin:...?  There's something about this Tiara...?<>
+
+[004D:0019761A:020A1901 Jessica]
+Jessica:Elwin, we must pay attention here...!
+I'll talk about it later!<>
+
+[004E:0019762A:02010101 Elwin]
+Elwin:Looks like we've got ourselves into something here...
+Anyway, we must escape, we'll talk later.<>
+
+[004F:00197638:020A1901 Jessica]
+Jessica:It seems Eggbert teleported.
+Let's hurry and get out of here too.
+At this rate, Eggbert will get his hands on the 
+Dark Rod first.<>
+
+[0050:0019765A:02307901 I. archmage red/grey]
+Imperial General:Don't let them escape!
+Don't let them go no matter what!<>
+
+[0051:00197666:02010101 Elwin]
+Elwin:Is everyone okay?<>
+
+[0052:00197674:02051101 Hain]
+Hain:Somehow, we're still alive.<>
+
+[0053:0019767C:020A1901 Jessica]
+Jessica:But if the place that holds the Dark Rod is
+guarded, you’ll need a rest.<wait>
+Shall I help you?<>
+
+[0054:00197684:02010101 Elwin]
+Elwin:Thank you, Jessica!<>
+
+[0055:0019768C:020A1901 Jessica]
+Jessica:Then we shall follow the path the Tiara had
+pointed out and act accordingly.<>
+
+[0056:00197694:02010101 Elwin]
+Elwin:This Tiala is a keepsake from my father,
+It's been passed down from generation to generation.
+There's just something about it...<>
+
+[0057:0019769C:020A1901 Jessica]
+Jessica:You've come all this way. I might as
+well take this opportunity to tell you. <wait>
+Long ago, I served in a royal castle.
+Just as you are, the prince was wearing that Tiala.
+And also, a boy...<>
+
+[0058:001976A4:02010101 Elwin]
+Elwin:I've heard something about it from Doren, my late mentor...
+But seriously...<wait>
+In other words, you're saying that I'm a descendant of the Royal Family of Baltia?!<>
+
+[0059:001976AC:020A1901 Jessica]
+Jessica:Yes.
+You are guided by brightness.<wait>
+And you are the one that will overcome in the battles surrounding
+the dark, evil-sword Alhazard. That is your mission!<>
+
+[005A:001976B4:02010101 Elwin]
+Elwin:Really.
+But I can't stop the revival of Alhazard just
+because it's "my mission".<wait>
+Evil will erupt throughout the continent.
+If the empire attains Alhazards power...<wait>
+No matter what we do, we must stop their greedy
+plans!<>
+
+[005B:001976BC:020A1901 Jessica]
+Jessica:Then we should head for the Holy Land of Reital...<>
+
+[005C:001976C8:02144D01 Eggbert]
+Eggbert:Hehehe...
+So it's goodbye, foolish ones.
+Burn in flames!<>
+
+[005D:001976E0:02091D01 Lester]
+Lester:I thought as much!
+This is what the oil was for!<>
+
+[005E:001976E8:02082501 Aaron]
+Aaron:We're down-wind!
+We'll be swallowed by the flames!<>
+
+[005F:001976F0:020A1901 Jessica]
+Jessica:The flames can't follow us across the river!
+Hurry, let's escape to the other bank!<>
+

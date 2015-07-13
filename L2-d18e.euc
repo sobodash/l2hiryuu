@@ -1,0 +1,359 @@
+<Scenario 18>
+[0000:001A4418:02203101 Civilian yellow]
+Villager: P, Please\nsave me!<>
+
+[0001:001A4420:020C5A01 Larna dark princess]
+Larna: Ah ha ha ha ha!
+Run away run away!
+If you don't escape you'll die!<>
+
+[0002:001A4428:02213101 Civilian yellow]
+Villager: Kyaaa!<>
+
+[0003:001A4450:020A1901 Jessica]
+Jessica: Please stop!<>
+
+[0004:001A4458:020C5A01 Larna dark princess]
+Larna: It's seems they showed up...<>
+
+[0005:001A4460:02010101 Elwin]
+Elwin: That's enough! There's no reason to attack the innocent!<>
+
+[0006:001A4468:02051101 Hain]
+Hain: Yeah!
+I'm really mad!<>
+
+[0007:001A4470:020C5A01 Larna dark princess]
+Larna: What a noble sense of justice!
+Bosel said humans are demon's food.<>
+
+[0008:001A4478:020A1901 Jessica]
+Jessica: We really must stop Bosel at all costs.<>
+
+[0009:001A4480:02072101 Keith]
+Keith: Where is there a safe place to evacuate the villagers....
+The city's south is cut off, but the west seems pretty easy to proctect.<>
+
+[000A:001A4488:02082501 Aaron]
+Aaron: Elwin, what will you do?<>
+
+[000B:001A4492:1D00FF00 ]
+ ": Make them go to the west?<>
+
+[000C:001A449E:02010101 Elwin]
+Elwin: Everyone!
+Go west!<>
+
+[000D:001A44CA:1D00FF00 ]
+ ": Make them go to the south?<>
+
+[000E:001A44D6:02010101 Elwin]
+Elwin: Everyone! Go south!<>
+
+[000F:001A4502:1D00FF00 ]
+ ": Order them not to move?<>
+
+[0010:001A450E:02010101 Elwin]
+Elwin: Please don't move from there.
+Please wait patiently!<>
+
+[0011:001A4540:02082501 Aaron]
+Aaron: I won't wait anymore!
+The villagers will go west!<>
+
+[0012:001A4548:02010101 Elwin]
+Elwin: I got it.
+Everyone go west!<>
+
+[0013:001A457E:020C5A01 Larna dark princess]
+Larna: It won't be long before this village
+is reduced to smoldering ashes! If you don't
+like that then prove to me that you have the
+power to stop it!<>
+
+[0014:001A4586:02010101 Elwin]
+Elwin: Why is the Dragon going after the city....<>
+
+[0015:001A4594:020A1901 Jessica]
+Jessica: She's controlling that fearsome dragon
+with the power she received from Bosel...
+And if Bosel possesses Alhazard's power, the world will be covered in darkness.
+If we don't defeat Bosel, we'll never achieve true peace!<>
+
+[0016:001A45A2:02010101 Elwin]
+Elwin: It's terrible, and this is all due to Bosel's powerful magic strength...<>
+
+[0017:001A45B0:02040D01 Sherry]
+Sherry: And if Bosel adds Alhazard's power to his own, it will become a really bad situation.<>
+
+[0018:001A45C6:02040D01 Sherry]
+Sherry: The Great Dragon is expectedly strong.<>
+
+[0019:001A45CE:02010101 Elwin]
+Elwin: Using our most powerful soldiers attacking at once, is probably the safest way.<>
+
+[001A:001A45DE:020A1901 Jessica]
+Jessica: To prevent Bosel's plans, we must quickly reach Velzeria.
+In that meantime, that man will be trying to revive Alhazard!<>
+
+[001B:001A45EC:02072101 Keith]
+Keith: As usual Jessica is right.
+However taking a land route we'll lose a lot of time.
+But with a boat we can go there via the Dires channel...<>
+
+[001C:001A45FA:02010101 Elwin]
+Elwin: But taking a land route will take to much time. If we 
+had a boat, we can cross the Dires channel, but....<>
+
+[001D:001A4602:020A1901 Jessica]
+Jessica: That's true.
+In that case we have to find boats.<>
+
+[001E:001A460C:020C5A01 Larna dark princess]
+Larna: Those who get in Lord Bosel's way have no right to live!<>
+
+[001F:001A4614:02010101 Elwin]
+Elwin: Bosel...
+He was that man near Bernhart....<>
+
+[0020:001A461C:020C5A01 Larna dark princess]
+Larna: Fu Fu Fu...<wait>
+Bernhart was our puppet from the beginning. 
+He was just a piece of the puzzle for Alhazard's complete revival.<>
+
+[0021:001A4624:02051101 Hain]
+Hain: Bernhart really was controlled by Bosel!<>
+
+[0022:001A462C:020A1901 Jessica]
+Jessica: We'll stop both Alhazard's revival and Bosel's ambition!<>
+
+[0023:001A4634:020C5A01 Larna dark princess]
+Larna: Fuu Fuu Fuu...
+You have that kind of power?<>
+
+[0024:001A463E:02010201 Elwin dead]
+Elwin: R, Riana....
+Why...<>
+
+[0025:001A4648:020C5A01 Larna dark princess]
+Larna: Ha ha ha!
+It's already over?
+Oh well, Lord Bosel's order are over with, I can withdraw now.<>
+
+[0026:001A4656:02051201 Hain dead]
+Hain: Uwaaa!<>
+
+[0027:001A4660:02040E01 Sherry dead]
+Sherry: Ouucchhhh!<>
+
+[0028:001A466A:02082601 Aaron dead]
+Aaron: Damn!
+She's strong!<>
+
+[0029:001A4674:02082500 Aaron]
+Aaron: Protect the villagers!<>
+
+[002A:001A467E:02072201 Keith dead]
+Keith: Damn, impossible....<>
+
+[002B:001A4688:02072100 Keith]
+Keith: Riana! Please wake up!<>
+
+[002C:001A4698:02091E01 Lester dead]
+Lester: Shit!
+I got beat!<>
+
+[002D:001A46A2:020A1A01 Jessica dead]
+Jessica: Ahhhh....<>
+
+[002E:001A46AC:02061601 Scott dead]
+Scott: Damn!<>
+
+[002F:001A46B6:02203201 Civilian yellow dead]
+Villager: M, mommy...<>
+
+[0030:001A46BE:020C5A01 Larna dark princess]
+Larna: Ha ha ha....
+Humans are trash.<>
+
+[0031:001A46C8:02213201 Civilian yellow dead]
+Villager: No..
+I don't wanna di..e....<>
+
+[0032:001A46D0:020C5A01 Larna dark princess]
+Larna: Ha ha...
+Human's are so fragile.<>
+
+[0033:001A46DA:020C5A01 Larna dark princess]
+Larna: Personally, I want to test your test...<>
+
+[0034:001A46E8:020C5B01 Larna dark princess dead]
+Larna: Why....
+Damn.... But I must have wasted a lot of time for Imelda's departure....
+When we meet again, I'll take your lives.<>
+
+[0035:001A46FE:020C5A01 Larna dark princess]
+Larna: Well cute dragon. Burn everything in sight!<>
+
+[0036:001A4706:0254C401 Bone dragon]
+Great Dragon: GRAAAAAGH!!!<>
+
+[0037:001A4714:0254C400 Bone dragon]
+Great Dragon: ROOOOAARRGH!!!<>
+
+[0038:001A4722:0254C401 Bone dragon]
+Great Dragon: SCRRRRARGH!!!<>
+
+[0039:001A472C:020C5A01 Larna dark princess]
+Larna: What!!? 
+My cute little dragons are dead....<wait>
+Well its ok.
+I've wasted enough time for Imelda's depature.<wait>
+When we meet again I'll take your lives.<>
+
+[003A:001A4742:025EC201 Minotaur]
+Minotaur: Guuuuuuuuu!<>
+
+[003B:001A474C:025FC201 Minotaur]
+Minotaur: Gyuoooooo!<>
+
+[003C:001A4756:0252B601 Dragon blue]
+Wyvern: SCRAAAAAAAAKK!!!<>
+
+[003D:001A4760:023EB400 Scylla green]
+Scylla: I'll spill blood all over your face.<>
+
+[003E:001A476A:023EB401 Scylla green]
+Scylla: Uggyaaaa!<>
+
+[003F:001A4774:023FB400 Scylla green]
+Scylla: It's been awhile since I've eaten such delicious 
+looking humans. There's enough to go around!<>
+
+[0040:001A477E:023FB401 Scylla green]
+Scylla: I've been injured...<>
+
+[0041:001A4788:0245BB01 Lich green]
+Witch: Gufuu...<>
+
+[0042:001A4796:0245BB01 Lich green]
+Witch: I have mastered the evil ways, you really want to fight?...
+You really want to throw away your life eh.<>
+
+
+[0043:001A47A0:0246BB00 Lich green]
+Witch: Destroy!<>
+
+[0044:001A47AA:0246BB01 Lich green]
+Witch: How could you posses that kind of strength...<>
+
+[0045:001A47BE:020C5A01 Larna dark princess]
+Larna: As I expected...
+Be waiting for the power of Bosel's wrath!<>
+
+[0046:001A47CC:02203101 Civilian yellow]
+Villager: Ye, Yes.<>
+
+[0047:001A47D6:02091D01 Lester]
+Lester: If we're gonna go to Velzeria, we 
+gotta hurry up and get that boat.<>
+
+[0048:001A47EE:02203101 Civilian yellow]
+Villager: Please wait!
+Thanks to you, we were saved. This is a small gift 
+of our appreciation. Please accept this.<>
+
+[0049:001A47F6:0200FF00 ]
+ ": You were given the crown!<>
+
+[004A:001A480A:02040D01 Sherry]
+Sherry: No matter what Bosel must be defeated....
+Also for Riana...<>
+
+[004B:001A4812:02010101 Elwin]
+Elwin: ...Yeah.
+But why is Riana backing up Imelda?<>
+
+[004C:001A481A:020A1901 Jessica]
+Jessica: If we're worried, that's to be expected.
+We will have a huge battle ahead of us...
+Let's hurry to Mireil!<>
+
+[004D:001A4822:02010101 Elwin]
+Elwin: We don't have more time for a land route,
+therefore we have to take a ship. All right, let's go to Mireil!<>
+
+[004E:001A4830:02010101 Elwin]
+Elwin: Riana!<>
+
+[004F:001A483E:02040D01 Sherry]
+Sherry: ......<>
+
+[0050:001A484C:02051101 Hain]
+Hain: She left...<>
+
+[0051:001A4860:02082501 Aaron]
+Aaron: We don't have time for leisure!
+Imelda is preparing her departure for Velzeria!<>
+ 
+[0052:001A486E:02010101 Elwin]
+Elwin: .....The time wasted for Imelda's departure is...<>
+ 
+[0053:001A487C:02061501 Scott]
+Scott: Speaking of which, there's a port town called 
+Mireil in the area. There Imelda needs time to prepare 
+for her departure, she's planning to go to Velzeria.<>
+
+[0054:001A488A:02082501 Aaron]
+Aaron: Of course....<>
+
+[0055:001A4894:02010101 Elwin]
+Elwin: No matter what we've gotta defeat Bosel...
+To prevent evil from ruling the world...
+And for Riana....<>
+
+[0056:001A489E:020C5A01 Larna dark princess]
+Larna: I am....
+The Dark Princess, Larna!
+I'm not this Riana person!<>
+
+[0057:001A48B0:020A1901 Jessica]
+Jessica: With great pains I've moved close to her.
+I'll try to break Bosel's spell!
+Lumind, Lim, Dikas, Raihi, Oovi!<>
+
+[0058:001A48B8:020C5A01 Larna dark princess]
+Larna: Uu......
+Sto.....p.......
+...the pain.....<>
+
+[0059:001A48C2:02010101 Elwin]
+Elwin: Riana!<>
+
+[005A:001A48CA:020A1901 Jessica]
+Jessica: ...I seem to have failed.<wait>
+My power couldn't break the spell after all....<>
+
+[005B:001A48D8:02051101 Hain]
+Hain: If Jessica couldn't do it, it would be a waste for me to try.<>
+
+[005C:001A48E0:02010101 Elwin]
+Elwin: But why did they plan to attack the village....<>
+
+[005D:001A48EE:02203101 Civilian yellow]
+Villager: Well....
+At the Empire's Mireil port they are preparing for a departure.
+So that you couldn't interfere, it seems they needed to buy time.<>
+
+[005E:001A48FC:02213101 Civilian yellow]
+Villager: Well....
+At the Empire's Mireil port they are preparing for a departure.
+So that you couldn't interfere, it seems they needed to buy time.<>
+
+
+[005F:001A4904:02010101 Elwin]
+Elwin: Really!
+They were planning to use that ship to go to Velzeria!<>
+
+[0060:001A491A:02010101 Elwin]
+Elwin: Wake up Riana!<>

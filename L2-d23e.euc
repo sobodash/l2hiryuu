@@ -1,0 +1,300 @@
+<Scenario 23>
+[0000:001AD7A0:0211C601 Laird]
+Laird: This temple....
+Inside here upon the altar lies the Holy Rod.<>
+
+[0001:001AD7A8:022E8301 I. saint blue]
+Imperial General: We'll have to split up and check out each compartment
+indidivually.<>
+
+[0002:001AD7B0:0211C601 Laird]
+Laird: This will take up much time....<wait>
+Somebody is coming!
+The enemy?!<>
+
+[0003:001AD7DC:02030901 Larna]
+Larna: This is the place.
+Somewhere in these ruins is the Holy Rod.<>
+
+[0004:001AD7E4:02091D01 Lester]
+Lester: Hey, can you use magic to
+see where it is?<>
+
+[0005:001AD7EC:02051101 Hain]
+Hain: Maaaaybe....<>
+
+[0006:001AD7F4:02010101 Elwin]
+Elwin: Wait! The Blue Dragon Knights are here!<>
+
+[0007:001AD7FC:02061501 Scott]
+Scott: Leon isn't leading them, it looks like the sub-leader Laird!<>
+
+[0008:001AD804:0211C601 Laird]
+Laird: It's Elwin's group?
+Hurry, we must find it before they do!<>
+
+[0009:001AD80C:02020501 Riana]
+Riana: They seem to be going afer the rod too.
+Let us hurry!<>
+
+[000A:001AD814:02010101 Elwin]
+Elwin: Alright!
+Let's get it immediately!<>
+
+[000B:001AD81E:0211C601 Laird]
+Laird: Aerial troops follow me! Hold back the enemy!<wait>
+The other troops check out each and every room!
+No matter what we must obtain the Holy Rod before they do!<>
+
+[000C:001AD828:02010201 Elwin dead]
+Elwin: Damn....
+This is it.....<>
+
+[000D:001AD836:02051201 Hain dead]
+Hain: I'm beaten....<>
+
+[000E:001AD84E:02040E01 Sherry dead]
+Sherry: OUCH!
+Why did you do that?<>
+
+[000F:001AD866:02082601 Aaron dead]
+Aaron: Keh!  With such a
+wound, I'll...<>
+
+[0010:001AD87E:02072201 Keith dead]
+Keith: Can't stay awake...<>
+
+[0011:001AD896:02091E01 Lester dead]
+Lester: Damn it!
+You're tough!<>
+
+[0012:001AD8AE:02061601 Scott dead]
+Scott: Waugh!<>
+
+[0013:001AD8C6:02020601 Riana dead]
+Riana: Ah! Oh, no...<>
+
+[0014:001AD8EC:02030A01 Larna dead]
+Larna: To be defeated here...<>
+
+[0015:001AD908:0211C601 Laird]
+Laird: Leon has entrusted me with carrying out this mission....
+I won't allow failure.
+We will take that Rod!<>
+
+[0016:001AD912:0211C600 Laird]
+Laird: Let's go!<>
+
+[0017:001AD92A:0211C701 Laird dead]
+Laird: Why!?
+Why can't I surpass you?!<>
+
+[0018:001AD950:0211C601 Laird]
+Laird: Heh....not bad!<>
+
+[0019:001AD95A:022A9F01 I. soldier 5 blue]
+Imperial General: Yes!<wait>
+Let's go and crush the enemy!<>
+
+[001A:001AD964:022AA001 I. soldier 5 blue dead]
+Imperial General: Guuuuu....<>
+
+[001B:001AD97C:022B9F00 I. soldier 5 blue]
+Imperial General: Give up!<>
+
+[001C:001AD986:022BA001 I. soldier 5 blue dead]
+Imperial General: Impossible....<>
+
+[001D:001AD99E:022C9E01 I. soldier 4 yellow dead]
+Imperial General: Ugghh.....<>
+
+[001E:001AD9B6:022D9E01 I. soldier 4 yellow dead]
+Imperial General: Kyaaahhhh....<>
+
+[001F:001AD9CE:022E8401 I. saint blue dead]
+Imperial General: Ah... I'm... losing.... strength....<>
+
+[0020:001AD9E6:022F9E01 I. soldier 4 yellow dead]
+Imperial General: I'm sorry...
+It's over for me...<>
+
+[0021:001AD9FE:02307A01 I. archmage red/grey dead]
+Imperial General: So strong....<>
+
+[0022:001ADA16:02318401 I. saint blue dead]
+Imperial General: Kyahhhh!<>
+
+[0023:001ADA2E:02329E01 I. soldier 4 yellow dead]
+Imperial General: It looks like the time to meet all my buddy's has come....<wait>
+Ugghh!<>
+
+[0024:001ADA46:02337A01 I. archmage red/grey dead]
+Imperial General: Gufuu.....<>
+
+[0025:001ADA66:02010101 Elwin]
+Elwin: It's finally over....<>
+
+[0026:001ADA6E:02020501 Riana]
+Riana: Well now let's take the Holy Rod.<>
+
+[0027:001ADA76:021B2E00 Soldier 2 yellow]
+Soldier: Found it!
+This is the Holy Rod!<>
+
+[0028:001ADA7E:0200FF00 ]
+ ": The Holy Rod was taken!<>
+
+[0029:001ADE40:02072101 Keith]
+Keith: Not here....<>
+
+[002A:001ADE56:02082501 Aaron]
+Aaron: Not this room...<>
+
+[002B:001ADE6C:02061501 Scott]
+Scott: No good...
+It's not here.<>
+
+[002C:001ADE82:02091D01 Lester]
+Lester: Not in here.<>
+
+[002D:001ADE98:02051101 Hain]
+Hain: Nope....
+Not here.<>
+
+[002E:001ADEAE:02010101 Elwin]
+Elwin: ......
+This isn't it.....<>
+
+[002F:001ADEC4:02020501 Riana]
+Riana: This isn't the room.....<>
+
+[0030:001ADEDA:02040D01 Sherry]
+Sherry: It's not in here....<>
+
+[0031:001ADEE8:02030901 Larna]
+Larna: Not here.....<>
+
+[0032:001ADEF2:02740001 Crap]
+ ": It's not in\nhere!<>
+
+[0033:001AE44E:02740001 Crap]
+ ": It's here!<>
+
+[0034:001AE45C:02740001 Crap]
+ ": It's in here!<>
+
+[0035:001AE472:0211C601 Laird]
+Laird: It's here!<>
+
+[0036:001AE480:02740001 Crap]
+ ": It's in here!<>
+
+[0037:001AE544:02740001 Crap]
+ ": I have the Holy Rod!<>
+
+[0038:001AE552:02740001 Crap]
+ ": I got the Holy Rod!<>
+
+[0039:001AE55E:0200FF00 ]
+ ": I have the Holy Rod!<>
+
+[003A:001AE56A:02010101 Elwin]
+Elwin: Alright, let's go outside!<>
+
+[003B:001AE57A:02740001 Crap]
+ ": Yes!<>
+
+[003C:001AE5A0:0211C601 Laird]
+Laird: We have the Holy Rod.  Escape! Back me up!<>
+
+[003D:001AE5B2:02740001 Crap]
+ ": Holy Rod was taken!<>
+
+[003E:001AE5C8:0211C601 Laird]
+Laird: Alright, let hurry and escape!<wait>
+Everyone else back me up!<>
+
+[003F:001AE5D0:02010101 Elwin]
+Elwin: Damn!
+They got ahead of us....<wait>
+We can't let them get away!
+We must take the Rod back!>?
+
+[0040:001AE66C:0211C601 Laird]
+Laird: You can't follow us any further. Now we have nothing to
+fear from Langrisser.<>
+
+[0041:001AE674:02010101 Elwin]
+Elwin: Damn I we just had a little more....<>
+
+[0042:001AE686:02030900 Larna]
+Larna: Laird?!<>
+
+[0043:001AE68E:0211C800 Laird sad]
+Laird: Miss Larna! I can't believe it, I'll have to right you....<>
+
+[0044:001AE696:02030C00 Larna sad]
+Larna: Since Bosel was defeated, the spell controlling me was
+lifted.<>
+
+[0045:001AE69E:0211C600 Laird]
+Laird: Really!
+Well if Leon knew this we would most definitely be pleased!<>
+
+[0046:001AE6A6:02030C00 Larna sad]
+Larna: Well the truth is I wanted to be with Leon...<wait>
+....But stopping Alhazard covering the world with darkness is my mission. 
+Therefore, I'll even have to fight you and Leon.....<>
+
+[0047:001AE6AE:0211C801 Laird sad]
+Laird: Everyone you engage on the
+battlefield is an enemy, whether it
+be friend or lover.
+This is the way of war.<wait>
+We must fight each other with
+all of our might.
+That would be the greatest courtesy
+you could give me.<>
+
+[0048:001AE6C2:0211C601 Laird]
+Laird: Dammit!
+I've failed again....
+Shit.....
+Retreat!<>
+
+[0049:001AE6EE:02051101 Hain]
+Hain: We did it!
+Now we can confront Alhazard!<>
+
+[004A:001AE6F6:02030C01 Larna sad]
+Larna: ......<>
+
+[004B:001AE704:02020501 Riana]
+Riana: Big Sister.....<>
+
+[004C:001AE712:02041001 Sherry sad]
+Sherry: Fighting with Leon is quite painful....<>
+
+[004D:001AE71A:02030C01 Larna sad]
+Larna: No...it's ok.
+I have to seal Alhazard.
+Even if it means this....<>
+
+[004E:001AE722:02040D01 Sherry]
+Sherry: ....We need to end this war
+quickly, so we can all look upon
+each other as friends instead of
+enemies.<>
+
+[004F:001AE72A:02030901 Larna]
+Larna: ...Yes that's right.
+But first we must break Langrisser's seal.<>
+
+[0050:001AE732:02010101 Elwin]
+Elwin: At last, we can break Langrisser's seal, right....<>
+
+[0051:001AE73A:02020501 Riana]
+Riana: Let's hurry and break the seal, sister!<>
+
+[0052:001AE742:02030901 Larna]
+Larna: Yeah!<>

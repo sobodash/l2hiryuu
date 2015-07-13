@@ -1,0 +1,249 @@
+*Win Condition  
+ -Death of Baldo
+*Lose Condition 
+ -Death of Elwin
+ -Baldo escapes 
+  to lower right
+  of map        
+<>
+*Win Condition  
+ -Riana escapes 
+  to top of map 
+*Lose Condition 
+ -Death of Elwin
+ -Death of Riana
+<>
+*Win Condition  
+ -Death of      
+  enemies       
+*Lose Condition 
+ -Death of Elwin
+ -Death of Riana
+<>
+*Win Condition  
+ -Death of      
+  Mage Morgan   
+*Lose Condition 
+ -Death of      
+  Shinto priests
+ -Death of Riana
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies within
+  22 turns      
+ -Elwin reaches 
+  above map in  
+  22 turns      
+*Lose Condition 
+ -Run out of    
+  time          
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of      
+  enemies       
+*Lose Condition 
+ -Death of all  
+  citizens      
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of      
+  Necromancer   
+  Ginam         
+*Lose Condition 
+ -Death of all  
+  citizens      
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of      
+  Kramer within 
+  23 turns      
+*Lose Condition 
+ -Run out of    
+  time          
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of Laird
+*Lose Condition 
+ -Death of all  
+  NPC members   
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of      
+  Lester        
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+*Lose Condition 
+ -Death of Elwin
+ -Death of      
+  Jessica       
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+ -Get the dark  
+  rod           
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of      
+  General Vargas
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Elwin, Jessica
+  or Sherry     
+  gets to       
+  Langrisser    
+ -Death of the  
+  Blue Dragon   
+  Knight Leon   
+*Lose Condition 
+ -Leon reaches  
+  Langrisser    
+ -Death of Elwin
+<>
+*Win Condition  
+ -Beat General  
+  Imelda        
+ -Elwin reaches 
+  the bottom of 
+  the map       
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of Blue 
+  Dragon Knight 
+  Leon          
+ -One character 
+  reaches the   
+  gate of the   
+  castle        
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of Emporer 
+  Bernhardt     
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+-Death of Great 
+  Dragon        
+ -Death of Dark 
+  Princess      
+*Lose Condition 
+ -Death of Elwin
+ -Death of all  
+  the people in 
+  the village   
+<>
+*Win Condition  
+ -Death of      
+  General Imelda
+  in 23 turns   
+*Lose Condition 
+ -Run out of    
+  time          
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+*Lose Condition 
+ -Death of Elwin
+ -Death of      
+  Jessica       
+<>
+*Win Condition  
+ -The person    
+  with the dark 
+  rod reaches   
+  the bottom of 
+  the map       
+ -Death of all  
+  enemies       
+*Lose Condition 
+ -If the dark   
+  rod is lost   
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of Mage 
+  Eggbert       
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of      
+  Bernhardt     
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+ enemies        
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+*Lose Condition 
+ Death of Elwin 
+<>
+*Win Condition  
+ -Death of Witch
+*Lose Condition 
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+ *Lose Condition
+ -Death of Elwin
+<>
+*Win Condition  
+ -Death of all  
+  enemies       
+*Lose Condition 
+ -Death of Elwin
+<>

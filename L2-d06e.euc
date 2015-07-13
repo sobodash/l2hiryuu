@@ -1,0 +1,482 @@
+<Scenario 06>
+[0000:0018D834:022A7D01 I. warlock green/red]
+Imperial General: Lord Morgan,
+this village...<>
+
+[0001:0018D83C:02166201 Morgan]
+Morgan: Hmm, this'll do quite nicely.
+We still have one more task to
+accomplish.<>
+
+[0002:0018D844:022E9301 I. soldier 3 blue]
+Imperial General: We demand that you
+hand over an old document regarding
+the legend of the Alhazard!
+Any one who resists us will be
+executed!<>
+
+[0003:0018D84C:02166201 Morgan]
+Morgan: Lady Luck's with us, as
+we've been brought to the very
+village where the document
+about the Alhazard was hidden.<wait>
+After snatching away the stone
+tablet from Estole and obtaining
+the document from this village,
+our master, Lord Eggbert,
+will be quite pleased.<>
+
+[0004:0018D854:02082501 Aaron]
+Aaron: I'm afraid I can't let you do that.<>
+
+[0005:0018D85C:02166201 Morgan]
+Morgan: Waah-hah hah-hah!
+What do you think you, an
+old man, alone, can accomplish?<wait>
+Pay that geezer no mind.
+Begin searching for the parchment!<>
+
+[0006:0018D87C:02040D01 Sherry]
+Sherry: Did you forget about us?<>
+
+[0007:0018D884:02166201 Morgan]
+Morgan: Eeeeek!
+You defeat my werewolves and
+still you continue to chase me.
+What insolent people you are.<wait>
+Kill them all!!<>
+
+[0008:0018D8AE:02319F01 I. soldier 5 blue]
+Imperial General: Morgan, sir!
+We'll aid you in your fight!<>
+
+[0009:0018D8BC:02166201 Morgan]
+Morgan: In truth, their coming here was
+good timing.
+Now I'll give those conceited fools
+what for!<>
+
+[000A:0018D8CA:02166201 Morgan]
+Morgan: In truth, their coming here was
+good timing.
+Now, teach those stupid, conceited
+fools a lesson!<>
+
+[000B:0018D8D8:02051101 Hain]
+Hain: Huhhh.
+It's almost as though Morgan thinks
+he's in luck...<>
+
+[000C:0018D8E0:02166201 Morgan]
+Morgan: Hah hah hah!
+Today, everywhere I go I'm
+blessed with good fortune.<wait>
+You all will soon see what I'm
+talking about!<>
+
+[000D:0018D8E8:02051101 Hain]
+Hain: Is that so....?<>
+
+[000E:0018D8F6:02319F01 I. soldier 5 blue]
+Imperial General: Sir Morgan!?
+Heh, I guess I shouldn't get involved. <wait>
+Well, fine.
+As long as he gets rid of those
+irritants.<>
+
+[000F:0018D92C:02166201 Morgan]
+Morgan: It seems the more often
+I run into you guys, the more
+I lose.<wait>
+But this time around, I won't
+fail!<>
+
+[0010:0018D93E:02040D01 Sherry]
+Sherry: No matter how many times you try,
+the outcome will always be the same!<>
+
+[0011:0018D946:02166201 Morgan]
+Morgan: Eeeek!
+No, I won't allow it!<>
+
+[0012:0018D958:0200FF00 ]
+ ": Runestone found!<>
+
+[0013:0018D968:02010100 Elwin]
+Elwin: This ends here!
+I can't let such a sick and twisted
+person such as yourself continue with
+your schemes!<>
+
+[0014:0018D970:02166200 Morgan]
+Morgan: Eeeeeek!
+My, what a big mouth you are!<>
+
+[0015:0018D97A:02010201 Elwin dead]
+Elwin: I...I lost...to such
+a person....<>
+
+[0016:0018D98E:02051201 Hain dead]
+Hain: Dwah!<>
+
+[0017:0018D9A0:02061501 Scott]
+Scott: Waugh!<>
+
+[0018:0018D9B2:02020601 Riana dead]
+Riana: It, it can't be...<>
+
+[0019:0018D9BA:02010101 Elwin]
+Elwin: Riana!
+Fall back!  We'll be sure to get
+those Imperial scumbags!<>
+
+[001A:0018D9C2:02020601 Riana dead]
+Riana: Alright.<>
+
+[001B:0018D9CC:02040E01 Sherry dead]
+Sherry: Ouuuch.
+I couldn't help it.
+I'll retreat for now!<>
+
+[001C:0018D9DC:02082501 Aaron]
+Aaron: Everyone stay where you are.
+I'll protect you from danger.<>
+
+[001D:0018D9E4:02213301 Civilian red]
+Villager: Y, yes.<>
+
+[001E:0018D9EE:02082500 Aaron]
+Aaron: I won't allow you to lay
+one finger on the people of this
+village!<>
+
+[001F:0018D9F8:02082601 Aaron dead]
+Aaron: Is, is this it...?<>
+
+[0020:0018DA08:02040D01 Sherry]
+Sherry: Teacher!?
+Please stop and get out
+of harm's way!<>
+
+[0021:0018DA10:02082601 Aaron dead]
+Aaron: Oh, if it isn't Sherry!
+I'm sorry, but I can't stand any
+longer.<>
+
+[0022:0018DA1E:02166201 Morgan]
+Morgan: Hah-haah!
+Finally the old geezer shuts up!<>
+
+[0023:0018DA32:02166201 Morgan]
+Morgan: Isn't this battle amusing? All these
+people screaming, and you standing there
+wheezing at us!<wait>
+If you're so tired, why don't you just
+go home, you old windbag?
+Wah-hah-hah-hah!<>
+
+[0024:0018DA3A:02082501 Aaron]
+Aaron: And how do you suppose I do that?<>
+
+[0025:0018DA44:02203300 Civilian red]
+Villager: Help!
+Please help me!<>
+
+[0026:0018DA4E:02203401 Civilian red dead]
+Villager: Aaahhh....
+Somebody help...me...<>
+
+[0027:0018DA58:02213300 Civilian red]
+Villager: Gaaah!<>
+
+[0028:0018DA62:02213401 Civilian red dead]
+Villager: M...mother...<>
+
+[0029:0018DA6C:02223300 Civilian red]
+Villager: No! Stop it!<>
+
+[002A:0018DA76:02223401 Civilian red dead]
+Villager: Uuhh...<>
+
+[002B:0018DA88:02082801 Aaron sad]
+Aaron: I can't believe it, I couldn't protect
+the villagers. Because of my incomptence, many
+people have lost their lives...<>
+
+[002C:0018DA90:02010401 Elwin sad]
+Elwin: Urgh....
+The people of this village have been
+sacrificed because...I couldn't...<>
+
+[002D:0018DAA2:022B7D01 I. warlock green/red]
+Imperial General: Sir Morgan!
+Should both of us break off and
+attack the guard? <>
+
+[002E:0018DAAA:02166201 Morgan]
+Morgan: Yeah.
+You two go deal with that old man!<>
+
+[002F:0018DAB2:022A7D01 I. warlock green/red]
+Imperial General: Yes, sir!
+Leave it to me!<>
+
+[0030:0018DABC:022A7E01 I. warlock green/red dead]
+Imperial General: Kwah....<>
+
+[0031:0018DAC6:022B7D00 I. warlock green/red]
+Imperial General: Well, old timer!
+Let's see if you've slowed down any with
+age.<>
+
+[0032:0018DAD0:022B7E01 I. warlock green/red dead]
+Imperial General: Gwohh!<>
+
+[0033:0018DAF6:02082501 Aaron]
+Aaron: Whew...
+I have to take a breather...<>
+
+[0034:0018DB04:02040D01 Sherry]
+Sherry: Teacher!<>
+
+[0035:0018DB0C:02082501 Aaron]
+Aaron: Oh, Sherry!
+I see your sword arm's gotten better!<>
+
+[0036:0018DB14:02040D01 Sherry]
+Sherry: Yeah!
+It took me a while, but I've finally
+got your fighting style down pat!<>
+
+[0037:0018DB1C:02082501 Aaron]
+Aaron: Hmm.
+It's been a while since my last
+skirmish, so I'm starting to get
+a bit tired.<wait>
+In a while I'm gonna need a
+break.<>
+
+[0038:0018DB2E:02082501 Aaron]
+Aaron: It's been a while since
+I've last fought.
+I wonder if I'll get an interval
+sometime soon...<>
+
+[0039:0018DB4A:02166201 Morgan]
+Morgan: It's time to punish those
+saucy fellows!<>
+
+[003A:0018DB52:022C7101 Shaman yellow]
+Imperial General: Shika shika!<>
+
+[003B:0018DB5A:02166201 Morgan]
+Morgan: Eeeek! Hey, try to
+talk a bit more human-like, okay?<>
+
+[003C:0018DB64:022C7100 Shaman yellow]
+Imperial General: Shikaaa!<>
+
+[003D:0018DB6E:022C7201 Shaman yellow dead]
+Imperial General: Shi...<>
+
+[003E:0018DB78:022D8E01 I. soldier 2 grey dead]
+Imperial General: Ugah!<>
+
+[003F:0018DB82:022E9401 I. soldier 3 blue dead]
+Imperial General: Guh!<>
+
+[0040:0018DB8C:022F8E01 I. soldier 2 grey dead]
+Imperial General: I, impressive...<>
+
+[0041:0018DB96:02307100 Shaman yellow]
+Imperial General: Shika shika shika!<>
+
+[0042:0018DBA0:02307201 Shaman yellow dead]
+Imperial General: Shi 
+shika...<>
+
+[0043:0018DBB0:02319F01 I. soldier 5 blue]
+Imperial General: You will not get in the
+way of sir Morgan!
+I will strike you down!<>
+
+[0044:0018DBB8:02166201 Morgan]
+Morgan: That's what I like to hear.
+Now, punish these irreverent stooges!<>
+
+[0045:0018DBC2:02319F00 I. soldier 5 blue]
+Imperial General: Die!<>
+
+[0046:0018DBCC:0231A001 I. soldier 5 blue dead]
+Imperial General: Whooah!
+Is this the end...?<>
+
+[0047:0018DBD6:02166200 Morgan]
+Morgan: After all that we've been through,
+you will finally yield to me.  Get ready
+to taste defeat!<>
+
+[0048:0018DBE0:02166301 Morgan dead]
+Morgan: Uh... keek...
+It hurts, it hurts, IT HURRRRTS!!!
+I can't stop the bleeding!!!!<wait>
+EEEEEKKK!!
+Lord Eggbeeeeert!!!<>
+
+[0049:0018DBF4:02319F01 I. soldier 5 blue]
+Imperial General: Impossible, that
+those guys defeated sir Morgan...<wait>
+Fear not Sir Morgan! We shall exact
+vengeance upon those guys!<>
+
+[004A:0018DC04:02166201 Morgan]
+Morgan: Geeeeee!
+That would be just fine!
+Haahahahahhahahhahha!!!<>
+
+[004B:0018DC0E:02010101 Elwin]
+Elwin: Is it over?<>
+
+[004C:0018DC16:02040D01 Sherry]
+Sherry:Teacher!
+Are you safe?<>
+
+[004D:0018DC2A:02082501 Aaron]
+Aaron: Are you kidding?  'Twas a
+simple and quick win for me.<>
+
+[004E:0018DC38:02082500 Aaron]
+Aaron: Or something...<>
+
+[004F:0018DC46:02082501 Aaron]
+Aaron: Oh, Sherry!<>
+
+[0050:0018DC54:02051101 Hain]
+Hain: Hey, Sherry, did you call him
+"teacher"?<>
+
+[0051:0018DC62:02010101 Elwin]
+Elwin: Teacher?<>
+
+[0052:0018DC6A:02040D01 Sherry]
+Sherry: Aaron taught me everything
+I know in the art of swordplay.<>
+
+[0053:0018DC72:02082501 Aaron]
+Aaron: Something tells me you're
+not here to simply pay me a visit...<>
+
+[0054:0018DC7A:02040D01 Sherry]
+Sherry:Well, actually...<>
+
+[0055:0018DC82:02082501 Aaron]
+Aaron: No, don't say anything.
+I know why you've come.
+It's because of those Imperial
+troops, wasn't it?<wait>
+Lately Imperial troops have
+been showing up in large
+numbers.
+This is truly a problem...<wait>
+...Anyways, as you saw, my
+swordsmanship just isn't
+what it used to be...<wait>
+I'm sure we were fated to meet like this...
+Though I may be more trouble
+than I'm worth, I'll come along with
+you.<>
+
+[0056:0018DC8A:02010101 Elwin]
+Elwin: You are quite strong at heart.<>
+
+[0057:0018DC98:02061501 Scott]
+Scott: Now that I think of it, Morgan
+said he was looking for something
+in this village...<>
+
+[0058:0018DCA6:02010100 Elwin]
+Elwin: By the way, Morgan seemed
+to be looking for something in this
+town...<>
+
+[0059:0018DCAE:02082501 Aaron]
+Aaron: Perhaps he was looking
+for an old document we have in
+our posession.<wait>
+It has to do with a holy sword and
+a demon sword, and that whomever
+posesses the blades has the power
+to do with the world as he wishes.<>
+
+[005A:0018DCB6:02020501 Riana]
+Riana: The holy sword in question
+is the Langrisser, isn't it?<>
+
+[005B:0018DCBE:02051101 Hain]
+Hain: It's as I thought!
+Rayguard Empire has been quite
+serious about searching for a
+stone tablet...<wait>
+But up to now I've always considered
+it to be a legend.<>
+
+[005C:0018DCC6:02010101 Elwin]
+Elwin: I guess that these things are
+for real after all...<>
+
+[005D:0018DCCE:02082501 Aaron]
+Aaron: Make no mistake, the holy
+sword Langrisser really exists,
+as does the demonic sword Alhazard.<wait>
+The old document in this village chronicles
+the history of the Alhazard.<wait>
+The people in this village never knew
+it, but it was given to us by the
+High Priest.<>
+
+[005E:0018DCD6:02051101 Hain]
+Hain: What an exciting adventure
+this is turning out to be.<>
+
+[005F:0018DCEA:02010101 Elwin]
+Elwin: Well, it's fortunate that the
+village didn't suffer much damage...<wait>
+As it stands, it seems as though everyone
+lived through this.<>
+
+[0060:0018DCF8:02203301 Civilian red]
+Villager: Excuse me....
+While we want to express
+gratitude for your assistance, 
+you did fail to protect one of
+our citizens.<wait>
+But at any rate, we wish you
+Godspeed and a safe journey.<>
+
+[0061:0018DD06:02203301 Civilian red]
+Villager: Excuse me... At
+least let us express our gratitude. <wait>
+You triumphed over the forces which
+threatened our village.
+Because of this, we want to express 
+our thanks by bestowing upon you a 
+gift which will protect you from 
+dark magics. Please accept this amulet.<>
+
+[0062:0018DD0E:0200FF00 ]
+"Amulet Received!<>
+
+[0063:"Amulet Received!<>
+
+[0063:0018DD1C:02213301 Civilian red]
+Villager: Please have a safe journey,
+and Godspeed.<>
+
+[0064:0018DD24:02010101 Elwin]
+Elwin: Thank you.<>
+
+[0065:0018DD2C:02082501 Aaron]
+Aaron: Well, it would seem the sun 
+has set. Now would probably be a 
+good time to rest for the night. We 
+shall continue tomorrow.<>

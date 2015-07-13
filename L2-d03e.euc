@@ -1,0 +1,441 @@
+<Scenario 03>
+[0000:0018830E:02010101 Elwin]
+Elwin: Riana,
+are you doing all right?<>
+
+[0001:00188316:02051101 Hain]
+Hain: This mountain pass is
+quite difficult for a girl.
+Heck, it's hard even for me. <>
+
+[0002:0018831E:02020501 Riana]
+Riana: I'm sorry, everyone.
+You all are always going through
+such trouble for my sake...<>
+
+[0003:00188326:02010101 Elwin]
+Elwin: No, it's okay.
+Just don't overdo it.<wait>
+By the way, with sending
+out the Blue Dragon
+Knights and the Fire
+Dragon Corps, the Empire
+seems to be quite serious
+about apprehending
+Riana.<>
+
+[0004:0018832E:02061501 Scott]
+Scott: The Fire Dragon Corps
+is headed by the
+dreaded General Vargas,
+a very fearsome man. <wait>
+The four main forces within
+the Rayguard Empire include the
+Blue Dragon Knights, the Black Dragon
+Sorcerers, the Fire Dragon
+Corps, and the Ice Dragon
+Navy.
+<wait>
+To send out one of their main
+forces is significant, so to send
+out two of their best armies
+means that they're after something
+they feel is really important.<>
+
+[0005:00188336:02051101 Hain]
+Hain: But if what they're after is
+so important, why would they
+bother sending someone like
+Zolm?<>
+
+[0006:00188346:02136001 Zolm]
+Zolm: What's that?!<>
+
+[0007:0018835A:02136001 Zolm]
+Zolm: Ha-ha-ha!
+This time I, the great Zolm, will
+capture that young girl!<>
+
+[0008:00188362:02051101 Hain]
+Hain: Man, is he persistant or what?<>
+
+[0009:0018836A:02010101 Elwin]
+Elwin: ...Yeah, I'll say.
+In that case, it might be wise
+to have Riana stick to
+someone's side.<>
+
+[000A:00188396:1D00FF00 ]
+ ": Will you change the movement
+orders for Riana? <>
+
+[000B:001883B4:1D051101 Hain]
+Hain: Well then, will you stick by me?<>
+
+[000C:001883C0:02020501 Riana]
+Riana: Hain, if you will. <wait>
+Since Elwin and Scott are
+fighting on the front, I shouldn't get
+in the way. <>
+
+[000D:001883C8:02051101 Hain]
+Hain: Alright!
+Just leave it to me! <>
+
+[000E:001883EE:1D010101 Elwin]
+Elwin: I'll stay by your side,
+Riana. <>
+
+[000F:001883FA:02020501 Riana]
+Riana: Really!?
+Thank you, Elwin!<>
+
+[0010:00188402:02010101 Elwin]
+Elwin: I'll protect you from
+anything that gets in our way.
+Just don't get seperated from
+me.<>
+
+[0011:0018840A:02020501 Riana]
+Riana: Okay. <>
+
+[0012:00188436:1D061501 Scott]
+Scott: So, will you follow me? <>
+
+[0013:00188442:02020501 Riana]
+Riana: Yes, if you please. <>
+
+[0014:0018844A:02010101 Elwin]
+Elwin: I'm counting on you, Scott! <>
+
+[0015:00188452:02061501 Scott]
+Scott: Yes!
+I'll do my best! <>
+
+[0016:00188478:1D010101 Elwin]
+Elwin: So, will you wait for
+us on the other side of the
+river? <>
+
+[0017:00188484:02020501 Riana]
+Riana: Very well.  So
+I won't be a nuisance, I'll
+wait, but be careful, everyone.
+<>
+
+[0018:001884B0:02020501 Riana]
+Riana: I'm very sorry.
+I don't want to be in a safe place
+if it's only going to be me. <>
+
+[0019:001884B8:02010101 Elwin]
+Elwin: But.... <wait>
+....I understand.
+Well then, Riana, I leave it up to you.
+Just don't do anything unreasonable. <>
+
+[001A:001884C0:02020501 Riana]
+Riana: Thank you, Elwin!<>
+
+[001B:001884E4:1D00FF00 ]
+ ": Do you not wish to change
+Riana's orders? <>
+
+[001C:00188506:02061501 Scott]
+Scott: Eh!
+I just had a thought that may come
+to be a bit surprising to you.<wait>
+Since pikemen, phalanxes, and
+the like use long spears, it'd be
+to our advantage if we use foot
+soldiers, as they can get in close
+enough to strike the pikemen where
+it'd be hard for them to retaliate.<>
+
+[001D:0018850E:02051101 Hain]
+Hain: But what good are pikemen, then?<>
+
+[001E:00188516:02061500 Scott]
+Scott: Well, foot soldiers are,
+unfortunately, no match
+for horsemen and comparable
+knight types.<wait>
+However, pikemen prove themselves
+to be quite effective against knight
+classes, as their long spears can
+reach the knights well before the
+knights can get into range to strike. <>
+
+[001F:0018851E:02020501 Riana]
+Riana: It seems Scott is quite knowledgable
+in many things. <>
+
+[0020:00188526:02061501 Scott]
+Scott: Well, my father taught me quite
+a few things about the art of war.<>
+
+[0021:00188534:02051101 Hain]
+Hain: So I see...
+It seems that "the great Zolm"
+is pretty clueless.<>
+
+[0022:00188542:02136001 Zolm]
+Zolm: Damned, conceited fool!
+Do you think that your stingy tactics
+can defeat the almighty Zolm?!
+You'll soon see the greatness in my
+tactical expertise! <wait>
+You'll soon witness that my strength
+alone will ensure my victory, and there's
+nothing you twerps can do about it!
+Ha-ha-ha! <>
+
+[0023:00188550:02051301 Hain mad]
+Hain: What a big-headed old geezer
+you are!<>
+
+[0024:0018855E:020F5401 Vargas]
+Vargas: Who are you!?<>
+
+[0025:00188566:020BC901 Mystery knight sherry]
+Mystery Knight: I have no name to give to
+the likes of you.
+If you think you're going to get through
+me, you're highly mistaken.<>
+
+[0026:0018856E:020F5401 Vargas]
+Vargas: Bastard, to be prepared with
+phalanxes...<>
+
+[0027:00188576:020BC901 Mystery knight sherry]
+Mystery Knight: Hahaha.
+One must use strategy when
+selecting soldiers to meet with
+the enemy.<>
+
+[0028:00188584:020F5401 Vargas]
+Vargas: Damn you to interfere with
+my plans! Eeehh, eliminate them!<>
+
+[0029:00188592:02136001 Zolm]
+Zolm: Yes, sir!<>
+
+[002A:001885C6:02010100 Elwin]
+Elwin: Do not get in our way!
+We will pass through here! <>
+
+[002B:001885D0:02136000 Zolm]
+Zolm: Ha-ha-ha!
+I, the great Zolm, will test your
+strength if you wish to pass! <>
+
+[002C:001885D8:02010100 Elwin]
+Elwin: You wanna test my strength?
+I'll show it to you!<>
+
+[002D:001885E2:02010201 Elwin dead]
+Elwin: No good...
+My body won't move...<>
+
+[002E:001885F0:02051201 Hain dead]
+Hain: Dammit!
+Elwin...
+You can rely on me
+in the future! <>
+
+[002F:001885FA:02061601 Scott dead]
+Scott: I'm sorry.  I must
+retreat for now... <>
+
+[0030:00188604:02020500 Riana]
+Riana: Aaaahh!<>
+
+[0031:0018860E:02020601 Riana dead]
+Riana: I'm sorry,...I can't...
+go...any further... <>
+
+[0032:0018861E:02136001 Zolm]
+Zolm: Ha-ha-ha!<wait>
+As expected, I, the great
+Zolm, finally prevailed over
+you irritants!<>
+
+[0033:0018862C:020F5401 Vargas]
+Vargas: Gwaa-ha-ha-ha!
+I'll take that little girl from you! <wait>
+Both Leon and Zolm said that
+you were formidable opponents...<wait>
+...yet I found you guys to be
+no sweat at all!
+Gwaa-ha-ha-ha!<>
+
+[0034:00188634:02010401 Elwin sad]
+Elwin: Ugh...  I'm just not
+strong enough.<>
+
+[0035:00188640:02010101 Elwin]
+Elwin: Not good!
+Everybody, protect Riana! <>
+
+[0036:0018864A:02136000 Zolm]
+Zolm: I'm going to butcher you
+little annoyances! <>
+
+[0037:00188654:02136000 Zolm]
+Zolm: Ha-ha-ha!
+Running away from me,
+the Great Zolm!?<>
+
+[0038:0018865C:02020500 Riana]
+Riana: Aaaahh!
+Help me, Elwin!<>
+
+[0039:00188666:02136101 Zolm dead]
+Zolm: Goddamn it!!
+I lost again! <>
+
+[003A:00188690:022A8800 I. soldier 1 grey dead]
+Imperial General: Guh!<>
+
+[003B:0018869A:022B8800 I. soldier 1 grey dead]
+Imperial General: Guah!<>
+
+[003C:001886A4:022C8800 I. soldier 1 grey dead]
+Imperial General: S... strong...<wait>
+Uah! <>
+
+[003D:001886AE:02010101 Elwin]
+Elwin: Riana,
+Make your way to the south bridge.<>
+
+[003E:001886B6:02020501 Riana]
+Riana: Yes.
+Everybody, do your best!<>
+
+[003F:001886BE:02010101 Elwin]
+Elwin: Leave it to me.
+I'll be sure to lead Riana to safety
+in Estole!<>
+
+[0040:001886D8:022D8901 I. soldier 1 purple]
+Imperial General: Let's go, everybody!
+Capture that little girl!<>
+
+[0041:001886E2:022D8A00 I. soldier 1 purple dead]
+Imperial General: H, how could I lose!?<>
+
+[0042:001886EC:022E8900 I. soldier 1 purple]
+Imperial General: I'll make sure I get
+you. <>
+
+[0043:001886F6:022E8A00 I. soldier 1 purple dead]
+Imperial General: Arghh.....<>
+
+[0044:00188700:022F8900 I. soldier 1 purple]
+Imperial General: I shall lead you scum
+to your grave.<>
+
+[0045:0018870A:022F8A00 I. soldier 1 purple dead]
+Imperial General: Uwoo!<>
+
+[0046:00188714:020F5600 Vargas mad]
+Vargas: You'll regret making me
+so angry! <>
+
+[0047:0018871E:020F5401 Vargas]
+Vargas: Bastard, I owe you for
+this wound! <wait>
+I'll remember this!
+The next time we meet,
+I'll give you a bloodbath. <>
+
+[0048:0018876E:022D8901 I. soldier 1 purple]
+Imperial General: I'll make sure you
+die here!<>
+
+[0049:00188776:02010101 Elwin]
+Elwin: What!?
+More soldiers?<>
+
+[004A:00188788:02136001 Zolm]
+Zolm: Ha-ha-ha!
+Here's your strategy!<>
+
+[004B:00188796:02061501 Scott]
+Scott: Oh, that's right!
+Hain, are you able to use
+Attack magic? <wait>
+With it, our troops'
+strength will increase
+significantly. <>
+
+[004C:001887AA:02051101 Hain]
+Hain: Oh, yeah...
+Well then, let's see what Pops here
+thinks of this!<>
+
+[004D:001887B8:02051101 Hain]
+Hain: Ah, that's right. <>
+
+[004E:001887CE:020F5401 Vargas]
+Vargas: Heh, you guys did pretty
+well.<wait>
+However, this game isn't over.
+We'll take that little girl soon
+enough!<>
+
+[004F:001887E4:02061501 Scott]
+Scott: Ge...General Vargas...<>
+
+[0050:001887EC:02010101 Elwin]
+Elwin: It looks like he isn't
+going to let up on us.<>
+
+[0051:001887FA:02010101 Elwin]
+Elwin: Whew....
+That ended up not being so
+catastrophic after all.<>
+
+[0052:00188802:02020501 Riana]
+Riana: Thank you, sir Knight.
+You saved us from a very
+dangerous situation. <>
+
+[0053:0018880A:020BC901 Mystery knight sherry]
+Mystery Knight: Lately there have been
+quite a few troublemakers around
+here. Be careful on the road ahead.
+Now, if you'll excuse me. <>
+
+[0054:00188814:02051101 Hain]
+Hain: ?! Who was that guy? <>
+
+[0055:0018881C:02061501 Scott]
+Scott: I've not seen the likes of
+him before.<wait>
+But since he could afford
+to hire phalanxes, I'm sure
+he's a nobleman of some
+sort. <>
+
+[0056:00188824:02051100 Hain]
+Hain: Hmmm.<wait>
+That voice sound very much
+like a child's.
+I wonder if we're around the
+same age...<>
+
+[0057:0018882C:02010101 Elwin]
+Elwin: Anyways,
+we should concentrate on
+pushing onward to Estole!<>
+
+[0058:00188834:02061501 Scott]
+Scott: I suppose you're right.
+By now Estole is already within
+sight.<>
+
+
+
+
+

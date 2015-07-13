@@ -1,0 +1,406 @@
+<Scenario 01>
+[0000:0018430A:02051101 Hain]
+Hain: There's trouble, Elwin!<>
+
+[0001:00184312:02010101 Elwin]
+Elwin: What's wrong, Hain?<>
+
+[0002:0018431A:02051101 Hain]
+Hain: Soldiers from the Rayguard Empire have invaded the edge of the village!<>
+
+[0003:00184322:02010101 Elwin]
+Elwin: The edge of the village!? Isin't that where your childhood friend lives?<>
+
+
+[0004:0018432A:02051101 Hain]
+Hain: That's right! We have to hurry, she's in danger! You're a good swordsman Elwin, please help me!<>
+
+[0005:00184332:02010101 Elwin]
+Elwin: No problem. Let's go!<>
+
+[0006:00184344:0212CE01 Baldo]
+Baldo: Captain, I've found the girl we're looking for.<>
+
+[0007:0018434C:02020501 Riana]
+Riana: !?<>
+
+[0008:00184354:020D5001 Leon]
+Leon: Good. Hurry.<>
+
+[0009:0018435E:02051101 Hain]
+Hain: Elwin, I knew it! The Empire is planning to kidnap Riana!<>
+
+[000A:00184366:02010101 Elwin]
+Elwin: Why I wonder?<wait>
+No, I'll worry about that later. We need to hurry!<>
+
+[000B:00184386:021F4201 Priest grey]
+Priest: As difficult as I expected! We must hold out until his Lordship arrives.<>
+
+[000C:00184394:02253C01 I. general 2 grey]
+Watchman: That's right. But even with my pikemen I cannot hold off the best knights in the land!<>
+
+[000D:0018439E:02010201 Elwin dead]
+Elwin: Ugh... to fall here...<>
+
+[000E:001843AC:02010300 Elwin mad]
+Elwin: That's as far as you go!<>
+
+[000F:001843BA:02020800 Riana sad]
+Riana: I beg you! Please do not fight! I couldn't bear to have you die for my sake...<>
+
+[0010:001843C2:02010100 Elwin]
+Elwin: Wait for me! I'm coming to help.<>
+
+[0011:001843CC:02010300 Elwin mad]
+Elwin: I won't let you do as you please!<>
+
+[0012:001843D6:02051201 Hain dead]
+Hain: Damnit... Elwin, the rest is up to you now.<>
+
+[0013:001843E0:02051100 Hain]
+Hain: Riana, I'm coming to save you!<>
+
+[0014:001843E8:02020800 Riana sad]
+Riana: Hain don't! Escape, it's too dangerous!<>
+
+[0015:001843F8:0212CE00 Baldo]
+Baldo: Hey you! If you don't want to die, move it!<>
+
+[0016:00184402:02051300 Hain mad]
+Hain: You damn Imperials! Go back to your own country!<>
+
+[0017:00184414:02202F01 Civilian blue]
+Villager: Save me!<>
+
+[0018:0018441C:022A8701 I. soldier 1 grey]
+Imperial General: Sir Leon! What should I do with the villager? They saw our actions here!<>
+
+[0019:00184424:020D5001 Leon]
+Leon: That would be a useless death. Our mission here is not murder.<>
+
+[001A:0018442C:0211C601 Laird]
+Laird: You are to secure a path for Baldo's retreat.<>
+
+[001B:00184434:022A8701 I. soldier 1 grey]
+Imperial General: Yes sir!<>
+
+[001C:00184442:0212CE00 Baldo]
+Baldo: Hey! Out of my way! You're pissing me off!<>
+
+[001D:0018444A:02202F00 Civilian blue]
+Villager: Eek! Help me!<>
+
+[001E:00184458:0211C601 Laird]
+Laird: Wait, Baldo! Don't act without orders!<>
+
+[001F:00184462:02253D01 I. general 2 grey dead]
+Watchman: Argh!<>
+
+[0020:0018446C:02253C01 I. general 2 grey]
+Watchman: The village must be protected!<>
+
+[0021:00184476:02253C00 I. general 2 grey]
+Watchman: I will crush you like an insect!<>
+
+[0022:00184480:021F4301 Priest grey dead]
+Priest: Uwaa!<>
+
+[0023:00184492:020D5001 Leon]
+Leon: All right, let's give Baldo some backup.<>
+
+[0024:001844A0:0211C601 Laird]
+Laird: Yes sir!<>
+
+[0025:001844AA:020D5001 Leon]
+Leon: Follow me Laird! We'll sweep out the enemy!!<>
+
+[0026:001844B2:0211C601 Laird]
+Laird: Yes sir!<>
+
+[0027:001844BC:020D5101 Leon dead (eye open)]
+Leon: I.. Impossible! How could I, the capitan of the Blue Dragon Knights, have been defeated?<>
+
+[0028:001844CA:020D5000 Leon]
+Leon: Feh... you're not too bad.<wait>
+But would you rather battle eslewhere?<>
+
+[0029:001844D4:02010300 Elwin mad]
+Elwin: Why are you doing this? Why are the Blue Dragon Knights here to abduct a young girl?<>
+
+[002A:001844DC:020D5000 Leon]
+Leon: Our mission is none of your business.<>
+
+[002B:001844E4:02010300 Elwin mad]
+Elwin: I heard the Blue Dragon Knights are not only strong but chivalrus as well!
+Why would you do such a thing!?<>
+
+[002C:001844F2:0211C600 Laird]
+Laird: Don't pass judgement when you have no idea what you are talking about!
+We did not chose this mission, we are following the direct orders of His Majesty Emperor Bernhart!<>
+
+[002D:00184500:0211C700 Laird dead]
+Laird: Don't pass judgement when you have no idea what you are talking about!
+We did not chose this mission. It was orders of His Majesty Emperor Bernhart himself!<>
+
+[002E:00184510:020D5000 Leon]
+Leon: It's alright Laird.
+This assignment should be infallible but I do not want you to die here.
+Learn that ultimately we decide our own actions - do not disgrace yourself by making excuses.<>
+
+[002F:0018451A:0211C601 Laird]
+Laird: Sir Leon, let's begin the attack!<>
+
+[0030:00184522:020D5001 Leon]
+Leon: Look carefully, Laird. The enemy's pikemen may cause problems.<>
+
+[0031:0018452A:0211C601 Laird]
+Laird: I plan to breach their lines with a rolling attack and go directly for the General.<>
+
+[0032:00184532:020D5000 Leon]
+Leon: Make it so.<>
+
+[0033:0018453C:0211C701 Laird dead]
+Laird: Sir Leon!<>
+
+[0034:0018454A:020D5001 Leon]
+Leon: Don't overdo it! I'll handle the rest!!<>
+
+[0035:00184554:0211C600 Laird]
+Laird: It will take more than pikemen to stop our knights!<>
+
+[0036:0018455C:02253C00 I. general 2 grey]
+Watchman: Interesting! Let's test that theory!<>
+
+[0037:0018456E:0212CE01 Baldo]
+Baldo: So you're Riana. Will you come willingly to the empire or shall I force you?<> 
+
+[0038:00184576:02020501 Riana]
+Riana: Wh..what do you want with me?<>
+
+[0039:0018457E:020D5001 Leon]
+Leon: It is difficult to explain.<wait>
+I am Leon, commander of the Blue Dragon Knights.
+I was sent here to recieve you.<>
+
+[003A:00184586:02020501 Riana]
+Riana: Me...?<>
+
+[003B:0018458E:020D5001 Leon]
+Leon: His Majesty Emperor Bernhart awaits you. You must come ot the capitol...<>
+
+[003C:00184596:02020501 Riana]
+Riana: ...<wait>
+If I come, will you promise
+not to harm the villagers?<>
+
+[003D:0018459E:020D5001 Leon]
+Leon: Naturally. I will not add to the dishonour of abducting you by murdering defenceless villagers.
+However... I can't promise the same for those who raise arms against us.<>
+
+[003E:001845A6:02020801 Riana sad]
+Riana: I understand... On these conditions I will come with you.<>
+
+[003F:001845AE:020D5001 Leon]
+Leon: ... Sorry.
+I appreciate your cooperation.<>
+
+[0040:001845B8:0212CE01 Baldo]
+Baldo: Shit, this is no fun! I don't get to exercise my sword!
+Perhaps I can have some fun with that girl over there...<>
+
+[0041:001845C0:02020701 Riana mad]
+Riana: Stop it!
+ou promised not to!<>
+
+[0042:001845C8:0212CE01 Baldo]
+Baldo: Shut up! Do you think that prmoise matters now we have you?<>
+
+[0043:001845D2:0212CE01 Baldo]
+Baldo: Let's go, girl!<>
+
+[0044:001845DC:020D5001 Leon]
+Leon: If she comes to harm it shall be revisited on you ten times over...<>
+
+[0045:001845E4:0212CE01 Baldo]
+Baldo: Oh... I'll take care of her in future.<>
+
+[0046:001845F8:02253C01 I. general 2 grey]
+Watchman: Stop! If you want to capture this village you will have to deal with me!<>
+
+[0047:00184600:0211C601 Laird]
+Laird: Sir Leon, the village guards have arrived!<>
+
+[0048:00184608:020D5001 Leon]
+Leon: That was fast...
+However they're inconsequential. Continue as planned with our mission!<>
+
+[0049:00184610:02253C01 I. general 2 grey]
+Watchman: What was that! I'll make you will regret this!<>
+
+[004A:00184618:020D5001 Leon]
+Leon: Interesting.<>
+
+[004B:00184622:0212CE01 Baldo]
+Baldo: Let's get moving!<>
+
+[004C:0018462A:02020501 Riana]
+Riana: Ouch! You don't need to pull so hard, I'm coming!<>
+
+[004D:00184632:0212CE00 Baldo]
+Baldo: Heh!
+Mighty conceited, aren't you girl!<>
+
+[004E:0018466A:020D5001 Leon]
+Leon: All right, our mission is complere. Return to headquarters.<>
+
+[004F:00184672:0212CE01 Baldo]
+Baldo: Hey kid, you're Elwin?<wait>
+There's nothing you can do to stop me.
+Ha ha ha...
+
+[0050:0018467A:02010401 Elwin sad]
+Elwin: Damn, how can this be...<>
+
+[0051:00184686:0212CE00 Baldo]
+Baldo: You must be stupid to pick a fight with Baldo, kid!
+You must not know who you're going up against!
+I'm going to enjoy playing with you<>
+
+[0052:00184698:02203000 Civilian blue dead]
+Villager: Eeek!<>
+
+[0053:001846A2:02020701 Riana mad]
+Riana: How cruel! Why would you do such a thing...<>
+
+[0054:001846AA:0212CE01 Baldo]
+Baldo: Shut up, girl! Or do you want ot be next?<>
+
+[0055:001846B2:020D5201 Leon mad]
+Leon: Stop!<wait>
+You arrogant fool!
+I commanded that there would be no needless violence!
+If you want to continue to disobey me, you have no place on this force!<>
+
+[0056:001846BA:0212CE01 Baldo]
+Baldo: ... yes sir!<wait>
+My actions were inexcusable.<>
+
+[0057:001846C8:0212CF01 Baldo dead]
+Baldo: Impossible...<wait>
+Sir Leon!<>
+
+[0058:001846D8:020D5001 Leon]
+Leon: What!?
+How could he have failed?<>
+
+[0059:00184706:02263501 Rolan]
+Rolan: Who trespasses on my territory?<wait>
+What...<>
+
+[005A:0018470E:02061501 Scott]
+Scott: Amazing...
+Those people are holding back the fearsome Blue Dragon Knights have been defeated!<>
+
+[005B:00184716:02263501 Rolan]
+Rolan: Yes, however, it looks like we have arrived to late to help!<>
+
+[005C:00184724:02263501 Rolan]
+Rolan: You can't do as you please in my territory!<>
+
+[005D:0018472C:02061501 Scott]
+Scott: Let's drive them out!<>
+
+[005E:0018473A:02051101 Hain]
+Hain: It's the Lord's army!<>
+
+[005F:00184748:0211C601 Laird]
+Laird: Enemy reinforcements have arrived!<>
+
+[0060:00184756:020D5001 Leon]
+Leon: How unfortunate... We must about the mission and withdraw.<>
+
+[0061:00184764:0211C600 Laird]
+Laird: Yes sir!<>
+
+[0062:00184772:02010101 Elwin]
+Elwin: We did it.<>
+
+[0063:0018477A:02020501 Riana]
+Riana: Thank you for your help Mr. Swordsman. I'm Riana, a shrine maiden at the Temple of Light. May I ask your name?<>
+
+[0064:00184782:02010101 Elwin]
+Elwin: I'm Elwin, a traveller on an aimless journey...<>
+
+[0065:0018478A:02020501 Riana]
+Riana: Thank you so much Sir Elwin. I don't know how to repay you.<>
+
+[0066:00184792:02010101 Elwin]
+Elwin: Ah, don't worry about that. Are you hurt at all?<>
+
+[0067:0018479A:02020501 Riana]
+Riana: No, I'm fine. I should be asking you that, Sir Elwin<>
+
+[0068:001847A2:02010101 Elwin]
+Elwin: Please, stop calling me "Sir". Just Elwin is fine.<>
+
+[0069:001847AA:02020501 Riana]
+Riana: Well then, please call
+me Riana.<>
+
+[006A:001847B8:02051101 Hain]
+Hain: Wow Elwin! You're as strong as I thought!<>
+
+[006B:001847C0:02020501 Riana]
+Riana: Hain, thank you for
+helping too.<>
+
+[006C:001847C8:02263501 Rolan]
+Rolan: By the way everyone, it's not safe to remain here. 
+The knights are bound to return soon with more troops.
+We can take refuge for the moment in my mansion, it is not far off.<>
+
+[006D:001847D0:02010101 Elwin]
+Elwin: I understand. Let's leave immediately.<>
+
+[006E:001847DC:0212CE00 Baldo]
+Baldo: Damn! You'll regret that!<>
+
+[006F:001847E6:022A8701 I. soldier 1 grey]
+Imperial General: Why does Baldo have to do this?<>
+
+[0070:001847EE:020D5001 Leon]
+Leon: ...<wait>
+This is your first mission, isin't it?
+How dishonorable to be seen here abducting a young girl.<>
+
+[0071:001847F6:022A8701 I. soldier 1 grey]
+Imperial General: Please don't say that, sir!
+It is an honour just to serve under your command.<>
+
+[0072:001847FE:020D5001 Leon]
+Leon: Sorry. Anyway, don't overdo it.
+
+[0073:0018480E:022A8701 I. soldier 1 grey]
+Imperial General: Shit! This guy has already defeated some of my men!
+
+[0074:00184816:0211C601 Laird]
+Laird: This is your first campaign. Position any of your injured troops next to you.
+They'll recover their strength little by litte. Be careful with your soldiers.
+If you don't do this, it won't be possible to survive on the battlefield.<>
+
+[0075:0018481E:022A8701 I. soldier 1 grey]
+Imperial General: Understood!<>
+
+[0076:00184828:022A8700 I. soldier 1 grey]
+Imperial General: Lets go!<>
+
+[0077:00184836:022A8700 I. soldier 1 grey]
+Imperial General: Who wants to be defeated?<>
+
+[0078:00184844:022A8801 I. soldier 1 grey dead]
+Imperial General: S.. Sir Leon...
+I'm sorry...<>
+
+[0079:0018484E:020D5001 Leon]
+Leon: Damn! It is a tragedy for the company to lose so brave a warrior...<>

@@ -1,0 +1,212 @@
+00 - crap
+01 - elwin
+02 - elwin dead
+03 - elwin mad
+04 - elwin sad
+05 - riana
+06 - riana dead
+07 - riana mad
+08 - riana sad
+09 - lana
+0A - lana dead
+0B - lana mad
+0C - lana sad
+0D - sherry
+0E - sherry dead
+0F - sherry mad
+10 - sherry sad
+11 - hein
+12 - hein dead
+13 - hein mad
+14 - hein sad
+15 - scott
+16 - scott dead
+17 - scott mad
+18 - scott sad
+19 - jessica
+1A - jessica dead
+1B - jessica mad
+1C - jessica sad
+1D - lester
+1E - lester dead
+1F - lester mad
+20 - lester sad
+21 - keith
+22 - keith dead
+23 - keith mad
+24 - keith sad
+25 - aaron
+26 - aaron dead
+27 - aaron mad
+28 - aaron sad
+29 - soldier 1 grey
+2a - soldier 1 blue
+2b - soldier 1 yellow
+2c - soldier 2 grey
+2d - soldier 2 blue
+2e - soldier 2 yellow
+2f - civilian blue
+30 - civilian blue dead
+31 - civilian yellow
+32 - civilian yellow dead
+33 - civilian red
+34 - civilian red dead
+35 - lauren
+36 - i. general 1 grey
+37 - i, general 1 grey dead
+38 - i. general 1 yellow
+39 - i. general 1 yellow dead
+3A - i. general 1 blue
+3B - i. general 1 blue dead
+3C - i. general 2 grey
+3D - i. general 2 grey dead
+3E - i. general 2 yellow
+3F - i. general 2 yellow dead
+40 - i. general 2 blue
+41 - i. general 2 blue dead
+42 - priest grey
+43 - priest grey dead
+44 - priest green
+45 - priest green dead
+46 - pirate grey
+47 - pirate grey dead
+48 - pirate green
+49 - pirate green dead
+4A - bernhart
+4B - bernhart dead
+4C - bernhart mad
+4D - eggbert
+4E - eggbert dead
+4F - eggbert mad
+50 - leon
+51 - leon dead (eye open)
+52 - leon mad
+53 - leon dead (eye closed)
+54 - vargas
+55 - vargas dead
+56 - vargas mad
+57 - imelda
+58 - imelda dead
+59 - imelda mad
+5A - lana dark princess
+5B - lana dark princess dead
+5C - lana dark princess mad
+5D - bozel
+5E - bozel dead
+5F - bozel mad
+60 - zilmu
+61 - zilmu dead
+62 - morgan
+63 - morgan dead
+64 - undead red
+65 - undead red dead
+66 - undead blue
+67 - undead blue dead
+68 - undead yellow
+69 - undead yellow dead
+6A - bandit grey
+6B - bandit grey dead
+6C - bandit yellow
+6D - bandit yellow dead
+6E - bandit purple
+6F - bandit purple dead
+70 - elwin
+71 - shaman yellow
+72 - shaman yellow dead
+73 - shaman green
+74 - shaman green dead
+75 - i. archmage blue/purple
+76 - i. archmage blue/purple dead
+77 - i. archmage green/red
+78 - i. archmage green/red dead
+79 - i. archmage red/grey
+7A - i. archmage red/grey dead
+7B - i. warlock blue/purple
+7C - i. warlock blue/purple dead
+7D - i. warlock green/red
+7E - i. warlock green/red dead
+7F - i. warlock red/grey
+80 - i. warlock red/grey dead
+81 - i. saint red
+82 - i. saint red dead
+83 - i. saint blue
+84 - i. saint blue dead
+85 - i. saint grey
+86 - i. saint grey dead
+87 - i. soldier 1 grey
+88 - i. soldier 1 grey dead
+89 - i. soldier 1 purple
+8A - i. soldier 1 purple dead
+8B - i. soldier 1 yellow
+8C - i. soldier 1 yellow dead
+8D - i. soldier 2 grey
+8E - i. soldier 2 grey dead
+8F - i. soldier 2 purple
+90 - i. soldier 2 purple dead
+91 - i. soldier 2 yellow
+92 - i. soldier 2 yellow dead
+93 - i. soldier 3 blue
+94 - i. soldier 3 blue dead
+95 - i. soldier 3 purple
+96 - i. soldier 3 purple dead
+97 - i. soldier 3 grey
+98 - i. soldier 3 grey dead
+99 - i. soldier 4 blue
+9A - i. soldier 4 blue dead
+9B - i. soldier 4 purple
+9C - i. soldier 4 purple dead
+9D - i. soldier 4 yellow
+9E - i. soldier 4 yellow dead
+9F - i. soldier 5 blue
+A0 - i. soldier 5 blue dead
+A1 - i. soldier 5 purple
+A2 - i. soldier 5 purple dead
+A3 - i. soldier 5 green
+A4 - i. soldier 5 green dead
+A5 - i. water soldier blue
+A6 - i. water soldier blue dead
+A7 - i. water soldier purple
+A8 - i. water soldier purple dead
+A9 - i. soldier 6 blue
+AA - i. soldier 6 red
+AB - i. soldier 6 green
+AC - i. soldier 7 blue
+AD - i. soldier 7 red
+AE - i. soldier 7 green
+AF - werewolf
+B0 - gelgazer
+B1 - cerberus
+B2 - scylla yellow
+B3 - scylla purple
+B4 - scylla green
+B5 - face mist
+B6 - dragon blue
+B7 - master dino
+B8 - golem
+B9 - lich purple
+BA - lich blue
+BB - lich green
+BC - living armor blue
+BD - living armor red
+BE - living armor yellow
+BF - succubus purple
+C0 - succubus yellow
+C1 - succubus green
+C2 - minotaur
+C3 - bone minotaur
+C4 - bone dragon
+C5 - vampire lord
+C6 - laird
+C7 - laird dead
+C8 - laird sad
+C9 - mystery knight sherry
+CA - shinto grey
+CB - shinto grey dead
+CC - shinto yellow
+CD - shinto yellow dead
+CE - baldo
+CF - baldo dead
+D0 - octopus
+D1 - aniki brown
+D2 - aniki green
+D3 - aniki yellow

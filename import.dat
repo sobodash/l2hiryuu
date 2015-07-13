@@ -1,0 +1,357 @@
+59
+default.fnt
+01 16x16 font
+header.dat
+02 ROM header
+charmap8.dat
+03 char naming map
+name-def.dat
+04 default name (Elwin)
+chlookup.dat
+05 char naming lookup convert map
+itemtype.dat
+06 item types (weapon/defend/misc)
+rangerev.dat
+07 range/revise text
+tb.dat
+08 terrain bonus text
+music.dat
+09 music menu
+cheat.dat
+10 cheat for elwin's stats
+pnt8-1.dat
+11 8x8 pointers (1/3)
+pnt8-2.dat
+12 8x8 pointers (2/3)
+pnt8-3.dat
+13 8x8 pointers (3/3)
+data0001.dat
+14 final chunk
+illusion.dat
+15 "ILLUSION"
+3.fnt
+16 3rd bank
+4.fnt
+17 4th bank
+5.fnt
+18 5th bank
+ltable2.dat
+19 lookup table #2 (first setup)
+ltable3.dat
+20 lookup table #3 (system menu)
+16header.dat
+21 16x16 header lookuptable
+16headt.dat
+22 16x16 header texts
+text-t3.dat
+23 lookup table #3 texts (enemy/NPC/player unit)
+ltableA.dat
+24 lookup table #A (general setup)
+text-tA.dat
+25 lookup table #A texts
+ltable4.dat
+26 lookup table #4 (system menu + option)
+text-t4.dat
+27 lookup table #4 texts
+ltable5.dat
+28 lookup table #5 (system menu - load)
+text-t5.dat
+29 lookup table #5 texts
+ltable6.dat
+30 lookup table #6 (option - config)
+text-t6.dat
+31 lookup table #6 texts
+ltable7.dat
+32 lookup table #7 - 9 (not enough MP, sleep, mute)
+ltableb.dat
+33 lookup table #B (save/load screen)
+text-tb.dat
+34 lookup table #B texts
+ltablec.dat
+35 lookup table #C (inventory full)
+ltabled.dat
+36 lookup table #D (select item to drop)
+ltablee.dat
+37 lookup table #E (item will be dropped)
+ltablef.dat
+38 lookup table #F (shop)
+text-tc.dat
+39 lookup table #C texts
+text-te.dat
+40 lookup table #E texts
+text-tf.dat
+41 lookup table #F texts
+ltableg.dat
+42 lookup table #G (end scenario tally)
+opening.dat
+43 opening text (Bernhart)
+ending.dat
+44 ending text
+main.fnt
+45 main font (dual tiles)
+pnt1.dat
+46 pointer 1
+pnt2.dat
+47 pointer 2
+pnt3.dat
+48 pointer 3
+pnt4.dat
+49 pointer 4
+pnt5.dat
+50 pointer 5
+pnt6.dat
+51 pointer 6
+pnt10l.dat
+52 pointer 10 lookup
+pnt10p.dat
+53 pointer 10 text table
+pnt11l.dat
+54 pointer 11 lookup
+pnt11p.dat
+55 pointer 11 text table
+pnt12l.dat
+56 pointer 12 lookup table
+pnt12p.dat
+57 pointer 12 text table
+pnt13l.dat
+58 pointer 13 lookup table
+pnt13p.dat
+59 pointer 13 text table
+79
+0
+512
+2
+4198
+0
+46
+262144
+0
+1
+385088
+1232
+9
+386510
+8
+15
+386634
+0
+10
+386774
+0
+11
+394084
+0
+12
+399592
+0
+13
+535186
+0
+47
+535458
+0
+48
+535838
+0
+49
+548972
+12
+8
+618540
+0
+19
+618602
+0
+20
+618708
+0
+26
+618792
+0
+28
+618914
+0
+30
+618996
+0
+32
+619052
+0
+50
+620190
+4
+22
+624326
+0
+58
+626042
+0
+59
+633654
+10
+7
+633738
+12
+7
+634024
+10
+7
+634094
+12
+7
+634248
+60
+27
+634484
+96
+27
+634596
+16
+23
+634628
+18
+23
+634662
+20
+23
+634852
+8
+31
+634890
+12
+31
+634908
+10
+31
+634938
+14
+31
+634958
+12
+31
+634982
+90
+29
+635318
+10
+21
+635644
+0
+56
+642940
+0
+57
+659664
+10
+21
+660636
+0
+52
+660766
+0
+54
+661152
+0
+35
+661188
+0
+36
+661218
+0
+37
+661254
+0
+38
+661372
+0
+41
+661470
+0
+39
+661556
+0
+40
+661710
+36
+6
+661746
+0
+53
+662892
+0
+55
+666444
+0
+24
+666572
+10
+25
+666584
+8
+25
+666594
+10
+25
+666626
+14
+25
+666656
+30
+25
+667000
+8
+21
+667396
+0
+33
+667846
+110
+34
+668458
+0
+51
+669584
+0
+42
+669614
+38
+21
+669878
+24
+22
+670017
+379
+3
+670460
+18
+4
+670510
+112
+5
+670860
+22
+21
+670981
+5
+7
+682768
+0
+43
+682904
+0
+44
+2113536
+0
+16
+2146304
+0
+17
+2179072
+0
+18
+2211840
+0
+45
+2342912
+0
+14

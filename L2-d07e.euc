@@ -1,0 +1,457 @@
+<Scenario 07>
+[0000:0018F4C6:02082501 Aaron]
+Aaron: I see...
+So, they're after that girl.<>
+
+[0001:0018F4CE:02040D01 Sherry]
+Sherry: We were thinking about
+hiding her in Kalxath Castle.<>
+
+[0002:0018F4D6:02082501 Aaron]
+Aaron: But don't you think that's
+where the Imperial goons
+may be headed already?<>
+
+[0003:0018F4FE:02176401 Undead red]
+Ginam: Hee-hee.
+I've found you, little girl!<wait>
+You think your troubles ended
+the instant Morgan departed
+from this mortal coil? Think again.<>
+
+[0004:0018F506:02020501 Riana]
+Riana: !?
+What evil energy...<>
+
+[0005:0018F50E:02082501 Aaron]
+Aaron: He's outside!
+The wizard's in the cemetary!<>
+
+[0006:0018F516:02176401 Undead red]
+Ginam: You're mine, little girl.
+Now, without further ado, I shall 
+promptly stain this tranquil night
+with spots of crimson blood!<>
+
+[0007:0018F51E:02010101 Elwin]
+Elwin: You think so!?<>
+
+[0008:0018F52C:02176401 Undead red]
+Ginam: I ask, oh spirits of old, to
+offer your lives to me and
+have your hearts beat again. <wait>
+So tear open the door to the world
+and stand once more!<wait>
+Lenier nie Delfahr!<>
+
+[0009:0018F53A:02061501 Scott]
+Scott: U,u, undead!<>
+
+[000A:0018F542:02051101 Hain]
+Hain: Ugyaaahhh!!<>
+
+[000B:0018F54A:02020801 Riana sad]
+Riana: How cruel....
+To bring back dead spirits just for
+your own ambition...<>
+
+[000C:0018F552:02176401 Undead red]
+Ginam: Hee hee hee!
+I don't care if you kill everyone
+in the town, just get me
+that girl!<>
+
+[000D:0018F572:02040D01 Sherry]
+Sherry: Keith!<>
+
+[000E:0018F57A:02072101 Keith]
+Keith: Princess!?
+I've been looking all over for you!<wait>
+Hmm, what's this?
+I'll help you out.<>
+
+[000F:0018F582:02040D01 Sherry]
+Sherry: Please!<>
+
+[0010:0018F58A:02010101 Elwin]
+Elwin: Princess? 
+Sherry!?<>
+
+[0011:0018F598:022E6E01 Bandit purple]
+Imperial General: Nn hee hee hee!
+I'll spill lots of blood today!
+You guys, kill everyone!<>
+
+[0012:0018F5A0:02010101 Elwin]
+Elwin: Oh, no!
+They've surrounded the outskirts
+of the village!<>
+
+[0013:0018F5A8:02072101 Keith]
+Keith: I'll take care of things here.  You
+guys concentrate on the necromancer!<>
+
+[0014:0018F5B6:02040D01 Sherry]
+Sherry: I really don't want to fight
+undead, as they really make
+me sick.<wait>
+I despise slimes just as much.
+I just can't seem to penetrate
+their defenses when trying to
+fight them.<>
+
+[0015:0018F5BE:02061501 Scott]
+Scott: Using guardmen would be
+the most prudent course of offense
+against the slimes.<>
+
+[0016:0018F5C6:02040D01 Sherry]
+Sherry: Gotcha!
+Hey, Hain, you can use Guardmen, can't you?
+Have your troops concentrate on the slimes!<>
+
+[0017:0018F5CE:02051101 Hain]
+Hain: Alright!
+But what about the undead?<>
+
+[0018:0018F5D6:02061501 Scott]
+Scott: Monks are the most effective
+troops to use against undead such
+as skeletons and zombies. <wait>
+In general, you should try to use
+holy troops against undead and
+demons.<>
+
+[0019:0018F5DE:02040D01 Sherry]
+Sherry: Hey....
+You've really been studying up on
+battle techniques, Scott.<wait>
+Since I've mostly been concentrating
+on training my body physically, I
+haven't really given much thought
+to strategy.<wait>
+I think you'll turn into a really fine knight
+someday.<>
+
+[001A:0018F5E6:02061501 Scott]
+Scott: Nah....
+I'm really not all that amazing...<>
+
+[001B:0018F5F4:02051101 Hain]
+Hain: But, wait a minute...
+If that's the case, Sherry, then
+how come when we first met,
+you seemed to know what types
+of troops to use?<>
+
+[001C:0018F5FC:02040D01 Sherry]
+Sherry: Oh, that.
+I really only knew about the affinities
+between knights, soldiers, and
+the like.<wait>
+When I was in training, I listened
+to that same old spiel about
+troops what seemed like every day.
+But, with the exception of that, I can't
+remember ANYTHING else.<>
+
+[001D:0018F604:02051101 Hain]
+Hain: What?!<>
+
+[001E:0018F60C:02040D00 Sherry]
+Sherry: Is there some sort of problem
+with that!?<>
+
+[001F:0018F614:02051100 Hain]
+Hain: N, no, not at all...<>
+
+[0020:0018F626:0200FF00 ]
+ ": You found a Mirage Robe!"<>
+
+[0021:0018F636:02010300 Elwin mad]
+Elwin: I despise the likes of you, who
+thinks you have the qualifications to
+toy with people's lives!<>
+
+[0022:0018F63E:02176400 Undead red]
+Ginam: Oh, really!?<>
+
+[0023:0018F648:02010201 Elwin dead]
+Elwin: No!<>
+
+[0024:0018F652:02176401 Undead red]
+Ginam: Heh, heh, heh.
+And I didn't even reveal my true
+strength.<wait>
+Now, hand over the girl!<>
+
+[0025:0018F65E:02051201 Hain dead]
+Hain: Damn it!
+You won...<>
+
+[0026:0018F668:02061500 Scott]
+Scott: Take this!<>
+
+[0027:0018F672:02061601 Scott dead]
+Scott: Even my strategy couldn't help
+me.<>
+
+[0028:0018F67C:02020800 Riana sad]
+Riana: Poor spirits, return to your slumber.<>
+
+[0029:0018F686:02020800 Riana sad]
+Riana: Poor spirits, return to your slumber.<>
+
+[002A:0018F690:02020601 Riana dead]
+Riana: Aah...<>
+
+[002B:0018F698:02010101 Elwin]
+Elwin: Don't do anything rash!
+We can't let Riana fall into the
+imperial's hands!<>
+
+[002C:0018F6A0:02020601 Riana dead]
+Riana: I'm sorry.
+I just can't stand any more...
+I have to withdraw for now.<>
+
+[002D:0018F6AA:02040D01 Sherry]
+Sherry: OUCH!
+Hey, Elwin, I'll be back later<>
+
+[002E:0018F6B4:02072101 Keith]
+Keith: I'll show you the power of
+Kalxath's aerial troops!<>
+
+[002F:0018F6BE:02072100 Keith]
+Keith: I have no sympathy for
+those who would launch an offensive
+against civilians.<>
+
+[0030:0018F6C8:02072201 Keith dead]
+Keith: Nnggh...
+That was more than I could take...<>
+
+[0031:0018F6D2:02082500 Aaron]
+Aaron: Bring it on!!<>
+
+[0032:0018F6DC:02082601 Aaron dead]
+Aaron: Ungh...
+Maybe I'm just too old for this...<>
+
+[0033:0018F6E6:02202F00 Civilian blue]
+Villager: Help me!!<>
+
+[0034:0018F6FC:02203001 Civilian blue dead]
+Villager: Aah...<>
+
+[0035:0018F706:02212F00 Civilian blue]
+Villager: Stop it!<>
+
+[0036:0018F71C:02213001 Civilian blue dead]
+Villager: P... please... somebody...h.. help...<>
+
+[0037:0018F726:02222F01 Civilian blue]
+Villager: Help!
+Somebody help me!<>
+
+[0038:0018F72E:02010101 Elwin]
+Elwin: The church!
+Run to the church!<>
+
+[0039:0018F736:02222F01 Civilian blue]
+Villager: R, right!<>
+
+[003A:0018F740:02222F00 Civilian blue]
+Villager: S, somebody, \n
+help me!<>
+
+[003B:0018F756:02223001 Civilian blue dead]
+Villager: W, why...
+Why couldn't you help...me...<>
+
+[003C:0018F762:02010401 Elwin sad]
+Elwin: Damn it...
+All we could do was sit and watch the
+townspeople get killed right before our
+eyes.<>
+
+[003D:0018F76E:02176401 Undead red]
+Ginam: This little excursion will be an
+entertaining exercise for my subserviants.<>
+
+[003E:0018F776:022A6601 Undead blue]
+Imperial General: Kheh...
+Leave it to me....<>
+
+[003F:0018F780:022A6701 Undead blue dead]
+Imperial General: Gwoh...<>
+
+[0040:0018F78A:022B6701 Undead blue dead]
+Imperial General: Gueh!<>
+
+[0041:0018F794:022C9F00 I. soldier 5 blue]
+Imperial General: I'll kill everyone, down to
+the last man!<>
+
+[0042:0018F79E:022CA001 I. soldier 5 blue dead]
+Imperial General: Guh!<>
+
+[0043:0018F7A8:022DA601 I. water soldier blue dead]
+Imperial General: To...to die here...<>
+
+[0044:0018F7B2:022E6F01 Bandit purple dead]
+Imperial General: No!
+I don't want to die yet!<>
+
+[0045:0018F7C0:023AB001 Gelgazer]
+Great Slime: Pwoosh!<>
+
+[0046:0018F7CA:023BB001 Gelgazer]
+Great Slime: Squish!<>
+
+[0047:0018F7D4:02176400 Undead red]
+Ginam: Hey, all you living.
+After this is all over, I'll see to it that
+your corpses will remain animated
+forever!<>
+
+[0048:0018F7DE:02176501 Undead red dead]
+Ginam: Geh, could it be that I've
+been defeated?<wait>
+However, don't think you've won.
+I've reported your whereabouts
+to Master Eggbert already!<wait>
+Guah!<>
+
+[0049:0018F7F0:02010100 Elwin]
+Elwin: No!<>
+
+[004A:0018F802:02072101 Keith]
+Keith: I can hear the sounds of battle
+coming from around this vicinity.<>
+
+[004B:0018F810:02051101 Hain]
+Hain: That's incredible!
+Kalxath's aerial troops are simply
+amazing!<>
+
+[004C:0018F81A:02010401 Elwin sad]
+Elwin: To use the bodies of the dead
+to further your own ends is just
+despicable..<>
+
+[004D:0018F822:02020801 Riana sad]
+Riana: The dead were waken from their
+eternal slumber...<>
+
+[004E:0018F82A:02061801 Scott sad]
+Scott: That was truly a cruel deed.<>
+
+[004F:0018F83E:02072101 Keith]
+Keith: Princess!?
+I've found you!<wait>
+This battle is finally over.<>
+
+[0050:0018F846:02040D01 Sherry]
+Sherry: Well, if it isn't Keith.
+We were just cleaning up the place.<>
+
+[0051:0018F84E:02072101 Keith]
+Keith: So I see.
+Anyway, I'm just glad you're safe.<>
+
+[0052:0018F856:02051101 Hain]
+Hain: Huh!?
+Sherry's a princess!?<>
+
+[0053:0018F85E:02082501 Aaron]
+Aaron: Anyway, Keith, what brings
+you to these parts?<>
+
+[0054:0018F866:02072101 Keith]
+Keith: Nice to see you again, Sir
+Aaron.
+I have something of great importance
+to tell the princess.<>
+
+[0055:0018F86E:02040D01 Sherry]
+Sherry: What's the matter?<>
+
+[0056:0018F876:02072101 Keith]
+Keith: We've begun to take up arms
+against the Blue Dragon Knights,
+who are currently en route to Kalxath.<>
+
+[0057:0018F87E:02040D01 Sherry]
+Sherry: !?
+Very well.
+I'll return as quickly as possible.<>
+
+[0058:0018F886:02020501 Riana]
+Riana: But why are they heading
+to Kalxath?<>
+
+[0059:0018F88E:02072101 Keith]
+Keith: Haven't you noticed lately
+that Rayguard Empire has been
+invading various locales, all in
+the name of unification?<>
+
+[005A:0018F896:02020500 Riana]
+Riana: Yes.<>
+
+[005B:0018F89E:02040D01 Sherry]
+Sherry: You see, we're all in the middle
+of a large resistance between various
+kingdoms and Rayguard.<>
+
+[005C:0018F8A6:02072101 Keith]
+Keith: In other words, if Kalxath
+were to fall to the empire, the
+surrounding kingdoms would
+take notice.<wait>
+They would then lose all their
+spirit to fight, especially against the
+empire's formidable and intimidating
+emperor.<>
+
+[005D:0018F8AE:02061501 Scott]
+Scott: As of now, the only kingdom
+with enough strength to rebel
+is Kalxath.<wait>
+It is because of that alone that if
+Kalxath were to crumble before
+the Empire, the ramifications
+would be astronomical. <>
+
+[005E:0018F8B6:02082501 Aaron]
+Aaron: It's evening, now.
+We should be heading out, soon. <wait>
+Kalxath has been without the protection
+of its princess and Keith for far too
+long.<wait>
+We must hurry and try to intercept
+the Blue Dragon Knights before its
+too late.<>
+
+[005F:0018F8D0:02202F01 Civilian blue]
+Villager: Wait a minute!
+We would like to express our
+gratitude.<>
+
+[0060:0018F8D8:02010101 Elwin]
+Elwin: Eh!?<>
+
+[0061:0018F8E0:02212F01 Civilian blue]
+Villager: Please have this runestone,
+a rare stone that will be sure to protect
+you on your travels.<>
+
+[0062:0018F8E8:02010101 Elwin]
+Elwin: Thank you.<>
+
+[0063:0018F8F0:0200FF00 ]
+ ": You recieved a Runestone!<>
+
+

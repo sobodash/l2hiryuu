@@ -1,0 +1,355 @@
+<Scenario 05>
+[0000:0018C27E:02166201 Morgan]
+Morgan: Hurry up!
+We can't let those guys
+catch up to us!<>
+
+[0001:0018C29A:02010101 Elwin]
+Elwin: Oh, so there you
+are!<>
+
+[0002:0018C2A2:02166201 Morgan]
+Morgan: Eeeeeek!
+They caught up, didn't they?
+All right, you guys, engage them
+again!<>
+
+[0003:0018C2B4:0234AF01 Werewolf]
+Werewolf: WAOOON!<>
+
+[0004:0018C2BC:02061501 Scott]
+Scott: Werewolves!<>
+
+[0005:0018C2C4:02040D01 Sherry]
+Sherry: At our present level, I doubt
+we'll stand much of a chance
+against those creatures.<>
+
+[0006:0018C2CC:02020501 Riana]
+Riana: But we can't spend too
+long fighting the werewolves,
+lest we lose sight of Morgan.<>
+
+[0007:0018C2D4:02010101 Elwin]
+Elwin: All right, let's go!<>
+
+[0008:0018C2E4:02020501 Riana]
+Riana:We can't allow
+any more time to pass.<>
+
+[0009:0018C2EC:02010101 Elwin]
+Elwin: We've almost lost
+sight of Morgan as it is.
+We need to hurry!<>
+
+[000A:0018C2FC:02061501 Scott]
+Scott: We're almost out of time.
+We need to defeat him immediately!<>
+
+[000B:0018C30A:021B2900 Soldier 1 grey]
+Soldier: We're almost out of time.
+We need to defeat him now!<>
+
+[000C:0018C312:02010101 Elwin]
+Elwin: Alright, let's hurry!<>
+
+[000D:0018C31C:02010101 Elwin]
+Elwin: Our time's almost up!
+We have to attack with all
+of our strength! <>
+
+[000E:0018C32C:02061801 Scott sad]
+Scott: Oh, no...
+We've lost sight of Morgan!<>
+
+[000F:0018C33A:021B2A00 Soldier 1 blue]
+Soldier: No!
+We've lost sight of Morgan!<>
+
+[0010:0018C342:02010401 Elwin sad]
+Elwin: How could such a thing...
+Is this the end...?<>
+
+[0011:0018C350:02010101 Elwin]
+Elwin: It's useless to
+pursue Morgan any longer.<>
+
+[0012:0018C36C:02166201 Morgan]
+Morgan: Well, I'm out of here.
+So, everyone, good luck in your
+battle!<wait>
+Haaah-hah-hah-hah!<>
+
+[0013:0018C3AA:022A7D01 I. warlock green/red]
+Imperial General: M-Morgan, sir!
+Please don't retreat!<>
+
+[0014:0018C3B2:02166201 Morgan]
+Morgan: Silence!
+Don't waste time following
+me.
+I know we've come all this way
+together, but I order you to let
+up on your flight!<>
+
+[0015:0018C3C0:02010101 Elwin]
+Elwin: Everybody, hurry!
+Otherwise, this time we'll
+lose sight of Morgan!<>
+
+[0016:0018C3E8:02166201 Morgan]
+Morgan: You will not go any
+farther.
+Soon you will die!<>
+
+[0017:0018C418:022A7D01 I. warlock green/red]
+Imperial General: But, Morgan, sir!
+Let me please head over there!<>
+
+[0018:0018C420:02166201 Morgan]
+Morgan: Eeeeek!
+Hold your ground!<>
+
+[0019:0018C42A:02166201 Morgan]
+Morgan: Eeeeek!
+Stop it, already!
+Just concentrate on eliminating
+the lot of them; we'll punish them
+without fail!<>
+
+[001A:0018C438:022A7D01 I. warlock green/red]
+Imperial General: *Huff*... *Puff*... 
+I'm coming, Sir Morgan! Wait 
+for me!<>
+
+[001B:0018C444:02010100 Elwin]
+Elwin: This is as far as you go!<>
+
+[001C:0018C44E:02010201 Elwin dead]
+Elwin: Ugh...
+Is this the end...?<>
+
+[001D:0018C45E:02166201 Morgan]
+Morgan: Oh, come on, don't
+be that way. <wait>
+Your life has just run away from you.
+Waah-hah-hah-hah!<>
+
+[001E:0018C46A:02051100 Hain]
+Hain: Let's go!<>
+
+[001F:0018C474:02051201 Hain dead]
+Hain: Uwah!<>
+
+[0020:0018C47E:02061500 Scott]
+Scott: I will not be defeated!<>
+
+[0021:0018C488:02061601 Scott dead]
+Scott: Was my training insufficient...?<>
+
+[0022:0018C492:02020500 Riana]
+Riana: I'll prove that I can be of use
+to everyone! <>
+
+[0023:0018C49C:02020601 Riana dead]
+Riana: I'm sorry.
+I've been defeated.<>
+
+[0024:0018C4A6:02040D00 Sherry]
+Sherry: Huh?!
+You're doing quite well.
+This time, I'm returning the favor!<>
+
+[0025:0018C4B0:02040E01 Sherry dead]
+Sherry: What's this?
+I was a little unprepared for this.
+Teh...<>
+
+[0026:0018C4C0:02051101 Hain]
+Hain: Teh?
+Why do you make us worry by
+getting yourself hurt?<>
+
+[0027:0018C4CA:0234AF01 Werewolf]
+Werewolf: GYAAA!<>
+
+[0028:0018C4D4:0235AF01 Werewolf]
+Werewolf: GYAAA!<>
+
+[0029:0018C4EA:02166201 Morgan]
+Morgan: Now, eat them all up!<>
+
+[002A:0018C4F2:0236AF01 Werewolf]
+Werewolf: GAAAAH!<>
+
+[002B:0018C4FC:0236AF01 Werewolf]
+Werewolf: GYAAA!<>
+
+[002C:0018C506:0237AF01 Werewolf]
+Werewolf: GYAAA!<>
+
+[002D:0018C526:0238AF01 Werewolf]
+Werewolf: GYAAA!<>
+
+[002E:0018C530:0239AF01 Werewolf]
+Werewolf: GYAAA!<>
+
+[002F:0018C53A:022A7E01 I. warlock green/red dead]
+Imperial General: Morgan, s-sir!
+I'm not dead yet...<wait>
+Gwah!!<>
+
+[0030:0018C54A:02166201 Morgan]
+Morgan: Eeeek!
+What incompetant servants!
+I don't have much time left to
+flee this place.<>
+
+[0031:0018C572:02166201 Morgan]
+Morgan: Oh, oh no!
+I've been chased all the way
+over here.<wait>
+Hey, you!
+I'm outta here, so keep those
+pests company!<>
+
+[0032:0018C57A:022A7D01 I. warlock green/red]
+Imperial General: You, you can't be
+serious!
+It's paramount that you, Sir
+Morgan, remain here until
+the bitter end! <>
+
+[0033:0018C582:02166201 Morgan]
+Morgan: Eeerrrgh, how annoying!<>
+
+[0034:0018C592:02166201 Morgan]
+Morgan: I'm leaving you behind to fight
+those guys.<>
+
+[0035:0018C59A:022B6C01 Bandit yellow]
+Imperial General: But we have no more
+than some werewolves.  We won't be
+able to win!<>
+
+[0036:0018C5A2:02166201 Morgan]
+Morgan: Whaaat?
+That should be more than enough to defeat
+those fellows! Just don't worry about it and
+fight.<>
+
+[0037:0018C5AA:022B6C01 Bandit yellow]
+Imperial General: If that's the case,
+why are you running away, Morgan,
+sir?<>
+
+[0038:0018C5B2:02166201 Morgan]
+Morgan: Eeeeek!!
+Shut up and just fight them! <>
+
+[0039:0018C5BA:022B6C01 Bandit yellow]
+Imperial General: This can't be happening...<>
+
+[003A:0018C5C4:022B6D01 Bandit yellow dead]
+Imperial General: Gwah!<>
+
+[003B:0018C5D4:02166201 Morgan]
+Morgan: Errgh. Honestly,
+what insufferable peons I have.<wait>
+However, this is not the end.<>
+
+[003C:0018C5EA:02166201 Morgan]
+Morgan: Eeeeeek!
+For the love of God, if it weren't
+for those annoying, meddling lowlives,
+I would've gotten that stone tablet
+by now...<>
+
+[003D:0018C5F2:022A7D01 I. warlock green/red]
+Imperial General: Now, Lord Morgan.
+I think we should probably retreat
+into the forest.<>
+
+[003E:0018C5FA:02166201 Morgan]
+Morgan: Do you not think I understand
+that!?
+Besides, you gave YOU the right to order
+ME around?!<>
+
+[003F:0018C604:02166200 Morgan]
+Morgan: Eeeek!
+I didn't think that these swift legged
+troops would catch up to me.<wait>
+However, they will not defeat me
+here!<>
+
+[0040:0018C60E:02166301 Morgan dead]
+Morgan: Egads!
+Impossible; I've been smitten!
+However, it's a bit early to think
+you've caught me.<>
+
+[0041:0018C622:02051101 Hain]
+Hain: Damn!
+He got away!<>
+
+[0042:0018C630:021B2B00 Soldier 1 yellow]
+Soldier: This is bad, he fled.<>
+
+[0043:0018C676:02010101 Elwin]
+Elwin: It couldn't have been helped!
+We were slowed down by his
+minions.<>
+
+[0044:0018C696:02166201 Morgan]
+Morgan: Well, I must be off.<wait>
+Now, regarding you guys, please
+accept my wonderful present.<>
+
+[0045:0018C6C0:02051101 Hain]
+Hain: Hiyaaah!!
+Watch out, Elwin!
+There are still more werewolves
+waiting for us.<>
+
+[0046:0018C6C8:02010101 Elwin]
+Elwin: It seems that he has not
+yet run out of surprises.
+Watch out as you go ahead.<>
+
+[0047:0018C6D6:02010101 Elwin]
+Elwin: Werewolves!
+I guess he hasn't run out of
+surprises.
+Watch out as you go ahead.<>
+
+[0048:0018C6F4:02051101 Hain]
+Hain: Whaaat, werewolves again?!<>
+
+[0049:0018C702:02166201 Morgan]
+Morgan: Silence!
+Those were the only monsters
+I could get around here.<>
+
+[004A:0018C70E:02166201 Morgan]
+Morgan: Honestly, what obstinate
+fellows.<wait>
+However, they will not advance
+any farther!<>
+
+[004B:0018C718:02166201 Morgan]
+Morgan: Now, let the bloodbath begin!<>
+
+[004C:0018C728:02040D01 Sherry]
+Sherry: There's a village not far away.
+It's important that we catch him quickly.<>
+
+[004D:0018C736:021B2A00 Soldier 1 blue]
+Soldier: I see a village over there.
+We must hurry and catch him!<>
+
+[004E:0018C73E:02010101 Elwin]
+Elwin: Alright!
+We'll get Morgan in the village.<>
+
+

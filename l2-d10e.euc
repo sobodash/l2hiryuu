@@ -1,0 +1,462 @@
+<Scenario 10>
+[0000:001956F2:02040D01 Sherry]
+Sherry: Hey, Keith.
+How much farther until we reach
+the great magician's house?<>
+
+[0001:001956FA:02072101 Keith]
+Keith: Just a little longer.
+Once we cross the river, we
+should be there.<>
+
+[0002:00195702:02040D01 Sherry]
+Sherry: So, once we get to the
+wizard's...<>
+
+[0003:0019570A:02082501 Aaron]
+Aaron: Eh?
+Someone's coming.<>
+
+[0004:0019571E:02091D01 Lester]
+Lester: Wait a sec!
+You guys trying to cross, who are
+you?<>
+
+[0005:00195726:02051101 Hein]
+Hein: Hu, huh?<>
+
+[0006:0019572E:02091D01 Lester]
+Lester: The price for crossing
+this river's quite high.
+If you're fond of living, then
+don't even try getting across.<>
+
+[0007:00195736:02010101 Elwin]
+Elwin: Bandits?
+It doesn't look like they have the
+power to prevent us crossing.<>
+
+[0008:0019579C:023EB401 Scylla green]
+Scylla: He-he-hee.
+I've found you, Decendents of
+Light.  You're lives will be
+rendered nil!<>
+
+[0009:001957A4:02091D01 Lester]
+Lester: Who are you punks?
+A bunch of monsters!?<>
+
+[000A:001957AC:023EB401 Scylla green]
+Scylla: You meddling insects will
+suffer the same fate!  If you don't
+wish to die, then retreat!<>
+
+[000B:001957BA:02051101 Hein]
+Hein: Monsters!
+Moreover, they appear to be
+in large numbers!<>
+
+[000C:001957C8:02040D01 Sherry]
+Sherry: It's time for the real fight.<>
+
+[000D:001957D6:02010101 Elwin]
+Elwin: It's time for the real fight!<>
+
+[000E:001957DE:02091D01 Lester]
+Lester: Damn it all!
+Of all the goddamn times!!!<wait>
+Hey, punks!
+Help us get rid of the monsters!<>
+
+[000F:00195844:02051101 Hein]
+Hein: What in the world?
+Why are the monsters after us??<>
+
+[0010:0019584C:02010101 Elwin]
+Elwin: They're being manipulated
+by someone.
+Otherwise, they wouldn't be organized
+like this.<>
+
+[0011:00195854:02040D01 Sherry]
+Sherry: So, someone's using
+the monsters to attack us?<>
+
+[0012:0019585C:02010101 Elwin]
+Elwin: Yeah....
+Why, though, I haven't a clue.<>
+
+[0013:0019586A:02072101 Keith]
+Keith: Whatever you do, don't even
+bother attacking the scylla in water.<>
+
+[0014:00195878:02082501 Aaron]
+Aaron: That's correct, entirely.
+If you engage them on land, the
+odds will undoubtedly be in your
+favor.<>
+
+[0015:00195882:02091D01 Lester]
+Lester: These monsters will not pass by us!!
+Let's go, men!<>
+
+[0016:00195898:02234601 Pirate grey]
+Pirate: A, aye!
+Those blokes are fairly strong, ain't
+they?<>
+
+[0017:001958AC:02244801 Pirate green]
+Pirate: Aye, yer right.
+We best be careful.<>
+
+[0018:001958CC:02244801 Pirate green]
+Pirate: A, aye!
+We best use caution whilst dealin'
+with them troops.<>
+
+[0019:001958E2:02010201 Elwin dead]
+Elwin: Dammit!
+This is it....<>
+
+[001A:001958F0:02010100 Elwin]
+Elwin: Eat it!<>
+
+[001B:001958FA:02051201 Hein dead]
+Hein: Geh!
+You got me...<>
+
+[001C:00195904:02051100 Hein]
+Hein: I won't lose to any monster!<>
+
+[001D:0019590E:02040E01 Sherry dead]
+Sherry: Owieowieowie...<>
+
+[001E:0019591C:02040D01 Sherry]
+Sherry: Really, what's gotten into
+you monsters?
+Leave us alone!<>
+
+[001F:00195926:02072201 Keith dead]
+Keith: Ngh... No, I can't...<>
+
+[0020:00195930:02072100 Keith]
+Keith: Take this, monsters!<>
+
+[0021:0019593A:02082601 Aaron dead]
+Aaron: Forgive me.
+I'll leave the rest to you guys as
+I go rest.<>
+
+[0022:0019594A:02082501 Aaron]
+Aaron: These guys are being
+controlled. Use caution as you
+engage them.<>
+
+[0023:00195954:02091D01 Lester]
+Lester: The scylla and her companions
+are all water units, so I'll show you
+guys where my true strengths lie.<>
+
+[0024:00195964:02091D00 Lester]
+Lester: Damn monsters!
+I'll strike you all down!<>
+
+[0025:0019596E:02091D00 Lester]
+Lester: What's up with you?
+Rather full of ourselves, aren't we?<>
+
+[0026:00195978:02091F00 Lester mad]
+Lester:You can't run any more!
+Now you've gotten me mad!<>
+
+[0027:00195982:02091D01 Lester]
+Lester: Hmph, you're not too
+shabby.<>
+
+[0028:0019598A:02010101 Elwin]
+Elwin: Now, let us through here.<>
+
+[0029:00195992:02091D01 Lester]
+Lester: ....Guess I hafta.
+Now, what the hell is so important
+on the other side that you caused
+all this mess?<>
+
+[002A:001959A2:02091E01 Lester dead]
+Lester: Damn, not awake, am I...?<>
+
+[002B:001959AC:02234601 Pirate grey]
+Pirate: Sir's exactly right.
+Obediently returnin' like this,
+you blokes must be friggin'
+stupid!<>
+
+[002C:001959B6:02234601 Pirate grey]
+Pirate: Don't ya be messing up our territory!
+And don't even THINK of being messing wit' us!<>
+
+[002D:001959BE:02091D01 Lester]
+Lester: We weren't ready.
+These guys're surprisingly buff.<>
+
+[002E:001959C6:02234601 Pirate grey]
+Pirate: Heheh....
+'Tis alright, sir.<>
+
+[002F:001959D6:02234601 Pirate grey]
+Pirate: You shouldn't have done that
+to me mate!
+Now I'll really have ta kill ya.<>
+
+[0030:001959EA:02234601 Pirate grey]
+Pirate: S, sir...
+That you got into such danger...<>
+
+[0031:001959F8:02234601 Pirate grey]
+Pirate: Beggin' yer pardon,
+sir, but please don't be doin'
+anythin' rash.<>
+
+[0032:00195A08:02234701 Pirate grey dead]
+Pirate: Woah!<>
+
+[0033:00195A32:02234701 Pirate grey dead]
+Pirate: Uwah!<>
+
+[0034:00195A40:02091D01 Lester]
+Lester: Hey, y'all right?<>
+
+[0035:00195A48:02234701 Pirate grey dead]
+Pirate: Heh-heh...
+It's curtains for me...
+Sir..., it's been loads
+o' fun...<>
+
+[0036:00195A70:02234601 Pirate grey]
+Pirate: W, what are you blokes?
+Y'ain't yer usual soldiers.<>
+
+[0037:00195A80:02234601 Pirate grey]
+Pirate: You shouldn't 've done somethin'
+like that to someone close t'me.
+Shits, I'll kill the lot o' ya!<>
+
+[0038:00195A94:02244801 Pirate green]
+Pirate: S, sir...
+That you got into such danger...<>
+
+[0039:00195AA2:02244801 Pirate green]
+Pirate: Beggin' yer pardon,
+sir, but please don't be doin'
+anythin' rash.<>
+
+[003A:00195AB2:02244901 Pirate green dead]
+Pirate: Guwoah!<>
+
+[003B:00195AE2:02244901 Pirate green dead]
+Pirate: Yar, he got me, sir.<>
+
+[003C:00195AEA:02091D01 Lester]
+Lester: Hang on, I'm coming
+to help ya!<>
+
+[003D:00195AF2:02244901 Pirate green dead]
+Pirate: No...it looks like...
+it's all over....for me....<wait>
+Up 'til now...with me bein' so
+difficult...thanks...for puttin'
+up wit' me...sir...<>
+
+[003E:00195B1A:02244901 Pirate green dead]
+Pirate: Guh!<>
+
+[003F:00195B24:02244800 Pirate green]
+Pirate: If ye values yer life, end
+this futile resistance!<>
+
+[0040:00195B2E:023EB401 Scylla green]
+Scylla: Kill them all!
+We're not going back until they're
+all dead!<>
+
+[0041:00195B38:023EB400 Scylla green]
+Scylla: You'll all sink and them die!!!<>
+
+[0042:00195B42:023EB401 Scylla green]
+Scylla: Gaah!
+You...<>
+
+[0043:00195B4C:023FB200 Scylla yellow]
+Scylla: Heh-heh-heh...
+You'll regret that...<>
+
+[0044:00195B56:023FB201 Scylla yellow]
+Scylla: Guh!
+Impossible, that I can't match your skill.<>
+
+[0045:00195B60:0240B300 Scylla purple]
+Scylla: *giggle*
+I'll make sure this river'll be stained
+a deep crimson with your blood.<>
+
+[0046:00195B6A:0240B301 Scylla purple]
+Scylla: Guah!<>
+
+[0047:00195B74:0241B201 Scylla yellow]
+Scylla: Damn you! Descendants of
+Light scum!<>
+
+[0048:00195B82:0241B200 Scylla yellow]
+Scylla: I won't forgive anyone who
+scars me!<>
+
+[0049:00195B8C:0242B300 Scylla purple]
+Scylla: Take what's coming
+to you!<>
+
+[004A:00195B96:0242B301 Scylla purple]
+Scylla: Gah!<>
+
+[004B:00195BA0:023AB001 Gelgazer]
+Great Slime: Squish!<>
+
+[004C:00195BAA:023AB001 Gelgazer]
+Great Slime: Sploosh!<>
+
+[004D:00195BB4:023AB001 Gelgazer]
+Great Slime: Sploosh!<>
+
+[004E:00195BBE:0234AF01 Werewolf]
+Werewolf: GYAH!<>
+
+[004F:00195BC8:0235AF01 Werewolf]
+Werewolf: GUUU!<>
+
+[0050:00195BD4:02010101 Elwin]
+Elwin: Whew... we did it.<>
+
+[0051:00195BDC:02091D01 Lester]
+Lester: You're pretty good.
+So, where was it you were
+heading, again?<>
+
+[0052:00195BEC:02091D01 Lester]
+Lester: Don't do anything dumb!
+Retreat!<>
+
+[0053:00195BFA:02091D01 Lester]
+Lester: Damn it all to hell!
+I'm the only one left!<>
+
+[0054:00195C04:02091D01 Lester]
+Lester: What, punks?
+Don't wuss out in the middle of a fight!<>
+
+[0055:00195C0E:02092001 Lester sad]
+Lester: How could such a thing...<>
+
+[0056:00195C16:02091F01 Lester mad]
+Lester: Fuck!
+Listen, I'm gonna beat the shit
+outta you assholes.
+Get ready, shitheads!<>
+
+[0057:00195C30:02092001 Lester sad]
+Lester: D, damn it all!
+My pals....<>
+
+[0058:00195C38:02091F01 Lester mad]
+Lester: You're gonna pay for
+that in blood!<>
+
+[0059:00195C42:02091D01 Lester]
+Lester: Don't worry, just get
+outta here!
+You can't beat these guys!<>
+
+[005A:00195C4C:02091D01 Lester]
+Lester: This is an order!
+Just shut up and let me handle
+this.
+I still want to be able to laugh
+and talk shit with you guys
+after the fight.<wait>
+Don't get yourself killed over
+something like this!<>
+
+[005B:00195C5A:02091F01 Lester mad]
+Lester: Now, I hope you're ready,
+monster shits!
+You're gonna pay for murdering
+my pals!<>
+
+[005C:00195C6E:02072101 Keith]
+Keith: We're heading to the
+great wizard's domain over
+yonder.<>
+
+[005D:00195C7C:02010101 Elwin]
+Elwin: We're going to meet
+the great magician over
+there.<>
+
+[005E:00195C8A:02040D01 Sherry]
+Sherry: Do you know where we're
+talking about?<>
+
+[005F:00195C98:02010101 Elwin]
+Elwin: Do you know of the place?<>
+
+[0060:00195CA0:02091D01 Lester]
+Lester: I dunno, but I am Lady
+Jessica's student.<wait>
+Right now, though, I'm here
+to protect Lady Jessica from
+people who want to "get
+acquainted" with her.<>
+
+[0061:00195CA8:02010101 Elwin]
+Elwin: Frankly, in order to stop
+the Empire from reviving
+the sword of darkness, we need
+the great magician's help.<>
+
+[0062:00195CB6:02091D01 Lester]
+Lester: My pals are injured, but
+I suppose I'll join you to go meet her.<>
+
+[0063:00195CBE:02091D01 Lester]
+Lester: Alright, leave it to me.
+I'll make sure everything goes
+smoothly!<>
+
+[0064:00195CCC:02082501 Aaron]
+Aaron: If you would, please.<>
+
+[0065:00195CDA:02091D01 Lester]
+Lester: I'm off.  Hold down
+the fort till I get back!<>
+
+[0066:00195CE2:02234601 Pirate grey]
+Pirate: Aye, sir!<>
+
+[0067:00195CF6:02091D01 Lester]
+Lester: I'm off, fellas.  Hold down
+the fort till I get back!<>
+
+[0068:00195CFE:02244801 Pirate green]
+Pirate: Aye, sir!<>
+
+[0069:00195D10:02244801 Pirate green]
+Pirate: By the way, sir,
+take this here treasure with
+ya.<>
+
+[006A:00195D18:02091D01 Lester]
+Lester: A necklace?
+Thanks.<>
+
+[006B:00195D20:0200FF00 ]
+ ": Recieved a necklace!<>
+
+

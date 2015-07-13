@@ -1,0 +1,324 @@
+<Scenario 16>
+[0000:001A0CD8:02010101 Elwin]
+Elwin: We finally made it!<>
+
+[0001:001A0CE0:02040D01 Sherry]
+Sherry: Just inside is where...
+Emperor Bernhardt resides.<>
+
+[0002:001A0CE8:020D5001 Leon]
+Leon: It seems that Imelda's plan didn't
+work out so well...<wait>
+But, thanks to that, I'm able to
+confront Elwin!<>
+
+[0003:001A0CF0:02010101 Elwin]
+Elwin: Leon! But there's no way we'll lose!
+We'll defeat Bernhardt and rescue Riana!<>
+
+[0004:001A0D14:020C5A01 Larna dark princess]
+Larna: I'll help you Leon.<>
+
+[0005:001A0D1C:020D5001 Leon]
+Leon: Larna?! I have no need of a woman's help.<>
+
+[0006:001A0D24:020C5A01 Larna dark princess]
+Larna: Unfortunately, you owe me big...
+I'll do as I please.<>
+
+[0007:001A0D2C:020D5001 Leon]
+Leon: Fine... Do as you like.<>
+
+[0008:001A0D34:02010101 Elwin]
+Elwin: No matter what it takes, I'm
+going through!<>
+
+[0009:001A0D3E:020D5001 Leon]
+Leon: Heh!
+So you're gonna try to get through?
+All right, Elwin!
+We'll see this through to the end!<>
+
+[000A:001A0D5A:020C5A01 Larna dark princess]
+Larna: You're going to attack?<wait>
+...Well, fine.
+Whatever happens to Bernhardt is
+of no concern to me.<>
+
+[000B:001A0D76:0200FF00 ]
+ ": Larna has joined Leon!<>
+
+[000C:001A0D88:020C5A01 Larna dark princess]
+Larna: You've made it this far.
+However, for Leon and that other guy,
+you'll die here!<>
+
+[000D:001A0D92:02010201 Elwin dead]
+Elwin: Ugh...
+That's it...<>
+
+[000E:001A0DA0:02051201 Hain dead]
+Hain: Sorry, guys.
+I've been beaten...<>
+
+[000F:001A0DAA:02040E01 Sherry dead]
+Sherry: Ouch...<>
+
+[0010:001A0DB4:02082601 Aaron dead]
+Aaron: I'm too old...<>
+
+[0011:001A0DBE:02072201 Keith dead]
+Keith: Was I unprepared...?<>
+
+[0012:001A0DC8:02091E01 Lester dead]
+Lester:I screwed up....<>
+
+[0013:001A0DD2:020A1A01 Jessica dead]
+Jessica: Impossible...<>
+
+[0014:001A0DDC:02061601 Scott dead]
+Scott: My training wasn't enough...<>
+
+[0015:001A0DE6:022A9F00 I. soldier 5 blue]
+Imperial General: Take this!<>
+
+[0016:001A0DF0:022AA001 I. soldier 5 blue dead]
+Imperial General: Lord Leonnnn!<>
+
+[0017:001A0DFE:022A9F01 I. soldier 5 blue]
+Imperial General: Can your power match
+this?<>
+
+[0018:001A0E08:022B9B00 I. soldier 4 purple]
+Imperial General: Don't make me laugh!<>
+
+[0019:001A0E12:022B9C01 I. soldier 4 purple dead]
+Imperial General: What...?!<>
+
+[001A:001A0E20:022B9B01 I. soldier 4 purple]
+Imperial General: Huh!
+Take this!<>
+
+[001B:001A0E2A:022C7900 I. archmage red/grey]
+Imperial General: Take this!!<>
+
+[001C:001A0E34:022C7A01 I. archmage red/grey dead]
+Imperial General: Gwah!<>
+
+[001D:001A0E42:022C7900 I. archmage red/grey]
+Imperial General: Not bad... Not sloppy at all.<>
+
+[001E:001A0E4C:022D8300 I. saint blue]
+Imperial General: Show me the extent of your power!<>
+
+[001F:001A0E5A:022D8401 I. saint blue dead]
+Imperial General: Uggh! They beat me...<>
+
+[0020:001A0E6A:022D8301 I. saint blue]
+Imperial General: Uhh...
+However, I'll die in order to defend
+this fort!<>
+
+[0021:001A0E74:0211C600 Laird]
+Laird: Don't let them take a single step into the
+caste!<>
+
+[0022:001A0E7E:0211C701 Laird dead]
+Laird: Damn.....<>
+
+[0023:001A0E86:020D5001 Leon]
+Leon: Fall back Laird! We can't afford to lose you.<>
+
+[0024:001A0E8E:0211C701 Laird dead]
+Laird: I'm sorry.<>
+
+[0025:001A0E98:022E7900 I. archmage red/grey]
+Imperial General: Think you can win?<>
+
+[0026:001A0EA2:022E7A01 I. archmage red/grey dead]
+Imperial General: Gehuh...<>
+
+[0027:001A0EB0:022E7900 I. archmage red/grey]
+Imperial General: Taste this!<>
+
+[0028:001A0EC2:020C5A01 Larna dark princess]
+Larna: This is too easy...<>
+
+[0029:001A0ED6:020D5000 Leon]
+Leon: If this fight lasts long we'll
+end up with quite a few disadvantages.
+And it doesn't help that our enemy is 
+powerful...<>
+
+[002A:001A0EE4:0211C601 Laird]
+Laird: I understand, sir!<>
+
+[002B:001A0EF4:020D5001 Leon]
+Leon: Let's go Larna! If things stay 
+as they are, the enemy can't pass!<>
+
+[002C:001A0EFC:020C5A01 Larna dark princess]
+Larna: Hahaha... As long as we're together,
+I have nothing to fear.<>
+
+[002D:001A0F04:020D5001 Leon]
+Leon: Don't slacken off.<>
+
+[002E:001A0F16:020D5001 Leon]
+Leon: You won't pass! It's over, Elwin!<>
+
+[002F:001A0F20:020D5000 Leon]
+Leon: Elwin! I've waited forever for the
+chance to fight you!<wait>
+And now I'll pay you back for everything!!<>
+
+[0030:001A0F2A:020D5101 Leon dead (eye open)]
+Leon: Damn, that's impressive!<wait>
+But don't forget that your power 
+comes from that sword!<wait>
+Alhazard's revival is right before our eyes.
+Once the seal has been broken, you won't stand a
+chance!<>
+
+[0031:001A0F38:020C5A01 Larna dark princess]
+Larna: This has to be the power of
+Langrisser, since even Leon
+was beaten...<wait>
+Never mind about Bernhardt, injuring
+Leon is something I cannot tolerate!<wait>
+You will know the true power of
+us, the premier family of darkness!<>
+
+[0032:001A0F40:020D5101 Leon dead (eye open)]
+Leon: .....Stop Larna.
+We're at a disadvantage, fall back!<>
+
+[0033:001A0F48:020C5A01 Larna dark princess]
+Larna: But I won't be content unless I do
+something.<>
+
+[0034:001A0F50:020D5101 Leon dead (eye open)]
+Leon: Please, just retreat! I won't let you
+expose yourself to danger simply for my sake!<>
+
+[0035:001A0F58:020C5A01 Larna dark princess]
+Larna: ...And yet you would do it for Bernhardt's sake?
+
+[0036:001A0F60:020D5100 Leon dead (eye open)]
+Leon: ...Yes... I probably would.<>
+
+[0037:001A0F68:020C5A00 Larna dark princess]
+Larna: I'll forget it this time, Leon. Next time,
+I won't be so forgiving!<>
+
+[0038:001A0F76:020D5101 Leon dead (eye open)]
+Leon: Farewell,
+Elwin!<>
+
+[0039:001A0F88:020D5000 Leon]
+Leon: You've gotten better, Elwin!<>
+
+[003A:001A0F92:020C5A00 Larna dark princess]
+Larna: My cute little monsters. Protect Leon.<><>
+
+[003B:001A0F9C:024BB501 Face mist]
+Ghost: Hyuuuuu......<>
+
+[003C:001A0FA6:024CB501 Face mist]
+Ghost: Uooooooooon<>
+
+[003D:001A0FB0:020C5A01 Larna dark princess]
+Larna: Don't let the Descendants of Light
+interfere!<>
+
+[003E:001A0FBA:02010101 Elwin]
+Elwin: Why, Riana?! Why are you fighting us?!
+Aren't we your friends?<>
+
+[003F:001A0FC4:020C5B01 Larna dark princess dead]
+Larna: Ergh, well done.<>
+
+[0040:001A0FCC:020D5001 Leon]
+Leon: Are you OK, Larna?!<>
+
+[0041:001A0FD4:020C5B01 Larna dark princess dead]
+Larna: Yes, relax. I just made an error....<>
+
+[0042:001A0FDC:020D5001 Leon]
+Leon: You must retreat! I won't allow you to
+put yourself in dnger for my sake!<>
+
+[0043:001A0FE4:020C5B01 Larna dark princess dead]
+Larna: ......And yet you would do it for Bernhardt?<>
+
+[0044:001A0FEC:020D5000 Leon]
+Leon: ...Ummmm...<>
+
+[0045:001A0FF4:020C5B00 Larna dark princess dead]
+Larna: Never mind. This time, I'll retreat.<>
+
+[0046:001A1004:020D5001 Leon]
+Leon: ...Let's go Laird! We'll prevent them from
+reaching His Majesty!<>
+
+[0047:001A100C:0211C601 Laird]
+Laird: Yes sir!<>
+
+[0048:001A101A:020D5001 Leon]
+Leon: Even if I have to fight alone, you won't
+reach the Emporer!<>
+
+[0049:001A1022:020D5001 Leon]
+Leon: It's over, Elwin!<>
+
+[004A:001A1030:020C5A01 Larna dark princess]
+Larna: This wasn't as easy as I thought it would be...<>
+
+[004B:001A1044:020D5001 Leon]
+Leon: This has been a long
+and violent path, and we've come
+this far...<wait>
+But, this time I have a partner!
+You will not proceed any further!<>
+
+[004C:001A1052:020C5A01 Larna dark princess]
+Larna: I'll fight too!<>
+
+[004D:001A105A:020D5001 Leon]
+Leon: Stop it, Larna! I'll take care of this!<>
+
+[004E:001A1062:020C5A01 Larna dark princess]
+Larna: Nope. You still haven't paid me back yet.<>
+
+[004F:001A106A:020D5001 Leon]
+Leon: Hmm. You've changed... Anyway, don't press
+yourself too hard.<>
+
+[0050:001A1080:02010100 Elwin]
+Elwin: Shit! Where's the spellcaster who's
+controlling Riana?!<>
+
+[0051:001A108E:02040D01 Sherry]
+Sherry:Elwin....<>
+
+[0052:001A109C:02082501 Aaron]
+Aaron: Finally our last battle has come.
+Let's combine our power and go.<>
+
+[0053:001A10AA:02051101 Hain]
+Hain: Let's go, Elwin. I'm worried about Riana.<>
+
+[0054:001A10B8:02061501 Scott]
+Scott: If we can defeat Bernhardt, we can end this
+wave of wars.<>
+
+[0055:001A10C0:020A1901 Jessica]
+Jessica:Well then, let's go. Before Alhazard awakens,
+defeat Bernhardt!<wait> ...Wherever Alhazard is, the
+spellcaster controlling Riana shall also appear.<>
+
+[0056:001A10C8:02010101 Elwin]
+Elwin: Alright! At last we can attack!
+We will defeate Bernhardt!<wait>
+And... Save Riana!<>
+

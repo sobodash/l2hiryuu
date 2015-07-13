@@ -1,0 +1,642 @@
+<Scenario 22>
+[0000:001AAAF4:02072101 Keith]
+Keith: This is the Temple of Darkness...
+What an eerie place.<>
+
+[0001:001AAAFC:02061501 Scott]
+Scott: Look at the altar!<>
+
+[0002:001AAB08:02051100 Hain]
+Hain: Ahhhhhh!
+There are two Rianas...?<>
+
+[0003:001AAB10:02040D01 Sherry]
+Sherry: Riana and the Dark Princess Larna!?<>
+
+[0004:001AAB18:02010101 Elwin]
+Elwin: They are two different people?!<>
+
+[0005:001AAB20:020A1901 Jessica]
+Jessica: Perhaps the maiden of light and the maiden of darkness....<>
+
+[0006:001AAB28:02082501 Aaron]
+Aaron: The evil sword is sealed the maiden of light. 
+Then the maiden of light can break the seal when the time comes to destroy Alhazard.<>
+
+[0007:001AAB30:02040D01 Sherry]
+Sherry: Then, what is the maiden of darkness for?<>
+
+[0008:001AAB38:020A1901 Jessica]
+Jessica: It's her duty to break the seal and infuse the sword with the power of darkness.<>
+
+[0009:001AAB40:02091D01 Lester]
+Lester: If we screw this up the ceremony's gonna end.<>
+
+[000A:001AAB48:02010101 Elwin]
+Elwin: That's right. Before the seal is broken, defeat Eggbert!
+Let's go everyone!!<>
+
+[000B:001AAB5E:02105D01 Bosel]
+Bosel: The nuisances have arrived....
+We can't let them interfere with the ceremony.
+Until the the ceremony is over silence them!<>
+
+[000C:001AAB66:02144D01 Eggbert]
+Eggbert: If you allow my Dark Dragon Priests to do their job,
+there's no need to concern yourself with the enemy.<wait>
+More importantly you can concentrate on the ceremony.<>
+
+[000D:001AAB6E:02105D01 Bosel]
+Bosel: Heh, that should be fine.<>
+
+[000E:001AABB0:02051101 Hain]
+Hain: What going on!?
+The enemy soldiers are fighting amongst themselves!!<>
+
+[000F:001AABBE:021B2D00 Soldier 2 blue]
+Soldier: Why is the enemy fighting amongst itself?<>
+
+[0010:001AABCC:020A1901 Jessica]
+Jessica: Eggbert let himself be used by Bosel, so he could take advantage of him.<wait>
+And once Alhazard was revived, he sent for Bernhart....
+After the ceremony the exhausted Bosel couldn't handle Bernhart's fierce
+attack, and Alhazard is now Bernhart's.<wait>
+He made every calculation, what an impressive plan...<>
+
+[0011:001AABDA:020A1901 Jessica]
+Jessica: Eggbert let himself be used by Bosel, so he could take advantage of him.<wait>
+And once Alhazard was revived, Bosel sent for Bernhart....<wait>
+They figured if Bosel was exhausted from the ceremony they could beat him.
+That truly is an incredible plan.<>
+
+[0012:001AABE2:020E4A01 Bernhart]
+Bernhart: You're my\nnext victim!
+You won't escape me!<>
+
+[0013:001AABEA:02010101 Elwin]
+Elwin: A fearsome enemy has taken Alhazard....<wait>
+But I won't lose!
+If we falter now the world will be covered in darkness!<>
+
+[0014:001AABFE:02144D01 Eggbert]
+Eggbert: In just a little bit, Alhazard shall be revived.
+Why don't you watch closely, Jessica?<>
+
+[0015:001AAC06:020A1901 Jessica]
+Jessica:You know how dangerous unleashing the power of darkness is....
+<wait>
+You, who was afraid of the Darkness,
+why have you joined sides with
+them?<>
+
+[0016:001AAC0E:02144D01 Eggbert]
+Eggbert: Heh heh heh...
+What sentimental rubbish.
+To achieve my purpose I will utilize what
+I consider to be the best plan.<>
+
+[0017:001AAC24:02144D01 Eggbert]
+Eggbert: Ahhhh... This is going just as I planned.<>
+
+[0018:001AAC2C:020A1901 Jessica]
+Jessica: Why do you mimic Bosel... Despite the fact that Bosel is defeated,
+using the power of darkness is too dangerous!<wait>
+Haven't you realised that by consuming yourself with the power of darkness
+you'll follow the same path as Bosel?!<>
+
+[0019:001AAC34:020E4A01 Bernhart]
+Bernhart: Pathetic! I'm\nthe only one with the power to handle Alhazard.<wait>
+I am the true owner of Alhazard!<>
+
+[001A:001AAC44:0200FF00 ]
+ ": You found Odin's Bracelet!<>
+
+[001B:001AAC54:02010101 Elwin]
+Elwin: What the?
+What is this switch??<>
+
+[001C:001AAC5C:1D00FF00 ]
+ ": Flip the switch?<>
+
+[001D:001AAC68:02010101 Elwin]
+Elwin: ....?<wait>
+I thought I heard a sound in
+the distance just now.<>
+
+[001E:001AAC7A:02010101 Elwin]
+Elwin: There's something
+written on the wall.<>
+
+[001F:001AAC82:0200FF00 ]
+ ": This connects to a dragon's
+lair.<wait>
+This entrance has been sealed
+to prevent foolish people from
+wandering in, as no one has ever
+returned alive.<>
+
+[0020:001AAC90:02010101 Elwin]
+Elwin: It seems that the switch
+over there opened up the lair
+of the dragon.<wait>
+I think I hear what appears to be
+a dragon's roar from within.<wait>
+Anyway, I'll check it out after
+the battle.  Right now I have
+other things to concentrate
+on!<>
+
+[0021:001AACA6:02010101 Elwin]
+Elwin: What is this?<>
+
+[0022:001AACB0:020E4A01 Bernhart]
+Bernhart: N, no!<>
+
+[0023:001AACC0:02010301 Elwin mad]
+Elwin: Bosel!
+There's no where to run!
+Prepare yourself!<>
+
+[0024:001AACCE:02144D01 Eggbert]
+Eggbert: Hmph, what a joke...<>
+
+[0025:001AACDC:02010201 Elwin dead]
+Elwin: Damn....
+This is it....<>
+
+[0026:001AACEA:02051201 Hain dead]
+Hain: Uwwwwaaaa!<>
+
+[0027:001AACF4:02040E01 Sherry dead]
+Sherry: Owwwww......<>
+
+[0028:001AACFE:02082601 Aaron dead]
+Aaron: Damn!<>
+
+[0029:001AAD08:02072201 Keith dead]
+Keith: Dammit!
+I was unprepared...<>
+
+[002A:001AAD12:02091E01 Lester dead]
+Lester: Arrrgh!
+I goofed up....<>
+
+[002B:001AAD1C:020A1A01 Jessica dead]
+Jessica: Ahhh....
+The sky..is..blue....<>
+
+[002C:001AAD2A:02061601 Scott dead]
+Scott: No..!
+I'm dead....<>
+
+[002D:001AAD34:02020601 Riana dead]
+Riana: I'm sorry. I have to retreat...<>
+
+[002E:001AAD3E:020C5B01 Larna dark princess dead]
+Larna: Uwaaa......<>
+
+[002F:001AAD4E:02105D01 Bosel]
+Bosel: Just a little bit....
+Just a little bit longer and I shall unleash
+the power of Alhazard.<>
+
+[0030:001AAD58:02105E01 Bosel dead]
+Bosel: It looks like my exhausted body couldn't....<wait>
+Oh well.....
+I'll lend you that sword.<wait>
+Do with it your hearts content.
+Ha Ha Ha Ha Ha.....<>
+
+[0031:001AAD62:020C5B01 Larna dark princess dead]
+Larna: Lord Bosel!
+Ugghhhh!!<>
+
+[0032:001AAD6A:020E4A01 Bernhart]
+Bernhart: Hmm....
+This\nis Alhazard....
+At last it is mine!<>
+
+[0033:001AAD7C:02051101 Hain]
+Hain: Strong!<>
+
+[0034:001AAD84:02010101 Elwin]
+Elwin: ..Can we win?<>
+
+[0035:001AAD8C:020A1901 Jessica]
+Jessica: ... everyone!
+I'm going to send Bernhardt to a
+parallel dimension. <wait>
+Since I need to get close to
+him, I need your protection!<>
+
+[0036:001AAD9A:02082501 Aaron]
+Aaron: Will you be okay doing that!
+Don't put yourself in any danger!<>
+
+[0037:001AADA2:020A1901 Jessica]
+Jessica: There's no other way.
+Right now, we can't beat Bernhart and Alhazard.<>
+
+[0038:001AADB0:02092001 Lester sad]
+Lester: Jessica.....<>
+
+[0039:001AADB8:020A1901 Jessica]
+Jessica: Please.
+Protect me!<>
+
+[003A:001AADC6:02072101 Keith]
+Keith: Apparently we have no other way to win, eh...<>
+
+[003B:001AADCE:02010101 Elwin]
+Elwin: Got it.
+All right let's do it!<>
+
+[003C:001AADD8:022A7500 I. archmage blue/purple]
+Imperial General: Dieee!<>
+
+[003D:001AADEA:022A7601 I. archmage blue/purple dead]
+Imperial General: Ghhaa!<>
+
+[003E:001AADF4:022B7900 I. archmage red/grey]
+Imperial General: You think you can challenge me?
+Funny. Take this!<>
+
+[003F:001AAE06:022B7A01 I. archmage red/grey dead]
+Imperial General: How could I lose...<>
+
+[0040:001AAE10:022C8401 I. saint blue dead]
+Imperial General: Kyaahhhh!<>
+
+[0041:001AAE1E:022C8300 I. saint blue]
+Imperial General: I'll prevail!<>
+
+[0042:001AAE2E:0245BB00 Lich green]
+Witch: You came here just to killed on purpose, what fools.<>
+
+[0043:001AAE38:0245BB01 Lich green]
+Witch: Guooohh!<>
+
+[0044:001AAE42:0246BB01 Lich green]
+Witch: Gufuu!<>
+
+[0045:001AAE52:0246BB00 Lich green]
+Witch: You won't get away!<>
+
+[0046:001AAE5C:0243B801 Golem]
+Iron Golem: GU....<>
+
+[0047:001AAE66:0244B801 Golem]
+Iron Golem: GU....<>
+
+[0048:001AAE72:02144D00 Eggbert]
+Eggbert: Now your lives come to an end...<>
+
+[0049:001AAE88:02144E01 Eggbert dead]
+Eggbert: Quite an impressive feat....<wait>
+But such a scratch cannot kill me.
+We'll meet again.<>
+
+[004A:001AAE94:020E4A01 Bernhart]
+Bernhart: Hey Bosel,\n
+Give me Alhazard!<>
+
+[004B:001AAE9C:02105F01 Bosel mad]
+Bosel: Nonsense!
+Over my dead body!<>
+
+[004C:001AAEA4:020E4A01 Bernhart]
+Bernhart: Hmmmph....
+A little overconfident in our strength aren't we?<>
+
+[004D:001AAEB4:020E4A00 Bernhart]
+Bernhart: If you care\nabout your
+lives at all, give up and give me
+the sword!<>
+
+[004E:001AAEBC:02105F00 Bosel mad]
+Bosel: In that case you'll have to defeat me right?
+But even if you do, can you use this sword? Ha ha ha...<>
+
+[004F:001AAECA:02144D01 Eggbert]
+Eggbert: It's too bad isn't it.
+His majesty has already made a pact with the God that rules Darkness.
+In other words he posseses the right to use Alhazard.<>
+
+[0050:001AAED2:020E4A01 Bernhart]
+Bernhart: You've lost,\nBosel!<>
+
+[0051:001AAEDC:020E4B01 Bernhart dead]
+Bernhart: Wha, How\ncould this happen!?
+I was foolish.....
+But I won't die by such a scratch.<>
+
+[0052:001AAEE4:020A1901 Jessica]
+Jessica: I'm now ready to teleport
+Bernhardt!<>
+
+[0053:001AAEF4:02105D01 Bosel]
+Bosel: Hmph, too... late...<>
+
+[0054:001AAF00:020A1901 Jessica]
+Jessica: No!
+The seal!<>
+
+[0055:001AAF08:02105D01 Bosel]
+Bosel: Geh, *gasp*...
+...th, this is....
+our Sword of the Night...Alhazard...<>
+
+[0056:001AAF10:02010101 Elwin]
+Elwin: No!
+Get the sword!<>
+
+[0057:001AAF18:02144D01 Eggbert]
+Eggbert: Hnnn.
+Bozel seems to have turned
+this ritual into a violent mess.<wait>
+It appears I was right about this place...<>
+
+[0058:001AAF20:02105D01 Bosel]
+Bosel: What are you insinuating,
+Eggbert?<>
+
+[0059:001AAF2A:02144D01 Eggbert]
+Eggbert: Time is ebbing and flowing.
+You who controls the very fabric
+of space and time!<wait>
+Open the gates of eternity and
+grant my request!<wait>
+Alfeier Lete Keser
+Rie Egron!<>
+
+[005A:001AAF3A:020E4A01 Bernhart]
+Bernhart: You did it, Eggbert!<>
+
+[005B:001AAF42:02144D01 Eggbert]
+Eggbert:I beg your pardon for
+the trouble.<>
+
+[005C:001AAF4A:02010101 Elwin]
+Elwin: What!?
+Bernhardt!?<>
+
+[005D:001AAF52:02105D01 Bosel]
+Bosel: Hoh....
+You're alive.<>
+
+[005E:001AAF5A:02144D01 Eggbert]
+Eggbert: Heh, heh, heh...
+We are very alive...<>
+
+[005F:001AAF62:020E4A01 Bernhart]
+Bernhart: Bosel.
+While\nyou may have seen fit to
+use us in the past, now it is
+your turn to be used!<>
+
+[0060:001AAF6A:02105D01 Bosel]
+Bosel: Heh!
+You accursed Imperials, to whom
+I've submitted myself, you're
+right on the money.<wait>
+While it was my plan all along to
+betray you, I thought it would be
+fun to stick around for a while
+first.<wait>
+However, have you forgotten that
+I'm about to release the power
+of the Alhazard? You will most
+surely fall to my hand!<>
+
+[0061:001AAF72:020E4A01 Bernhart]
+Bernhart: Stupid fool,\nwe've 
+counted on the ritual leaving you
+weary.<>
+
+[0062:001AAF98:02144D01 Eggbert]
+Eggbert: On top of that, there's no
+reason we need assistance from
+your reprehensible monsters any
+longer.<wait>
+Bozel, we're going to destroy you
+and all of your lackeys.<>
+
+[0063:001AAFA6:02144D01 Eggbert]
+Eggbert: His Majesty's persistant!
+On top of that, there's no reason
+we need assistance from your
+reprehensible monsters any longer.<wait>
+We don't need you alive any more.
+Kill them all!<>
+
+[0064:001AAFB4:022A7501 I. archmage blue/purple]
+Imperial General: Yes, Sir!<>
+
+[0065:001AAFC8:022B7901 I. archmage red/grey]
+Imperial General: Roger!<>
+
+[0066:001AAFD6:022C8301 I. saint blue]
+Imperial General: Understood!<>
+
+[0067:001AAFE4:02105F01 Bosel mad]
+Bosel: How DARE you mock me!
+No, I believe you humans will be the
+ones to die! <>
+
+[0068:001AAFF2:02105F01 Bosel mad]
+Bosel: How DARE you mock me!
+My servants, teach these rude people
+a lesson!<>
+
+[0069:001AB000:0245BB01 Lich green]
+Witch: We, the forces of darkness, will
+be the perfect instructors.<>
+
+[006A:001AB014:0246BB01 Lich green]
+Witch: We, the forces of darkness, will
+be the perfect instructors.<>
+
+[006B:001AB022:020A1B01 Jessica mad]
+Jessica: You who controls the fabric
+of space and time!
+Open the gates of eternity and grant
+my request!<wait>
+Irud Lete Keser La Door!<>
+
+[006C:001AB038:02144D01 Eggbert]
+Eggbert: So, this is the power of
+the Alhazard?
+It looks as if Lady Jessica's magic
+is incomplete.<wait>
+I wonder if Velzeria castle's the right
+place for this? <>
+
+[006D:001AB048:02040D01 Sherry]
+Sherry: ...??
+What on earth is going on?<>
+
+[006E:001AB056:021B2C00 Soldier 2 grey]
+Soldier: W, what's going on?<>
+
+[006F:001AB064:02092001 Lester sad]
+Lester: Jessica's used her
+magic to seal Bernhardt in
+an alternate universe...<>
+
+[0070:001AB072:02010401 Elwin sad]
+Elwin: Jessica used her
+magic to seal Bernhardt away
+in a parallel dimension...<>
+
+[0071:001AB080:02051401 Hain sad]
+Hain: She used the power of her
+own body to increase the strength
+of the spell.<>
+
+[0072:001AB08E:02072401 Keith sad]
+Keith: So that's what it was...
+So, he's defeated?<>
+
+[0073:001AB09C:021B2C00 Soldier 2 grey]
+Soldier: Has he been defeated?<>
+
+[0074:001AB0A4:02010401 Elwin sad]
+Elwin: ...No, I don't think so.<wait>
+Just before Jessica finished casting
+her spell, I saw a light glow forth from
+the Alhazard.  The two then vanished
+into that light.<>
+
+[0075:001AB0B8:02082801 Aaron sad]
+Aaron: Eggbert said something about
+Velzeria castle...<>
+
+[0076:001AB0C6:02051401 Hain sad]
+Hain: There's a high probability that
+Jessica's been transported there.<>
+
+[0077:001AB0D4:02010301 Elwin mad]
+Elwin: Because of Eggbert, they're now
+in Velzeria castle?<>
+
+[0078:001AB0E0:02020501 Riana]
+Riana: Uuuhhh..<>
+
+[0079:001AB0E8:02010101 Elwin]
+Elwin: Huh!?
+Riana!<>
+
+[007A:001AB0F0:02020501 Riana]
+Riana: Aah...
+Elwin!<>
+
+[007B:001AB0F8:02010101 Elwin]
+Elwin: I'm so glad you're safe!<>
+
+[007C:001AB100:02040D01 Sherry]
+Sherry: The girl over here seems
+fine, too!<>
+
+[007D:001AB10C:02030901 Larna]
+Larna: ...W, Wha....<>
+
+[007E:001AB114:02072101 Keith]
+Keith: It looks like Bosel's spell has been lifted.<>
+
+[007F:001AB11C:02020501 Riana]
+Riana: Sister!
+Big Sister Larna!<>
+
+[0080:001AB124:02030901 Larna]
+Larna: Riana?
+Is that really Riana?<>
+
+[0081:001AB12C:02020501 Riana]
+Riana: Sister, I thought I would never see you again....<>
+
+[0082:001AB13A:02061501 Scott]
+Scott: I never would've thought Riana had a twin sister.<>
+
+[0083:001AB142:02030901 Larna]
+Larna: Speaking of which why am I here?<>
+
+[0084:001AB14A:02091D01 Lester]
+Lester: You were being controlled by Bosel.<>
+
+[0085:001AB152:02030901 Larna]
+Larna: By... Bosel....<wait>
+That's right, when I was little I was kidnapped by
+the Prince of Darkness, Bosel, and separated from Riana....<wait>
+Ahhh, then Alhazard...!!!<>
+
+[0086:001AB160:02010101 Elwin]
+Elwin: Bernhart has taken Alhazard. But now
+we don't know where he's going.<>
+
+[0087:001AB168:02030901 Larna]
+Larna: No problem. By sensing the waves from Alhazard
+I can find where he is.<wait>
+......, It appears that Bernhart is in Velzeria Castle.
+I can feel a strong wave of evil from there....<>
+
+[0088:001AB170:02020501 Riana]
+Riana: I've heard that beneath Velzeria Castle 
+the God of Chaos sleeps. It's no mystery
+why Alhazard was brought there.<>
+
+[0089:001AB178:02010101 Elwin]
+Elwin: In that case, let's hurry to Velzeria!<>
+
+[008A:001AB186:02010101 Elwin]
+Elwin: Bernhart took Alhazard.
+If we don't hurry and follow him...<>
+
+[008B:001AB18E:02030901 Larna]
+Larna: Nope.
+First and foremost we must break Langrisser's seal.
+The only thing that can defeat the Evil Sword Alhazard is
+the Holy Sword Langrisser. Langrisser's true power still rests.<>
+
+[008C:001AB196:02082501 Aaron]
+Aaron: What? You mean it's can get stronger?<>
+
+[008D:001AB19E:02051101 Hain]
+Hain: WOW......<>
+
+[008E:001AB1A6:02020501 Riana]
+Riana: We'll need the Holy Rod in the ruins of Elrad
+to break the seal.<>
+
+[008F:001AB1AE:02030C01 Larna sad]
+Larna: Please allow me to help.
+While I was controlled I hurt so many innocent people....
+At least let me do this much.<>
+
+[0090:001AB1B6:02091D01 Lester]
+Lester: We'll let her join, won't we Elwin!
+That way she can make up for what she did when she was being controlled!<>
+
+[0091:001AB1BE:02030C01 Larna sad]
+Larna: I'm so sorry.<>
+
+[0092:001AB1CC:02010101 Elwin]
+Elwin: But what shall we do about
+the dragon's cave?<>
+
+[0093:001AB1D4:02030901 Larna]
+Larna: Listen before you sneak into
+the dragon's lair.<wait>
+Unless you feel you're a true hero,
+you shouldn't attempt entering.<>
+
+[0094:001AB1DC:1D00FF00 ]
+ ":Do you venture forth into
+the dragon's lair?<>
+
+[0095:001AB1E8:02010101 Elwin]
+Elwin: Sounds fun!  Let's get
+a move on, folks!<>
+
+[0096:001AB1F2:02010101 Elwin]
+Elwin: Of course you can! Anyway, first we must obtain the Holy Rod.<wait>
+Then we'll rescue Jessica!<>

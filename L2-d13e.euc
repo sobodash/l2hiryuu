@@ -1,0 +1,390 @@
+<Scenario 13>
+[0000:0019AB40:02072101 Keith]
+Keith: We've got a problem!
+The enemy is right ahead of us!<>
+
+[0001:0019AB48:02010101 Elwin]
+Elwin: What?!<>
+
+[0002:0019AB50:02136001 Zolm]
+Zolm: Gya ha ha ha ha.....
+No matter what you scum won't pass through here.
+I'll die before I let you through! Haha!!!<>
+
+[0003:0019AB58:02091D01 Lester]
+Lester: Who the hell is that?<>
+
+[0004:0019AB60:02051101 Hain]
+Hain: That's that annoying old stuck up fart.<> 
+
+[0005:0019AB68:02082501 Aaron]
+Aaron: Be careful, everyone. This time they're serious.<>
+
+[0006:0019AB70:02040D01 Sherry]
+Sherry: We can't afford to eat it here!
+Attack!<>
+
+[0007:0019AB7E:02136001 Zolm]
+Zolm: We will crush the enemy with our power!
+Together with the General's soon to be born child, the 
+legends will speak of our victory for ages to come!<>
+
+[0008:0019AB86:022EA301 I. soldier 5 green]
+Imperial General: That's right! Before we are certain the 
+General's baby is born, we refuse to die!<>
+
+[0009:0019AB8E:02136001 Zolm]
+Zolm: Let's show these insolent whelps the power of the
+Fire Dragon Corps!<>
+
+[000A:0019AB98:02010101 Elwin]
+Elwin:It seems the enemy has balistas.<>
+
+[000B:0019ABA0:02051101 Hain]
+Hain: Leave the explaining to me.
+After Scott left I studied tactics. Since ballistas use incredibly 
+huge instruments to fire rocks and spears, their range is 
+really long.Therefore Flying troops should be very careful. 
+They'll be killed in a single shot...<>
+
+[000C:0019ABA8:02040D01 Sherry]
+Sherry: What the hell are you talking about?!
+Flying troops are so fast and agile that they won't 
+even have a chance to aim. Therefore Flying troops 
+need not be concerned. Hain, get your facts 
+straight before you start telling us about strategy!<>
+
+[000D:0019ABB0:02051101 Hain]
+Hain: Huh.....??
+Really?!<>
+
+[000E:0019ABB8:02072101 Keith]
+Keith: That's right. Flying troops should just 
+be concerned with Dark Elves. But Princess...
+When did you study tactics?<>
+
+[000F:0019ABC0:02040D01 Sherry]
+Sherry: *giggle*.....
+That's a S-E-C-R-E-T.<>
+
+[0010:0019ABC8:02072101 Keith]
+Keith:I see. However Princess, that amount of knowledge shows that
+you still have a ways to go. Since Griffon's defense are weak 
+to ballista attacks, if you are unprepared they will get killed.<>
+
+[0011:0019ABD6:02051101 Hain]
+Hain: Ha in your face!
+Flying Troops really do need to be careful!<>
+
+[0012:0019ABE4:02040D01 Sherry]
+Sherry: AAAAAHHHHH!
+Your words make me sick!
+I'm mad, Uugghhhh!<>
+
+[0013:0019ABEC:02072101 Keith]
+Keith: Well Princess, please study tactics a little more.<>
+
+[0014:0019AC04:02010100 Elwin]
+Elwin: Get out of the way!<>
+
+[0015:0019AC0E:02010100 Elwin]
+Elwin: Why! Why are you fighting?!
+What on earth could be worth throwing your life away?!<>
+
+[0016:0019AC16:020F5400 Vargas]
+Vargas: Welps will never understand!
+My disgraceful father gave those he raised
+such suffering! I despised his cruelty.<wait> 
+Moreover I'm not planning to lose!
+If you CAN beat me, then win this battle!<wait>
+Come young whelp! Don't hold back!<>
+
+[0017:0019AC20:02010201 Elwin dead]
+Elwin: Damn! This is it....<>
+
+[0018:0019AC2E:020F5400 Vargas]
+Vargas: Don't make me laugh whelp!
+I will surely defeat you!<>
+
+[0019:0019AC38:02051201 Hain dead]
+Hain: Uuuu!
+I've been killed...<>
+
+[001A:0019AC42:02040D00 Sherry]
+Sherry: I don't have time to play around!<>
+
+[001B:0019AC4C:02040E01 Sherry dead]
+Sherry: Ouch....
+This cut is deeper than I though.
+I'm sorry, I have to fall back.<>
+
+[001C:0019AC56:02082601 Aaron dead]
+Aaron: Dammit! Am I really to old?<>
+
+[001D:0019AC60:02072201 Keith dead]
+Keith: Ungh!<>
+
+[001E:0019AC6A:02091D00 Lester]
+Lester: Life isn't something you abuse!<>
+
+[001F:0019AC74:02091E01 Lester dead]
+Lester: That's the way it goes... I'm outta here!<>
+
+[0020:0019AC7E:020A1A01 Jessica dead]
+Jessica: No....<>
+
+[0021:0019AC88:022A8A01 I. soldier 1 purple dead]
+Imperial General: Ugghh...<>
+
+[0022:0019AC92:022B8A01 I. soldier 1 purple dead]
+Imperial General: GWAAA!<>
+
+[0023:0019AC9C:022C9A01 I. soldier 4 blue dead]
+Imperial General: G... General Vargas!!<>
+
+[0024:0019ACA6:022D7500 I. archmage blue/purple]
+Imperial General: You will soon know the pain of 
+having my men's boulders crash onto your head!<>
+
+[0025:0019ACB0:022D7601 I. archmage blue/purple dead]
+Imperial General: My life will soon be over...<>
+
+[0026:0019ACBA:022EA401 I. soldier 5 green dead]
+Imperial General: Damn!<>
+
+[0027:0019ACC4:022F7801 I. archmage green/red dead]
+Imperial General: Darn!<>
+
+[0028:0019ACCE:02307601 I. archmage blue/purple dead]
+Imperial General: Damn!!<>
+
+[0029:0019ACD8:0231A401 I. soldier 5 green dead]
+Imperial General: Bastard! I'll get youuuuu...<>
+
+[002A:0019ACE2:02329A01 I. soldier 4 blue dead]
+Imperial General: Argh!!!<>
+
+[002B:0019ACEC:02136001 Zolm]
+Zolm: If Lord Vargas doesn't make it back, 
+please apologize to Lady Eliza.
+And now, let's teach the fools how terrible we are!<>
+
+[002C:0019ACF6:02136001 Zolm]
+Zolm: Even if Lord Vargas isn't here, I fight with 
+all my might, and the Fire Dragon Corps will not fall!<>
+
+[002D:0019AD00:02136000 Zolm]
+Zolm: I won't let you do as you like for ever!!!!<>
+
+[002E:0019AD0A:02136000 Zolm]
+Zolm: I've grown stronger since the last time we met...
+If you think that I'm going to fall to just a scratch,
+you're going to be very disappointed...<>
+
+[002F:0019AD24:02136101 Zolm dead]
+Zolm: Shit, that was pathetic....
+General Vargas will definitely avenge me---aughh! <>
+
+[0030:0019AD2E:020F5601 Vargas mad]
+Vargas: Zolm! You son of a bitch! You bastard!!! 
+I won't forgive you for this failure!!<>
+
+[0031:0019AD3E:02136001 Zolm]
+Zolm: Lord Vargas, please leave this to us 
+and go to Lady Eliza. Even if The Almighty Zolm's 
+life is taken, the enemy will not pass through!<>
+
+[0032:0019AD46:020F5401 Vargas]
+Vargas: Zolm.
+No matter how I look at it, it's obvious my army 
+will be at a disadvantage. Knowing this and abandoning 
+you, how could I bring myself to return to such 
+a safe place, alone, and leave you here?! You really think I 
+can do that!?<>
+
+[0033:0019AD4E:02136001 Zolm]
+Zolm: There is no one is waiting for my return!
+But General, your wife...<>.
+
+[0034:0019AD62:0272AC00 I. soldier 7 blue]
+Imperial Soldier: Lord Vargas, please leave this to us
+and go to Lady Eliza.Even if my life is taken the enemy
+will not pass through!<>
+
+[0035:0019AD6A:020F5401 Vargas]
+Vargas: No matter how I look at it, it's obvious my army
+will be at a disadvantage.<wait>
+Knowing this and abandoning
+you, how could I bring myself to return to such
+a safe place, alone, and leave you here?! You really think I
+can do that!?<>
+
+[0036:0019AD72:0272AC00 I. soldier 7 blue]
+Imperial Soldier: There is no one waiting for our return!
+But General, your wife....<>
+
+[0037:0019AD9A:020F5501 Vargas dead]
+Vargas: I've been killed.... It's ok... Is this the end.....????<>
+
+[0038:0019ADAA:0211C601 Laird]
+Laird: General Vargas!!<>
+
+[0039:0019ADB2:020D5001 Leon]
+Leon: Wait! We've come to save you!<>
+
+[003A:0019ADBA:020F5501 Vargas dead]
+Vargas: No, it's too late.
+And now I have one last favor to ask....<wait>
+My child is about to be born.
+Please go to Eliza, I want you to tell her that...<wait>
+I won't be coming home. And that I fought
+bravely until the end with my men...<>
+
+[003B:0019ADC2:020D5001 Leon]
+Leon: ....Yes. I will go tell her.<>
+
+[003C:0019ADCA:020F5501 Vargas dead]
+Vargas: I'm sorry to ask this of you...
+But please....<>
+
+[003D:0019ADD4:0211C601 Laird]
+Laird: Lord Leon....<>
+
+[003E:0019ADDC:020D5001 Leon]
+Leon: Laird, you will lead our Platoon to find the castle!
+I must go to explain what has happened to Eliza.
+I will leave immediately.<>
+
+[003F:0019ADE4:0211C601 Laird]
+Laird: Yes sir! Understood sir!<>
+
+[0040:0019ADEE:020D5001 Leon]
+Leon: Red-headed man, you are the leader?
+I am Leon, tell me your name.<>
+
+[0041:0019ADF6:02010101 Elwin]
+Elwin: My name is Elwin.<>
+
+[0042:0019ADFE:020D5001 Leon]
+Leon: Then, Elwin, you'd better remember this!
+I will defeat you next time we meet! I look
+forward to the day!<>
+
+[0043:0019AE08:02010401 Elwin sad]
+Elwin: ........
+This is called war.<>
+
+[0044:0019AE16:02082501 Aaron]
+Aaron: But don't we have to hurry to Kalxath Castle?
+General Vargas' purpose was to stop us apparently...<>
+
+[0045:0019AE24:021B2E00 Soldier 2 yellow]
+Soldier: But don't we have to hurry to Kalzas Castle?
+General Vargas meant to stop us...<>
+
+[0046:0019AE2C:02010101 Elwin]
+Elwin: Yes, that's right.
+Well, let's hurry to Kalzis Castle!<>
+
+[0047:0019AE34:021B2D00 Soldier 2 blue]
+Soldier: A message!<>
+
+[0048:0019AE42:02040D01 Sherry]
+Sherry: What is it!?<>
+
+[0049:0019AE50:02010100 Elwin]
+Elwin: What's wrong?<>
+
+[004A:0019AE58:021B2D00 Soldier 2 blue]
+Soldier: A detachment of wizards attacked the
+castle, and Riana was kidnapped right before
+our very eyes. I'm very sorry...<>
+
+[004B:0019AE66:02072101 Keith]
+Keith: Dammit.....<>
+
+[004C:0019AE6E:02051301 Hain mad]
+Hain: Shit! Those assholes wasted our time 
+just so they could kidnap her! Damn them!!<>
+
+[004D:0019AE76:02010401 Elwin sad]
+Elwin: Riana....<>
+
+[004E:0019AE7E:02041001 Sherry sad]
+Sherry: Riana's kidnapping means that Alhazad's 
+revival is right before our eyes...<>
+
+[004F:0019AE86:02072401 Keith sad]
+Keith: Princess......<>
+
+[0050:0019AE8E:02082801 Aaron sad]
+Aaron: We don't have the power to save
+her by ourselves...<wait>
+According to legend, Alhazard bestows
+upon it's wiedler a tremendous power.<wait>
+He becomes a thing of the demon world.<>
+
+[0051:0019AE96:02010101 Elwin]
+Elwin: Isn't there any way we can save her....<>
+
+[0052:0019AE9E:020A1901 Jessica]
+Jessica: If only we had Langrisser....<>
+
+[0053:0019AEA6:02010101 Elwin]
+Elwin: Huh?<>
+
+[0054:0019AEAE:020A1901 Jessica]
+Jessica: The only thing that can oppose the
+Sword of Evil is the Holy Sword Langrisser.<>
+
+[0055:0019AEBC:02040D01 Sherry]
+Sherry: The legendary sword, Langrisser! 
+It really exists!<>
+
+[0056:0019AEC4:02010101 Elwin]
+Elwin: If that's the case then can we save Riana?<>
+
+[0057:0019AECC:020A1901 Jessica]
+Jessica: There is no other way to defeat the Empire.
+Well Elwin, Let's go to Baltia!<>
+
+[0058:0019AEE6:020F5401 Vargas]
+Vargas: Are you ok Zolm?<>
+
+[0059:0019AEEE:02136001 Zolm]
+Zolm: General Vargas! Why are you here?!
+Is Eliza happy about this?<>
+
+[005A:0019AEF6:020F5401 Vargas]
+Vargas: For such an important fight, 
+do you think I'd leave you to fight ityourself?! 
+Do you think you can win without my commands?!<>
+
+[005B:0019AEFE:02136001 Zolm]
+Zolm: But Lord Vargas....<>
+
+[005C:0019AF06:020F5401 Vargas]
+Vargas: Shut up! Don't say a thing.
+The only thing you should think about is winning!<>
+
+[005D:0019AF18:020F5401 Vargas]
+Vargas: My father was a man who would abandon his men 
+to flee home. Would you call that pride?<wait>
+My father would abandon his men to save himself. He was a 
+cruel man....<wait>
+Because of that when I was young he
+looked down on me very much and often really insulted 
+me. I don't want my child to know those feelings. 
+I don't want my child to be ashamed of his father.<wait> 
+No matter what the situation I'll fight with pride and 
+honour. I want to be a brave man worthy of praise...<wait>
+Moreover I haven't given up yet! Kill the enemy's commander!
+Go after that red-headed man!<>
+
+[005E:0019AF26:02136001 Zolm]
+Zolm: Yes sir!<>
+
+[005F:0019AF50:020F5600 Vargas mad]
+Vargas: I won't die! I must win and return 
+to my wife and child's side!<>
+

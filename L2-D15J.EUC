@@ -1,0 +1,466 @@
+<Scenario 15>
+[0000:0019F242:020A1901 Jessica]
+Jessica:ここを渡れば
+Bernhartの城は目前です。<>
+
+[0001:0019F24A:02010101 Elwin]
+Elwin:とにかく
+Rianaが心配だ。急いで渡ろう！<>
+
+[0002:0019F272:02155701 Imelda]
+Imelda:ようやく
+おいでになったようだねぇ。<>
+
+[0003:0019F27A:02072101 Keith]
+Keith:あれは！？
+女将軍Imelda！<>
+
+[0004:0019F282:02155701 Imelda]
+Imelda:オーホッホッホ‥‥。
+わたくしも有名になったものね。
+その名声にかけても、この川は
+渡らせないよ！<>
+
+[0005:0019F28A:02010101 Elwin]
+Elwin:どうあっても
+渡りきってみせる！<>
+
+[0006:0019F292:02155701 Imelda]
+Imelda:うふふ‥‥。
+何でも力でおせば上手くいくとは
+限らないよ、ぼうや。<>
+
+[0007:0019F2CA:020A1901 Jessica]
+Jessica:どうやら彼女は、
+何者かに操られているようです。<>
+
+[0008:0019F2D2:02010401 Elwin sad]
+Elwin:Rianaが‥‥。
+何か目を覚ます方法はないのか？<>
+
+[0009:0019F2DA:020A1901 Jessica]
+Jessica:術をかけた者を倒せば
+元に戻るかもしれません。<>
+
+[000A:0019F2E2:02010101 Elwin]
+Elwin:くそっ！
+何てひきょうな真似をするんだ！<>
+
+[000B:0019F2F0:02061501 Scott]
+Scott:Elwinさん！
+助けに来ましたよ！<>
+
+[000C:0019F2F8:02010101 Elwin]
+Elwin:Scott！<>
+
+[000D:0019F300:02061501 Scott]
+Scott:今までの修業の成果を
+見て下さい！<>
+
+[000E:0019F314:020A1901 Jessica]
+Jessica:アルハザードだけは
+目覚めさせてはなりません！
+あの時の悪夢を今再び
+繰り返してはならないのです！<>
+
+[000F:0019F31E:02155701 Imelda]
+Imelda:ヤツらにこの河を
+渡らせるんじゃないよ！
+死んでもくい止めてみせな！<>
+
+[0010:0019F326:022BA501 I. water soldier blue]
+Imperial General:ハッ！
+Imelda様のためならば、
+我らは死をも恐れません！<>
+
+[0011:0019F32E:02155701 Imelda]
+Imelda:うふふ‥‥。
+かわいい子達だね。<>
+
+[0012:0019F338:02155701 Imelda]
+Imelda:ちょっと！
+まだ撃破できないのかい？
+あたしは気の長いほうじゃ
+ないんだよ。<>
+
+[0013:0019F346:022C8701 I. soldier 1 grey]
+Imperial General:しかし今回の作戦は
+敵が渡河のさいに迎撃するのが
+上策かと思うのですが‥‥。<>
+
+[0014:0019F354:022C8701 I. soldier 1 grey]
+Imperial General:ハッ、
+申しわけありません！<>
+
+[0015:0019F362:0272AC00 I. soldier 7 blue]
+Imperial Soldier:しかし今回の作戦は
+敵が渡河のさいに迎撃するのが
+上策かと思うのですが‥‥。<>
+
+[0016:0019F370:0272AC00 I. soldier 7 blue]
+Imperial Soldier:ハッ、
+申しわけありません！<>
+
+[0017:0019F386:02155701 Imelda]
+Imelda:しまった！
+体勢を立て直して再戦だ！
+全軍退却！<>
+
+[0018:0019F39E:02010101 Elwin]
+Elwin:なぜRianaが
+操られなければならないんだ！
+一体、何のために‥‥<>
+
+[0019:0019F3AC:02010101 Elwin]
+Elwin:一体どうなって
+いるというんだ‥‥。<>
+
+[001A:0019F3B6:02010201 Elwin dead]
+Elwin:ここまでか‥‥<>
+
+[001B:0019F3C4:02051201 Hein dead]
+Hain:やられた‥‥<>
+
+[001C:0019F3CE:02040E01 Sherry dead]
+Sherry:イッターイ‥‥<>
+
+[001D:0019F3D8:02082500 Aaron]
+Aaron:こりゃ！
+年上をうやまわんかい。<>
+
+[001E:0019F3E2:02082601 Aaron dead]
+Aaron:うっ、持病が‥‥<>
+
+[001F:0019F3EC:02072100 Keith]
+Keith:邪魔だ！<>
+
+[0020:0019F3F6:02072201 Keith dead]
+Keith:しまった！<>
+
+[0021:0019F400:02091D01 Lester]
+Lester:このヤロー、
+よるんじゃねぇ！<>
+
+[0022:0019F40A:02091D00 Lester]
+Lester:女と戦うシュミはねえが
+‥‥まあ、しかたねえ。<>
+
+[0023:0019F412:02155700 Imelda]
+Imelda:ふんッ！
+女だと思ってあまくみると
+痛い目にあうよ！<>
+
+[0024:0019F41C:02091D01 Lester]
+Lester:こいつ、本当に
+仲間だったのかよ？<>
+
+[0025:0019F426:02091E01 Lester dead]
+Lester:ちくしょう！<>
+
+[0026:0019F430:020A1A01 Jessica dead]
+Jessica:まさか‥‥<>
+
+[0027:0019F43A:02061501 Scott]
+Scott:よし、行くぞ！
+みんなの援護をするんだ！<>
+
+[0028:0019F442:02051101 Hein]
+Hain:ところでScott。
+その羽根を生やした兵は一体
+なんだい？<>
+
+[0029:0019F44A:02061501 Scott]
+Scott:彼らがエンジェルです。
+すごい事に、エンジェル達は
+魔法攻撃を一切、受けつける事が
+ないんです。<wait>
+きっとおやくに立てると思って
+父に無理を言って、やとって
+来たんです。<>
+
+[002A:0019F458:02040D01 Sherry]
+Sherry:ふ〜ん。
+魔法がきかないなんて、すごい
+兵もいるのね。<>
+
+[002B:0019F466:02061500 Scott]
+Scott:さあ、行くぞ！
+修業の成果をみせてやる！<>
+
+[002C:0019F470:02061601 Scott dead]
+Scott:くっ、まだダメか！
+強くなったと思ったのに！<>
+
+[002D:0019F47A:022A8300 I. saint blue]
+Imperial General:何するのよ！<>
+
+[002E:0019F484:022A8300 I. saint blue]
+Imperial General:死になさい！<>
+
+[002F:0019F48E:022A8401 I. saint blue dead]
+Imperial General:キャー！<>
+
+[0030:0019F4BC:022BA501 I. water soldier blue]
+Imperial General:この兵力じゃ、
+勝てるはずがない！撤退だ！<>
+
+[0031:0019F4CC:022BA601 I. water soldier blue dead]
+Imperial General:もうこうなったら、
+やけだ！行くぞ！！<>
+
+[0032:0019F4D6:022BA601 I. water soldier blue dead]
+Imperial General:ウワーッ！<>
+
+[0033:0019F4E6:022BA501 I. water soldier blue]
+Imperial General:お願いです！
+もう逃げません、おゆるしをッ！<>
+
+[0034:0019F4EE:02155701 Imelda]
+Imelda:ふん、だらしない！
+もしまた逃げようってんなら、
+今度こそ命は無いとお思いッ！<>
+
+[0035:0019F4F6:022BA501 I. water soldier blue]
+Imperial General:は、はい！
+申しわけありません！<>
+
+[0036:0019F4FE:02155701 Imelda]
+Imelda:分かればいい。
+さっさと任務につきな！<>
+
+[0037:0019F50C:02051101 Hein]
+Hain:うわ‥‥。
+こいつはヒドイや‥‥<>
+
+[0038:0019F51A:02091D01 Lester]
+Lester:何だ、ありゃ！
+あの女には部下を思う気持ちが
+みじんもねえのか？<>
+
+[0039:0019F53E:022C8700 I. soldier 1 grey]
+Imperial General:Imelda様には
+一歩たりとも近づけさせんぞ！<>
+
+[003A:0019F548:022C8801 I. soldier 1 grey dead]
+Imperial General:バカなァァッ！<>
+
+[003B:0019F552:022D7900 I. archmage red/grey]
+Imperial General:そこまでだ！<>
+
+[003C:0019F562:022D7A01 I. archmage red/grey dead]
+Imperial General:ここまでか‥‥<>
+
+[003D:0019F56C:022EA501 I. water soldier blue]
+Imperial General:こうなったら
+突撃だァーッ！<>
+
+[003E:0019F576:022EA601 I. water soldier blue dead]
+Imperial General:うう‥‥
+Imeldaさまーァァァッ！<>
+
+[003F:0019F584:022EA500 I. water soldier blue]
+Imperial General:この程度の傷、
+大した事ないわ！<>
+
+[0040:0019F594:022FA601 I. water soldier blue dead]
+Imperial General:Imelda様！
+助けて‥下さい‥‥。
+Imelda様ァーーーーーーッ！<>
+
+[0041:0019F59E:02155701 Imelda]
+Imelda:全くだらしがないねぇ。
+私の部隊に、弱いヤツは
+いらないよ！<>
+
+[0042:0019F5BE:02155701 Imelda]
+Imelda:ちょっと、待ちな！
+いつ私が撤退しろと言った！<>
+
+[0043:0019F5C6:022BA501 I. water soldier blue]
+Imperial General:Imelda様！
+しかしながら、今の兵力では
+ささえきれません！
+増援を！<>
+
+[0044:0019F5CE:02155701 Imelda]
+Imelda:ヨワネをはくなら
+あの世に行ってからはくんだね！<>
+
+[0045:0019F5D6:022BA501 I. water soldier blue]
+Imperial General:そんな‥‥<>
+
+[0046:0019F606:02155700 Imelda]
+Imelda:オーーーホッホッホ！
+美しいバラにはトゲがある
+ものよ！<>
+
+[0047:0019F626:02155700 Imelda]
+Imelda:ふふふ‥‥。
+敵前逃亡なんてゆるさないよ！
+たっぷりと、おしおきを
+しなくちゃねぇ！<>
+
+[0048:0019F630:02155700 Imelda]
+Imelda:大人しく、わたくしの
+剣にかかって死になさい！<>
+
+[0049:0019F63A:02155701 Imelda]
+Imelda:うぐっ！退却よ！
+おぼえておいで！<>
+
+[004A:0019F64A:02010101 Elwin]
+Elwin:Riana、俺だ！
+Elwinだ！
+分らないのか！<>
+
+[004B:0019F65A:02051101 Hein]
+Hain:どうしたんだよRiana。
+目を覚ましてくれよ！<>
+
+[004C:0019F66A:020C5B01 Lana dark princess dead]
+Larna:わ、私が‥‥
+負けるなんて。<>
+
+[004D:0019F672:02005D00 Bozel]
+ ":戻れ、ダーク・プリンセスよ。
+お前を失うわけにはいかん。<>
+
+[004E:0019F67A:020C5B00 Lana dark princess dead]
+Larna:‥‥はい、分りました。<>
+
+[004F:0019F688:02155701 Imelda]
+Imelda:ふん！
+しょせんただの小娘。
+やっぱり、あてにならないね。<>
+
+[0050:0019F692:023EB201 Scylla yellow]
+Scylla:ヒヒヒ‥‥。
+おいしそうなエモノだわ。<>
+
+[0051:0019F69C:023EB201 Scylla yellow]
+Scylla:ウギャー！<>
+
+[0052:0019F6A6:023FB200 Scylla yellow]
+Scylla:ヒャハハ‥‥
+死ねえっ！<>
+
+[0053:0019F6B0:023FB201 Scylla yellow]
+Scylla:うう‥‥<>
+
+[0054:0019F6BA:0252B601 Dragon blue]
+Wyvern:ＧＹＳＹＡＡＡＨ！<>
+
+[0055:0019F6D8:02155701 Imelda]
+Imelda:おだまり！
+あんたが、このあたしに兵法を
+語るなんて百年はやいんだよ！<>
+
+[0056:0019F6E2:020C5C01 Lana dark princess mad]
+Larna:何を言っているの？
+私はLarna！
+ダーク・プリンセス、Larnaよ！<>
+
+[0057:0019F6FC:02051101 Hein]
+Hain:あっ！Riana！<>
+
+[0058:0019F704:02010101 Elwin]
+Elwin:Riana？！<>
+
+[0059:0019F70C:020C5A01 Lana dark princess]
+Larna:くるしんでいるようね、
+Imelda将軍？<>
+
+[005A:0019F714:02155701 Imelda]
+Imelda:チッ！
+ダーク・プリンセスか！<wait>
+お前のようなすじょうの知れぬ
+小娘に、そのような口を
+きかれるおぼえはない！<>
+
+[005B:0019F71C:020C5A01 Lana dark princess]
+Larna:私にそんな口をきいて、
+後で後悔しない事ね。
+とりあえず今回は命令なんで
+手助けしてあげるわ。<wait>
+さあ我が下僕達よ、おろかにも
+刃向かう者達に死を！<>
+
+[005C:0019F730:02155701 Imelda]
+Imelda:‥‥チッ、
+小娘に助けられるとは、あたしも
+落ちたものだね‥‥。<>
+
+[005D:0019F73E:020A1901 Jessica]
+Jessica:モンスターを操るなんて
+彼女は闇の魔道に通じていると
+いうの‥‥？<>
+
+[005E:0019F746:02010101 Elwin]
+Elwin:そんなバカな。<>
+
+[005F:0019F75C:020C5A01 Lana dark princess]
+Larna:口ほどにもない女ね‥‥。
+引き上げるわよ！<>
+
+[0060:0019F76C:02040D01 Sherry]
+Sherry:敵が逃げて行く‥‥。<>
+
+[0061:0019F77A:021B2900 Soldier 1 grey]
+Soldier:敵が逃げていきます！<>
+
+[0062:0019F788:02010101 Elwin]
+Elwin:それよりも、
+どうしてRianaがモンスターを
+操るんだ？<>
+
+[0063:0019F790:020A1901 Jessica]
+Jessica:彼女には、術を
+かけられているらしい感じが
+ありました。<wait>
+それと彼女をよび戻したあの声は
+聞きおぼえがあります。
+もしかすると‥‥。<>
+
+[0064:0019F7A2:02061501 Scott]
+Scott:大丈夫ですか？<wait>
+と思ったら、もう終わったみたい
+ですね。<>
+
+[0065:0019F7AA:02010101 Elwin]
+Elwin:Scott！<>
+
+[0066:0019F7B2:02061501 Scott]
+Scott:みなさんとともに
+戦えるよう、父上に頼んで
+きたのです。<wait>
+今までの修業の成果をお見せ
+しますよ。<>
+
+[0067:0019F7C4:02051101 Hein]
+Hain:よ〜し。
+これでBernhartをやっつけて
+やろうぜ！<>
+
+[0068:0019F7CC:02061501 Scott]
+Scott:それよりみなさん。
+急いでレイガルド城へ向かう
+必要があるのでは？<>
+
+[0069:0019F7D4:02082501 Aaron]
+Aaron:Scott殿か。
+しばらく見ぬうちにたくましく
+なったのう‥‥。<>
+
+[006A:0019F7DC:02061501 Scott]
+Scott:事情は聞きました。
+私もともに戦いましょう！<>
+
+[006B:0019F7EA:02091D01 Lester]
+Lester:レイガルド城は、もう
+目の前だぜ。<>
+
+[006C:0019F7F2:02010101 Elwin]
+Elwin:分かった。
+とにかくRianaが心配だ。
+急いで先へ行くぞ！<>
+

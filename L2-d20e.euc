@@ -1,0 +1,376 @@
+<Scenario 20>
+[0000:001A7A7A:02061501 Scott]
+Scott: Looks like there's trouble... A boat has stopped next to us!
+They're trying to board us!<>
+
+[0001:001A7A82:02040D01 Sherry]
+Sherry: Let's give them a proper greeting!<>
+
+[0002:001A7A8A:0273C301 Bone minotaur]
+Fayas: So, just as I thought,
+the Descendents of Light
+have come here. 
+For you to take up arms against
+Bozel and still be living requires
+much skill and strength on your behalf.<wait>
+But you're not going to reach
+Velzeria. I simply won't allow
+it!<><>
+
+[0003:001A7A92:02010101 Elwin]
+Elwin: I can't be helped.
+Looks like we have to break through.<>
+
+[0004:001A7A9A:0273C301 Bone minotaur]
+Fayas: ...Interesting. I'll fight you to see if my old wound
+gets in the way.<>
+
+[0005:001A7AB4:02051101 Hain]
+Hain: Among the enemy, that's one of the strangest statues I've seen, isn't
+that a Golem....<>
+
+[0006:001A7ABC:02061501 Scott]
+Scott: That's right....
+Golem's are made impervious to harm, making them
+difficult to defeat. Furthermore since they carry pikes, fighting
+them with horse troops is dangerous. But since they are so slow,
+footsoldiers can take the advantage.<>
+
+[0007:001A7ACA:02040D01 Sherry]
+Sherry: Ehhhh....Scott, you really know a lot, don't you.<>
+
+[0008:001A7AD2:02051101 Hain]
+Hain: Sherry, I think it's more that you're just ignorant to these things...<>
+
+[0009:001A7ADA:02040D01 Sherry]
+Sherry: OH! Puh-leease!!!
+If you're so concerned about my alleged
+"lack of knowledge", then put your mind
+at ease knowing that I already understood
+such a simple fact!<>
+
+[000A:001A7AE8:02072101 Keith]
+Keith: Princess, I really wish
+you would concentrate more
+on your studies!<>
+
+[000B:001A7AF0:02040D01 Sherry]
+Sherry: Fine then, Keith! That does it! Once this war is over I'm running away!<>
+
+[000C:001A7AF8:02072101 Keith]
+Keith: Princess, please!<>
+
+[000D:001A7B06:02082501 Aaron]
+Aaron: My...... what a pain in the.....<>
+
+
+[000E:001A7B28:0260D001 Octopus]
+Kraken: GYUGOOOOH!<>
+
+[000F:001A7B30:0252B601 Dragon blue]
+Wyvern: GISYAAA!<>
+
+[0010:001A7B3E:0273C301 Bone minotaur]
+Fayas: Fu ha ha...Bosel's reinforcements are right on time.
+Soon we will put an end to you.<>
+
+[0011:001A7B4C:02051101 Hain]
+Hain: Damn! The enemy reinforcements are here!<>
+
+[0012:001A7B5A:02061501 Scott]
+Scott: A Kraken is here!
+We must change our strategy!<>
+
+[0013:001A7B62:02010101 Elwin]
+Elwin: Don't fight it in the water! Lure it on to the ship and fight!<>
+
+[0014:001A7B6C:0273C301 Bone minotaur]
+Fayas: I have an old grudge with you descendants of light.
+Especially the red squirt, you!<>
+
+[0015:001A7B74:02010101 Elwin]
+Elwin: What are you talking about?<>
+
+[0016:001A7B7C:0273C301 Bone minotaur]
+Fayas: You really don't know?
+I had orders from Bosel to eliminate the descendants of Light.....
+But when I went out to kill you, an old buffon got in the way....<>
+
+[0017:001A7B84:02010301 Elwin mad]
+Elwin: WHAT?! Then you killed Doren!<>
+
+[0018:001A7B8C:0273C301 Bone minotaur]
+Fayas: That's right!
+Thanks to him I got a bad wound and I've never quite recovered.
+But even with this wound....
+This time, I will feast in your blood.<>
+
+[0019:001A7B94:02010301 Elwin mad]
+Elwin: I'll never forgive you!!!!!!
+I will definitely defeat you!
+Prepare to die!<>
+
+[001A:001A7B9E:02010101 Elwin]
+Elwin: The only one left is you! Now I will avenge
+Doren!<>
+
+[001B:001A7BA6:0273C301 Bone minotaur]
+Fayas: Don't make me laugh!
+You really think you can beat me!<>
+
+[001C:001A7BB6:0273C301 Bone minotaur]
+Fayas: Ha ha ha.....
+You despise me?
+Want to kill me?<wait>
+That rage and hatred is the source of our power.....
+You're nothing more than a hate-ridden fool.<>
+
+[001D:001A7BBE:02010301 Elwin mad]
+Elwin: Damn......<>
+
+[001E:001A7BCC:020A1901 Jessica]
+Jessica: Elwin!
+Don't fight with just rage and hatred!<wait>
+If you do that you will lose the power of light!<>
+
+[001F:001A7BDC:0273C301 Bone minotaur]
+Fayas: Oh, by the way, this girl Riana
+you speak of is quite the delicious-
+looking morsel.<wait>
+Heh-heh-heh, wouldn't it be dreadful
+to see the look on her face if I were to
+rip the flesh off her tender body and
+suck the blood out from her veins?<>
+
+[0020:001A7BE4:02010301 Elwin mad]
+Elwin: Fayas!! You won't get away with this!
+I'll surely rescue Riana!<>
+
+[0021:001A7BEC:0273C301 Bone minotaur]
+Fayas: Fu ha ha...
+You can say that after you beat me!<>
+
+[0022:001A7BF6:02010100 Elwin]
+Elwin: Let's do it!
+Lure the Kraken to the ship like this.<>
+
+[0023:001A7C02:02010101 Elwin]
+Elwin: Let's go in one stroke!
+Eliminate the enemy!<>
+
+[0024:001A7C10:0273C301 Bone minotaur]
+Fayas: Son of a.....
+But you underestimate our magic power!<>
+
+[0025:001A7C1E:02091D01 Lester]
+Lester: We'll see about that!
+If we surround the sucker with
+flying and water units, we should
+kick his butt easily enough.<>
+
+[0026:001A7C26:02010101 Elwin]
+Elwin: That's right. Let's not give them a change to counterattack!<>
+
+[0027:001A7C32:02010301 Elwin mad]
+Elwin: Fayas! There's no where to run!
+Prepare yourself!<>
+
+[0028:001A7C3A:0273C301 Bone minotaur]
+Fayas: Pathetic!
+I'll let you meet your old man!<>
+
+[0029:001A7C4A:02010201 Elwin dead]
+Elwin: Fayas....<>
+
+[002A:001A7C58:02010201 Elwin dead]
+Elwin: Riana....<>
+
+[002B:001A7C66:0273C301 Bone minotaur]
+Fayas: Shrimp!
+You finally made it!
+But how long will this fortune continue!<>
+
+[002C:001A7C6E:02010301 Elwin mad]
+Elwin: Don't underestimate me!<>
+
+[002D:001A7C78:02051201 Hain dead]
+Hain: I'm beaten....<>
+
+[002E:001A7C82:02040E01 Sherry dead]
+Sherry: It's no good....<>
+
+[002F:001A7C8C:02082601 Aaron dead]
+Aaron: Ugh...
+I feel sick...<>
+
+[0030:001A7C96:02072201 Keith dead]
+Keith: Dammit!
+They're too good....<>
+
+[0031:001A7CA0:02091E01 Lester dead]
+Lester: Damn!
+I got whooped....<>
+
+[0032:001A7CAA:020A1A01 Jessica dead]
+Jessica: This can't be....<>
+
+[0033:001A7CB4:02061601 Scott dead]
+Scott: Damn?!<>
+
+[0034:001A7CBE:0273C301 Bone minotaur]
+Fayas: This is my last chance to prove myself to Bosel...
+I won't make the same mistakes as last time....<wait>
+I shall bathe in the blood of
+the Descendents of Light from
+here on!<>
+
+[0035:001A7CC8:0273C301 Bone minotaur]
+Fayas: Fu ha ha!
+I've always wanted to show you!
+That old bag's bleeding corpse!<>
+
+[0036:001A7CD6:02041001 Sherry sad]
+Sherry:Elwin....<>
+
+[0037:001A7CDE:02010101 Elwin]
+Elwin: I'm ok. If I fight with just rage and hatred I'll be no different from him.<wait>
+Besides if I loose my cool, I won't be able to win this fight that I must win.<>
+
+[0038:001A7CE6:0273C301 Bone minotaur]
+Fayas: Hmmmmm...
+You're the leader alright, you're not so stupid after all.<>
+
+[0039:001A7CEE:02040F01 Sherry mad]
+Sherry: The victory which you speak
+of will be ours alone!<>
+
+[003A:001A7CF8:0273C300 Bone minotaur]
+Fayas: Don't be so conceited!
+With the power given to me by Bosel I won't lose
+to a mere human!<>
+
+[003B:001A7D02:0273C301 Bone minotaur]
+Fayas: Powerful indeed....<wait>
+But with that amount of skill, opposing Bosel is reckless.
+A horrible death awaits you in Velzeria...<wait>Now Bosel can easily draw forth those
+with my level of power. Though you've beaten me, raising a sword to Bosel is the same 
+as death. I will be waiting in hell! Fu ha ha ha....Gyhaaa!<>
+
+[003C:001A7D12:02010401 Elwin sad]
+Elwin: Doren....
+I have defeated him.
+Please sleep peacefully....<>
+
+[003D:001A7D20:02010401 Elwin sad]
+Elwin: With this hand, I have defeated him....
+At least you can sleep peacefully, Doren....<>
+
+[003E:001A7D2A:0245B901 Lich purple]
+Witch: Bo....Bosel!<>
+
+[003F:001A7D34:0246B900 Lich purple]
+Witch: I don't wanna die like this...<>
+
+[0040:001A7D3E:0246B901 Lich purple]
+Witch: He-he-he....
+No matter how quick you are,
+you won't be able to stop the
+reawakening of the Alhazard.<wait>
+I'm sure Bozel has planned quite
+a hideous death for such pests as
+yourselves.<>
+
+[0041:001A7D48:025EC201 Minotaur]
+Minotaur: Gwoh!!<>
+
+[0042:001A7D52:025FC201 Minotaur]
+Minotaur: Gugah!!<>
+
+[0043:001A7D5C:023EB300 Scylla purple]
+Scylla: What a cute little child.
+I shall turn you into shark food soon enough...<>
+
+[0044:001A7D66:023EB301 Scylla purple]
+Scylla: You shouldn't have done that to me...<>
+
+[0045:001A7D70:023FB300 Scylla purple]
+Scylla: Your blood will turn the sea red!<>
+
+[0046:001A7D7A:023FB301 Scylla purple]
+Scylla: Kwah!<>
+
+[0047:001A7D84:0260D001 Octopus]
+Kraken: GOOOH!<>
+
+[0048:001A7D8E:0252B601 Dragon blue]
+Wyvern: GYSYAAAH!<>
+
+[0049:001A7D98:0253B601 Dragon blue]
+Wyvern: GYSYAAAH!<>
+
+[004A:001A7DC4:02010401 Elwin sad]
+Elwin: He died because I was a descendant of light...<wait>
+..He died instead of me...<wait>
+Many people close to me have died....
+I can't protect anyone...<>
+
+[004B:001A7DD2:02041001 Sherry sad]
+Sherry:Elwin....<>
+
+[004C:001A7DE0:020A1901 Jessica]
+Jessica: You were destined to be born as a Descendant of Light.<wait>
+But everyone gathered here today hasn't happened simply because you are a Descendant of Light.<wait>
+Since they believe in you, they've fought with you this far, haven't they?<>
+
+[004D:001A7DEE:02051101 Hain]
+Hain: That's right, Elwin!<>
+
+[004E:001A7DF6:020A1900 Jessica]
+Jessica: If you don't press on...
+If the Descendants of Light's won't
+do it...
+If you, yourself, aren't up to the task...<>
+
+[004F:001A7DFE:02010101 Elwin]
+Elwin: ....That right isn't it.
+Then from here on in we have no time to spare.
+Let's combine our strength and save the world!<wait>
+Prevent Alhazard's revival, save the world, and to rescue
+Riana!<>
+
+[0050:001A7E0C:02010101 Elwin]
+Elwin: ...And we must stop Alhazard's revival.
+And go rescue Riana!<>
+
+[0051:001A7E1A:02091D01 Lester]
+Lester: Hey!
+Oi, look over there!
+Land ho!<>
+
+[0052:001A7E28:021B2900 Soldier 1 grey]
+Soldier: Land?!
+Land ho!!<>
+
+[0053:001A7E36:020A1901 Jessica]
+Jessica: We're getting closer and closer to Velzeria...<>
+
+[0054:001A7E44:02010101 Elwin]
+Elwin: It looks like we're nearing Velzeria...<>
+
+[0055:001A7E52:02061501 Scott]
+Scott: We're approaching the origin of the monsters...<>
+
+[0056:001A7E60:02072101 Keith]
+Keith: The enemy probably won't hold
+back for much longer.
+From now on, we must remain alert.<>
+
+[0057:001A7E6E:021B2900 Soldier 1 grey]
+Soldier: The enemy probably won't
+allow us passage without resistance...<>
+
+[0058:001A7E76:02010101 Elwin]
+Elwin: Everyone...
+I've finally spotted Velzeria!
+Don't let your guard down!<>
+

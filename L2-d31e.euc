@@ -1,0 +1,153 @@
+<Scenario 31>
+[0000:001B8502:02144D01 Eggbert]
+Eggbert: Ku Ku Ku.....
+You came here without running away.....<wait>
+In accordance to the law of Death Tower, we have
+taken your friends hostage.<>
+
+[0001:001B85BA:02051101 Hein]
+Hein: What are we gonna do Elwin?
+It's just you and me.<>
+
+[0002:001B85C2:020E4A01 Bernhart]
+Bernhart: If you beat us your friends will increase.<>
+
+[0003:001B85CA:02010101 Elwin]
+Elwin: All right,
+Let's go Hein!<>
+
+[0004:001B85F6:0200FF00 ]
+ ": You found an Assault Suit!<>
+
+[0005:001B860C:0200FF00 ]
+ ": You found a runestone!<>
+
+[0006:001B8622:0200FF00 ]
+ ": You found a runestone!<>
+
+[0007:001B8638:0200FF00 ]
+ ": You found a Flame Lance!<>
+
+[0008:001B8656:02010201 Elwin dead]
+Elwin: Damn...
+This is it....<>
+
+[0009:001B8664:02051201 Hein dead]
+Hein: Eeoowch!!! I'm done for...!<>
+
+[000A:001B866E:02040E01 Sherry dead]
+Sherry: Owwwww!<>
+
+[000B:001B8678:02082601 Aaron dead]
+Aaron: Damn....<>
+
+[000C:001B8682:02072201 Keith dead]
+Keith: I'm sorry...<>
+
+[000D:001B868C:02091E01 Lester dead]
+Lester: Uuuh...
+They got me...<>
+
+[000E:001B8696:02020601 Riana dead]
+Riana: I'm sorry.....<>
+
+[000F:001B86A0:02030A01 Lana dead]
+Lana: I'm sorry...
+I'll retreat....<>
+
+[0010:001B86AA:020A1A01 Jessica dead]
+Jessica: This is.....<>
+
+[0011:001B86B4:020F5501 Vargas dead]
+Vargas: Eliza....<>
+
+[0012:001B86CC:02040D01 Sherry]
+Sherry: Elwin! Thanks for saving me!<>
+
+[0013:001B86DA:02051101 Hein]
+Hein: Hey....
+What about me....<>
+
+[0014:001B86E2:02040D01 Sherry]
+Sherry: Ahhh, thank you too, Hein...<>
+
+[0015:001B86EA:02051101 Hein]
+Hein: Geez, why do I SUCK so much in this game?!<>
+
+[0016:001B86F4:02155801 Imelda dead]
+Imelda: ....How could beautiful me lose to such....<>
+
+[0017:001B8716:02082501 Aaron]
+Aaron: It's about time you saved me...<>
+
+[0018:001B871E:02072101 Keith]
+Keith: We can almost reach the final floor!
+C'mon!!!<>
+
+[0019:001B8728:0267C301 Bone minotaur]
+Demon Lord: Guha!<>
+
+[001A:001B8732:020D5101 Leon dead (eye open)]
+Leon: Impossible, how could I lose....<>
+
+[001B:001B874E:02091D01 Lester]
+Lester: YEAH!
+Thanks a lot everyone!<>
+
+[001C:001B8758:0211C601 Laird]
+Laird: You won't pass another step!<>
+
+[001D:001B8762:0211C701 Laird dead]
+Laird: Leon....
+Forgive me......<>
+
+[001E:001B876C:02144E01 Eggbert dead]
+Eggbert: Damn...
+I've been beaten a 2nd time....<>
+
+[001F:001B8798:0265C301 Bone minotaur]
+Demon Lord: Gegegege......<>
+
+[0020:001B87A2:02105E01 Bozel dead]
+Bozel: Fu fu...
+We'll meet again!<>
+
+[0021:001B87C4:02020501 Riana]
+Riana: Thank you, Elwin!<>
+
+[0022:001B87CC:02010101 Elwin]
+Elwin: Riana....
+I was worried....
+Are you ok?<>
+
+[0023:001B87D4:02020501 Riana]
+Riana: Yeah.....<>
+
+[0024:001B87DC:02030901 Lana]
+Lana: ...The only one left is Bernhart.
+Let's hurry!<>
+
+[0025:001B87E4:02020501 Riana]
+Riana: Yes, big sister!<>
+
+[0026:001B87EE:0266C301 Bone minotaur]
+Demon Lord: Guoooooo!<>
+
+[0027:001B87F8:020E4B01 Bernhart dead]
+Bernhart: Hmmm, quite impressive....<>
+
+[0028:001B880A:02010101 Elwin]
+Elwin: Haaa....
+Finally over....<>
+
+[0029:001B8812:02061501 Scott]
+Scott: All of the Empires Generals... In one
+scenario...<>
+
+[002A:001B881A:02091D01 Lester]
+Lester: Come on...
+let's go now...<>
+
+[002B:001B8822:02010101 Elwin]
+Elwin: Alright!
+At last the final battle!<>

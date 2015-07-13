@@ -1,0 +1,645 @@
+<Scenario 04>
+[0000:00189DAC:02166201 Morgan]
+Morgan: Will you stop your futile
+resistance soon?
+You're alive only for now <wait>
+If you say you wish to fight,
+just keep in mind that you will not
+be able to beat me.
+I would just hate to have to kill
+you young women. <wait>
+Wah-hah-hah-hah!<>
+
+[0001:00189DB4:02703101 Civilian yellow]
+Shinto Priest: What on earth are your
+intentions?
+What is it in here that you want? <>
+
+[0002:00189DBC:02166201 Morgan]
+Morgan: You don't know, do you?
+I plan on confiscating a stone tablet
+within this sanctuary. <wait>
+If you value your lives, 
+don't be pathetic and just
+hand over the stone, otherwise
+we'll be forced to kill you all.<>
+
+[0003:00189DC4:021FCA01 Shinto grey]
+Priest: You're after the stone tablet
+that has to do with the seal on
+Alhazard! <wait>
+Now that I know that, I'll definitely
+not hand it over to you! <>
+
+[0004:00189DCC:02166201 Morgan]
+Morgan: Oh, really?
+How disappointing that you're
+willing to throw away your
+whole life just because you
+won't listen to a simple
+request.<wait>
+Well then, you shall be so kind
+as to die.<>
+
+[0005:00189DE8:02061501 Scott]
+Scott: Look, the church is under
+attack!<>
+
+[0006:00189DF0:02020501 Riana]
+Riana: High Priest!<>
+
+[0007:00189DF8:02166201 Morgan]
+Morgan: So, it's you guys, eh?
+Well, it seems my timing is
+perfect.<wait>
+Along with the tablet, I shall
+take that little girl!<>
+
+[0008:00189E00:02051101 Hain]
+Hain: Oh, is that right!?<>
+
+[0009:00189E08:02010101 Elwin]
+Elwin: While we're fighting, Riana,
+I want you to stay put. <>
+
+[000A:00189E10:02020501 Riana]
+Riana: O, okay. <>
+
+[000B:00189E22:02166201 Morgan]
+Morgan: High Priest....
+It is useless to resist us,
+the Black Dragon Sorcerers.<wait>
+This is your last chance.
+Why not do the right thing and
+just give up?<>
+
+[000C:00189E2A:021FCA01 Shinto grey]
+Priest: Never!
+I will never hand over the stone
+tablet!
+I can not let you have access to
+the spell that will release the seal
+on the demon sword, no matter
+what your intentions are!<>
+
+[000D:00189E32:02166201 Morgan]
+Morgan: Well, then.
+His majesty Bernhardt and
+my master Lord Eggbert have
+their reasons.<wait>
+Their intentions are not necessary
+for you to know.<>
+
+[000E:00189E42:02061501 Scott]
+Scott: Watch out for the enemy's
+Dark Elves.
+Be careful if you don't engage
+in melee!<>
+
+[000F:00189E4A:02010101 Elwin]
+Elwin: The elves' defenses are
+weak, aren't they? <>
+
+[0010:00189E52:02061500 Scott]
+Scott: Yes.
+Therefore you can kill them
+very quickly if you attack
+directly.<>
+
+[0011:00189E5A:02051101 Hain]
+Hain: However...
+the attack power of these elves
+is very high, right?<>
+
+[0012:00189E62:02061501 Scott]
+Scott: Yes, that's correct.
+I believe, though, that troops with
+high defenses will be all right
+when trying to attack them. <>
+
+[0013:00189E6A:02010101 Elwin]
+Elwin: I see...
+In that case we should be careful
+in their vicinity.<>
+
+[0014:00189E74:02020501 Riana]
+Riana: Those people are
+searching for the stone tablet
+that will dissolve the seal
+on the Alhazard. <wait>
+Because of that, we must
+protect them no matter
+what.<>
+
+[0015:00189E82:02051101 Hain]
+Hain: Eeehhh... What's an
+Alhazard? <>
+
+[0016:00189E90:02010101 Elwin]
+Elwin: The Alhazard?<>
+
+[0017:00189E98:02020501 Riana]
+Riana: The legendary demon
+sword of darkness.
+It's terrible magic power has
+been kept in secret, the details
+of which entrusted to me...<>
+
+[0018:00189EA6:02061501 Scott]
+Scott: The holy sword Langrisser
+and the dark sword Alhazard.
+The stuff of legends....<>
+
+[0019:00189EAE:02010101 Elwin]
+Elwin: Anyway, not interfering
+with those Imperial goons would
+be a mistake.<>
+
+[001A:00189EBC:020BC901 Mystery knight sherry]
+Mystery Knight: The enemy appears to
+be in strength...<>
+
+[001B:00189EC4:02010101 Elwin]
+Elwin: Who's that!?
+Are you the knight from before?<>
+
+[001C:00189ECC:020BC901 Mystery knight sherry]
+Mystery Knight: So we meet again.<>
+
+[001D:00189ED4:02166201 Morgan]
+Morgan: Are those reinforcements?
+Well, isn't that grand?<wait>
+Just itchin' to die, huh?
+Haah-hah-hah-hah!<>
+
+[001E:00189F22:0200FF00 ]
+ ": You found an Angel's Wing!<>
+
+[001F:00189F34:021FCA01 Shinto grey]
+Priest: I will not hand over the
+tablet!
+I cannot allow the reawakening
+of Alhazard! <>
+
+[0020:00189F3C:02166201 Morgan]
+Morgan: The enchanted
+sword of darkness contains
+magic power of incredible
+proportion.<wait>
+Now, after I'm through with
+you meddlers, you'll be
+nothing more than zombies!
+Haaah-hah-hah-hah!!<>
+
+[0021:00189F46:02010100 Elwin]
+Elwin: That's enough!<>
+
+[0022:00189F50:02010201 Elwin dead]
+Elwin: No...not like this...<>
+
+[0023:00189F5E:02051100 Hain]
+Hain: Get a load of my strength! <>
+
+[0024:00189F68:02051201 Hain dead]
+Hain: Ow!
+No, no more...
+Sorry, Elwin.<>
+
+[0025:00189F72:02061500 Scott]
+Scott: Observe my elegant
+fighting style!<>
+
+[0026:00189F7C:02061601 Scott dead]
+Scott: I'm sorry.
+I must take my leave now.<>
+
+[0027:00189F86:02020600 Riana dead]
+Riana: Aaaahh! <>
+
+[0028:00189F90:02020601 Riana dead]
+Riana: Aaahh...
+Elwin....!<>
+
+[0029:00189F9A:02010401 Elwin sad]
+Elwin: No, not this...<>
+
+[002A:00189FA6:02010101 Elwin]
+Elwin: Not good!
+Riana's been targeted!
+We must hurry and help
+her! <>
+
+[002B:00189FC8:02166200 Morgan]
+Morgan: Now, little girl,
+I will take your precious life. <>
+
+[002C:00189FD0:02010100 Elwin]
+Elwin: No, stop!
+I don't understand; why
+are you doing this!?<>
+
+[002D:00189FD8:02166200 Morgan]
+Morgan: Wah-hah!
+Your efforts have been
+nothing but a waste!
+Why not just give up this
+fight?<>
+
+[002E:00189FE2:02020500 Riana]
+Riana: Die!<>
+
+[002F:00189FEC:02020601 Riana dead]
+Riana: Uuh....<wait>
+Huh!?
+I..., I've been manipulated...
+Everyone, I've...
+I'm...sorry....<>
+
+[0030:00189FF6:02166201 Morgan]
+Morgan: Haah-hah hah-hah!
+I'm in a truly good mood!
+Thanks, guys, you're 
+good for a laugh!<>
+
+[0031:00189FFE:02010401 Elwin sad]
+Elwin: Rrgh.
+We weren't able to defeat that
+man in time.<>
+
+[0032:0018A00A:02703201 Civilian yellow dead]
+Shinto Priest: H, help me...<>
+
+[0033:0018A02E:02713300 Civilian red]
+Shinto Priest: I shall defend this church
+with my life!<>
+
+[0034:0018A038:02713401 Civilian red dead]
+Shinto Priest: Aaaahhh! <>
+
+[0035:0018A048:022A6A00 Bandit grey]
+Imperial General: Hehehe, you've got to 
+love the site of blood...<>
+
+[0036:0018A06A:021FCA00 Shinto grey]
+Priest: Augh!<>
+
+[0037:0018A074:021FCB01 Shinto grey dead]
+Priest: The, the stone tablet...cannot...
+be surrendered to...!<>
+
+[0038:0018A07E:02010101 Elwin]
+Elwin: This isn't looking good.
+It's important that we defend
+the priest and the others without
+fail!<>
+
+[0039:0018A08A:02166201 Morgan]
+Morgan: Haah hah-hah!
+Killing people is fun, isn't it? <wait>
+The stone tablet is ours.
+Well, so long, suckers!<>
+
+[003A:0018A094:02010401 Elwin sad]
+Elwin: How could such a thing...?<>
+
+[003B:0018A0A0:020BC900 Mystery knight sherry]
+Mystery Knight: How long are you going to sulk!? We
+have to take the rear!<>
+
+[003C:0018A0AA:020BC901 Mystery knight sherry]
+Mystery Knight: Impossible, that such a thing...<>
+
+[003D:0018A0B4:02166200 Morgan]
+Morgan: You have a choice.  Either
+you hand over the stone tablet,
+or you all shall die. <wait>
+So, what will it be, all of you?
+All who interfere will die!<>
+
+[003E:0018A0BC:022A6A01 Bandit grey]
+Imperial General: Huh huh huh.<wait>
+There's nothing more fun than
+killing.
+And there's plenty more of it to
+do.<>
+
+[003F:0018A0CC:022A6A01 Bandit grey]
+Imperial General: Huh huh huh.
+Who's gonna be next...?<>
+
+[0040:0018A0D6:022A6B01 Bandit grey dead]
+Imperial General: I, impossible!<>
+
+[0041:0018A0E0:022B6A01 Bandit grey]
+Imperial General: Wah hah hah!
+Run, run!!<>
+
+[0042:0018A0EA:022B6A01 Bandit grey]
+Imperial General: Wah hah hah!
+There's another left to kill. <>
+
+[0043:0018A0F4:022B6A00 Bandit grey]
+Imperial General: I've got you!
+You're gonna die, you piece of
+trash!<>
+
+[0044:0018A0FE:022B6B01 Bandit grey dead]
+Imperial General: You, you bastard!
+I....<>
+
+[0045:0018A108:022C7100 Shaman yellow]
+Imperial General: Shika shika!<>
+
+[0046:0018A112:022C7201 Shaman yellow dead]
+Imperial General: Shi, shikaaa!!<>
+
+[0047:0018A11C:022D7E01 I. warlock green/red dead]
+Imperial General: Guh!<>
+
+[0048:0018A126:022E7E01 I. warlock green/red dead]
+Imperial General: Gwah!<>
+
+[0049:0018A140:02166201 Morgan]
+Morgan: Hmmm...
+We don't seem to be doing
+to hot, are we? <wait>
+That's right, Lord Eggbert gave
+me an interesting magic spell
+in case the need arises. <wait>
+So, without delay, I shall make
+use of that small girl.<wait>
+I shall control her soul.
+......?
+Afterwards, she might
+end up losing it, but
+that's fine with me.
+Lebira Tole Lekeseta!<>
+
+[004A:0018A148:02020501 Riana]
+Riana: Ah!
+My...my head...<>
+
+[004B:0018A150:02010101 Elwin]
+Elwin: Riana!
+Are you all right!?<>
+
+[004C:0018A158:02166201 Morgan]
+Morgan: Now, little girl,
+shread that bad man into
+little bloody pieces!<>
+
+[004D:0018A160:02020501 Riana]
+Riana: .......<>
+
+[004E:0018A168:02166201 Morgan]
+Morgan: Hmm, it seems that
+the spell isn't perfect.
+Oh, well, it should be okay
+this once, at least.<>
+
+[004F:0018A176:02051101 Hain]
+Hain: What's wrong!?
+Get a hold of yourself, Riana!<>
+
+[0050:0018A17E:02010101 Elwin]
+Elwin: This is bad...
+How can we counter that
+magician's technique?
+What in the world can
+we do?<>
+
+[0051:0018A186:02061501 Scott]
+Scott: We have to beat that
+man, Morgan!
+If we defeat the origin of the
+spell, I think Riana should
+regain her senses.<>
+
+[0052:0018A18E:02010101 Elwin]
+Elwin: I see!
+We have to defeat Morgan!<>
+
+[0053:0018A196:02166201 Morgan]
+Morgan: Waaahahahaha! You're 
+actually going to fight me?! You 
+really want to become zombies, 
+don't you?!<>
+
+[0054:0018A1C4:02166200 Morgan]
+Morgan: Eeeeek!
+I've, I've been hurt!<>
+
+[0055:0018A1CE:02166200 Morgan]
+Morgan: Taste my power!<>
+
+[0056:0018A1D8:02166301 Morgan dead]
+Morgan: Eeeeeek!
+I've, I've been hurt badly!!<wait>
+You'll live to regret this!<>
+
+[0057:0018A1E8:020BC901 Mystery knight sherry]
+Mystery Knight: The enemy has fled...<>
+
+[0058:0018A1F6:02010101 Elwin]
+Elwin: Yeah, they did...<>
+
+[0059:0018A202:020BC901 Mystery knight sherry]
+Mystery Knight: I wonder what would've happened
+if I hadn't shown up?<>
+
+[005A:0018A20A:02020501 Riana]
+Riana: You, you are...?<>
+
+[005B:0018A222:02703101 Civilian yellow]
+Shinto Priest: Their escaping is
+no cause to rejoice!
+They're heading for that town!<>
+
+[005C:0018A236:021FCA01 Shinto grey]
+Priest: My God!
+That town...<>
+
+[005D:0018A244:02713301 Civilian red]
+Shinto Priest: Their escaping is
+no cause to rejoice!
+They're heading for that town!<>
+
+[005E:0018A24C:020BC901 Mystery knight sherry]
+Mystery Knight: We have to go after them!<>
+
+[005F:0018A254:02010101 Elwin]
+Elwin: Who in the world ARE you?!<>
+
+[0060:0018A25C:020BC901 Mystery knight sherry]
+Mystery Knight: I am...<>
+
+[0061:0018A264:02040D00 Sherry]
+Sherry: ...Sherry.
+I'm glad I could lend you my
+strength. <>
+
+[0062:0018A26C:02061501 Scott]
+Scott: ... Sherry...?
+Where have I met you before...?<>
+
+[0063:0018A27E:02020501 Riana]
+Riana: Uh....<wait>
+Huh!?
+I...I...<>
+
+[0064:0018A286:02010101 Elwin]
+Elwin: Are you feeling alright?
+We wounded Morgan in order to
+break his concentration over
+his spell on you.<>
+
+[0065:0018A294:02020801 Riana sad]
+Riana: Morgan used me against
+you...<wait>
+I might've killed you, Elwin!
+I...I...<>
+
+[0066:0018A2A2:02010101 Elwin]
+Elwin: Everyone's all right,
+so it's okay.
+Besides...<wait>
+A smile better suits a girl's face.
+So, please, won't you stop
+crying?<>
+
+[0067:0018A2AA:02020801 Riana sad]
+Riana: ...Thank you.
+Once again, I've been
+nothing but trouble for you,
+Elwin. I'm truly very
+sorry.<wait>
+However, I'm feeling better,
+so please don't worry.<>
+
+[0068:0018A2B2:02010101 Elwin]
+Elwin: Good.
+Cheer up soon.<>
+
+[0069:0018A2BA:02020800 Riana sad]
+Riana: Okay.<>
+
+[006A:0018A2CE:02020801 Riana sad]
+Riana: I'm sorry.
+Had I attacked you all some
+more....<>
+
+[006B:0018A2DC:02061501 Scott]
+Scott: Ah, I almost forgot.
+By the way, what are we going to
+do about Riana?<>
+
+[006C:0018A2E4:02051101 Hain]
+Hain: Eventually, the High Priest
+would've been in trouble...<>
+
+[006D:0018A2EC:02040D01 Sherry]
+Sherry: Yeah....,
+but I wonder if Kalxath castle
+is all right.<>
+
+[006E:0018A2F4:02051101 Hain]
+Hain: Kalxath castle?<>
+
+[006F:0018A2FC:02010101 Elwin]
+Elwin: Okay, we'll head over there to
+make sure it's all right. <wait>
+However, first we need to deal
+with those guys who got away.
+I'm worried about the villagers.<>
+
+[0070:0018A304:02020501 Riana]
+Riana: Please, let me fight with
+you!<>
+
+[0071:0018A30C:02051101 Hain]
+Hain: No way!
+It's dangerous for a girl to fight!<>
+
+[0072:0018A314:02020501 Riana]
+Riana: It's nothing I can't handle.
+Because of me, you...<>
+
+[0073:0018A31C:02010101 Elwin]
+Elwin: ...?<>
+
+[0074:0018A324:02020500 Riana]
+Riana: ...you all were hurt!<>
+
+[0075:0018A32C:02040D01 Sherry]
+Sherry: Appreciate what she's
+trying to do for you!
+Unless you don't care
+about her self-confidence.<>
+
+[0076:0018A334:02010101 Elwin]
+Elwin: ......<>
+
+[0077:0018A33C:02020500 Riana]
+Riana: ......<>
+
+[0078:0018A344:02010101 Elwin]
+Elwin: Fine.
+Now, let's put a stop to Morgan!<>
+
+[0079:0018A34C:02040D01 Sherry]
+Sherry: That's right!
+We can't allow that man or his
+marauding band to kill those
+people! <>
+
+[007A:0018A360:02713301 Civilian red]
+Shinto Priest: Wait!
+At least accept our gratitude
+for saving us.<>
+
+[007B:0018A368:021FCA01 Shinto grey]
+Priest: Thanks to you people, the
+sanctuary is safe.
+Please accept this token of thanks.<>
+
+[007C:0018A370:02703101 Civilian yellow]
+Shinto Priest: Please accept this
+cross.<wait>
+May good fortune shine over you
+people on your travels. <>
+
+[007D:0018A378:0200FF00 ]
+ ": Cross obtained!<>
+
+[007E:0018A382:02010101 Elwin]
+Elwin: Alright!
+Let's go, everyone!<>
+
+[007F:0018A38E:02166200 Morgan]
+Morgan: Haah-hah hah-hah!
+Isn't this interesting?
+The fight's getting more exciting by
+the minute!<>
+
+[0080:0018A39A:02166201 Morgan]
+Morgan: What surprising people.
+No matter, you all will fall by my hand.<>
+
+[0081:0018A3AA:02166201 Morgan]
+Morgan: Wah-hah!
+Continue the assault!
+Let's teach these impetuous
+fools a lesson!<>
+
+[0082:0018A3B4:02010101 Elwin]
+Elwin: Riana is not evil.
+It's all due to Morgan's
+technique.<>
+
+[0083:0018A3BC:02020801 Riana sad]
+Riana: Thank you....
+Please, be careful, everyone...<>
+
+
+
+

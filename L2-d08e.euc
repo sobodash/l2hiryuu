@@ -1,0 +1,477 @@
+<Scenario 08>
+[0000:00190F82:02189301 I. soldier 3 blue]
+Kramer: Hurry up!
+Kalxath's princess is on her way
+back to her castle, and they're
+soon to cross this bridge!<wait>
+We have to drop the bridge before
+they get here. <>
+
+[0001:00190FA6:02061501 Scott]
+Scott: Huh!?
+They're trying to lower the bridge!<>
+
+[0002:00190FAE:02072101 Keith]
+Keith: If the bridge is dropped, we'll
+have to take the long way around.<wait>
+That would add three days to our
+journey.<>
+
+[0003:00190FB6:02040D01 Sherry]
+Sherry: Kalxath is going to be attacked
+any minute now!
+We can't waste time by going the long way!
+Let's tear them to shreds!!<>
+
+[0004:00190FBE:02051101 Hain]
+Hain: Allllriiight!
+We'll show 'em who's boss!<>
+
+[0005:00190FC6:02189301 I. soldier 3 blue]
+Kramer: Damn, they're already here.
+Hurry!  We've gotta drop the bridge,
+NOW!<>
+
+[0006:00190FDC:02189301 I. soldier 3 blue]
+Kramer: Aerial troops, surround the
+enemy. Knights, move to the front
+and give 'em all you got.<wait>
+Then regroup, form a second wave,
+and attack! Don't let them get one step
+over this bridge, understand?<>
+
+[0007:00190FE4:022A9F01 I. soldier 5 blue]
+Imperial General: Yes, sir!<>
+
+[0008:00190FEE:02189301 I. soldier 3 blue]
+Kramer: Urrgh, the bridge isn't
+lowered yet?<>
+
+[0009:00190FF6:0272AA00 I. soldier 6 red]
+Imperial Soldier: No, but I'm confident we'll
+get it done in time.<>
+
+[000A:00190FFE:02189301 I. soldier 3 blue]
+Kramer: Let's move, people!
+Sir Leon's already attacking Kalxath. <wait>
+Once the castle's fallen, those guys
+will have lost!<>
+
+[000B:00191008:02189301 I. soldier 3 blue]
+Kramer: Faster!
+These guys are stronger than we thought.<>
+
+[000C:00191010:0272AA00 I. soldier 6 red]
+Imperial Soldier: Please, we need just a
+little more time.<>
+
+[000D:00191018:02189301 I. soldier 3 blue]
+Kramer: We can't waste any time!
+We cannot allow them to reach
+Kalxath!<wait>
+Once Kalxath falls, the continent
+will be united before our very eyes!<>
+
+[000E:00191022:02010101 Elwin]
+Elwin: C'mon everybody, hurry!
+That bridge won't last much longer!<>
+
+[000F:00191030:02072101 Keith]
+Keith: Our aerial troops are the most
+mobile here, so perhaps we should
+entrust them with the task of fighting
+the enemy's commander.<>
+
+[0010:0019103A:0272AA00 I. soldier 6 red]
+Imperial Soldier: Just a little longer until
+the bridge is out! <>
+
+[0011:00191042:02189301 I. soldier 3 blue]
+Kramer: Great! Don't slow down!<>
+
+[0012:00191052:02061501 Scott]
+Scott: Hurry up!
+There's only one rope left!<>
+
+[0013:00191060:021B2900 Soldier 1 grey]
+Soldier: There's only one rope
+left!<>
+
+[0014:0019106E:02040D01 Sherry]
+Sherry: This is the final stretch.
+Everybody, attack with all you've got!<>
+
+[0015:00191076:02010101 Elwin]
+Elwin: We don't have any time to spare!
+Concentrate on the enemy's commander!<>
+
+[0016:00191080:0272AA00 I. soldier 6 red]
+Imperial Soldier: The bridge has fallen!<>
+
+[0017:00191088:02189301 I. soldier 3 blue]
+Kramer: Great! Hurry!<>
+
+[0018:00191092:021B2900 Soldier 1 grey]
+Soldier: Waah!<>
+
+[0019:0019109C:02189301 I. soldier 3 blue]
+Kramer: Kalxath's reinforcements can't cross
+here. This is the end for you guys. <wait>
+Fwaah-hah-hah-hah-hah!!<>
+
+[001A:001910A8:02040D01 Sherry]
+Sherry: Careful about the enemy's
+air troops. They're so fast that we
+can be surrounded in no time.<>
+
+[001B:001910B0:02061501 Scott]
+Scott: That's right.
+We should use elves to counter
+aerial units, as they're susceptible
+to arrows. <>
+
+[001C:001910B8:02040D01 Sherry]
+Sherry: You got that, Keith?
+Watch out for the enemy's Dark
+Elves. <>
+
+[001D:001910C0:02072101 Keith]
+Keith: Princess, if our aviators
+didn't know that by now, we would
+no longer be alive. <wait>
+You really should keep studying
+your strategy on a daily basis.<>
+
+[001E:001910C8:02040D01 Sherry]
+Sherry: But strategy is BORING!
+The best way to learn real combat
+is through experience on the battlefield.<>
+
+[001F:001910D0:02082501 Aaron]
+Aaron: .... Hmmm...as ever the same,
+I see...<>
+
+[0020:001910E0:02189301 I. soldier 3 blue]
+Kramer: Please listen,
+General Vargas!<wait>
+You don't have to go through
+all this trouble for my sake.<wait>
+We also have our pride as being
+the strongest knight corps in the
+empire. I can't allow Sir Leon's
+dignity to be compromised.<>
+
+[0021:001910EE:02136001 Zolm]
+Zolm: What should we do, General?
+We don't have enough troops to
+begin with, but after stumbling in
+the middle of this skirmish...<>
+
+[0022:001910F6:020F5401 Vargas]
+Vargas: Is there really anything to
+discuss? After risking our lives in
+so many battles, can we really
+just sit back and watch?<>
+
+[0023:001910FE:02136001 Zolm]
+Zolm: ...How true.
+I, Zolm, shall show you the true
+limits of my prowess!<>
+
+[0024:0019110C:020F5401 Vargas]
+Vargas: But, listen, don't be overzealous.
+I don't want you dying on me.<>
+
+[0025:00191118:02010101 Elwin]
+Elwin: Watch out!
+Don't bite off more than you can chew!<>
+
+[0026:00191120:02189301 I. soldier 3 blue]
+Kramer: Ergh!
+We have to keep them here until
+Sir Leon's victorious at Kalxath!<>
+
+[0027:0019112E:022C8301 I. saint blue]
+Imperial General: Don't let them
+cross the bridge! Kill all of them!<>
+
+[0028:0019113A:02010101 Elwin]
+Elwin: The enemy's commander
+is within sight!
+Kill him before they drop the bridge!<>
+
+[0029:00191146:020F5401 Vargas]
+Vargas: Fwah hah hah hah!
+You can't run any more, fellas.<>
+
+[002A:00191150:02010100 Elwin]
+Elwin: Don't waste my time!
+Die!<>
+
+[002B:0019115A:02010201 Elwin dead]
+Elwin: Keh...
+I should've known...<>
+
+[002C:00191168:02051100 Hain]
+Hain: Crap!<>
+
+[002D:00191172:02051201 Hain dead]
+Hain: Ugh...
+You got me...<>
+
+[002E:0019117C:02061601 Scott dead]
+Scott: Damn it!
+I'm still not experienced enough
+for this...<>
+
+[002F:00191186:02020601 Riana dead]
+Riana: Uh....
+I'm sorry, but I can't stand any
+longer...<>
+
+[0030:00191190:02040D00 Sherry]
+Sherry: Get outta my way!<>
+
+[0031:0019119A:02040E01 Sherry dead]
+Sherry: Sorry, guys, they won.<>
+
+[0032:001911A4:02072100 Keith]
+Keith: No matter what, I'm going
+back to Kalxath!<>
+
+[0033:001911AE:02072201 Keith dead]
+Keith: Kuh...
+How shameful...<>
+
+[0034:001911B8:02082601 Aaron dead]
+Aaron: Ooh!!
+It looks like it's over...<>
+
+[0035:001911C2:022A9F00 I. soldier 5 blue]
+Imperial General: This is the end!<>
+
+[0036:001911CC:022AA001 I. soldier 5 blue dead]
+Imperial General: Guh...<>
+
+[0037:001911E2:022BA101 I. soldier 5 purple]
+Imperial General: Leave it to me!
+I won't let them cross this bridge alive!<>
+
+[0038:001911F0:022BA100 I. soldier 5 purple]
+Imperial General: How much longer
+do you think you can withstand our
+assault?<>
+
+[0039:001911FA:022BA201 I. soldier 5 purple dead]
+Imperial General: You... you're good.<>
+
+[003A:00191216:022C8300 I. saint blue]
+Imperial General: Damn you!
+You ain't bustin' through here!<>
+
+[003B:00191220:022C8401 I. saint blue dead]
+Imperial General: Gwah!<>
+
+[003C:0019122A:022D9900 I. soldier 4 blue]
+Imperial General: You think you're gonna get
+to Kalxath?<>
+
+[003D:00191234:022D9A01 I. soldier 4 blue dead]
+Imperial General: Guys, handle the rest...okay?<>
+
+[003E:00191250:022E9901 I. soldier 4 blue]
+Imperial General: Leave it to me!
+I won't let them cross this bridge alive!<>
+
+[003F:0019125A:022E9900 I. soldier 4 blue]
+Imperial General: You won't pass here!<>
+
+[0040:00191264:022E9A01 I. soldier 4 blue dead]
+Imperial General: Gwah!<>
+
+[0041:00191280:022F7500 I. archmage blue/purple]
+Imperial General: While you've been able to
+make it this far alive, let me show you just
+how fickle luck is.<>
+
+[0042:0019128A:022F7601 I. archmage blue/purple dead]
+Imperial General: That you've beaten me
+so easily is...<>
+
+[0043:00191294:0230A001 I. soldier 5 blue dead]
+Imperial General: I... Impressive...<>
+
+[0044:001912A4:0231A201 I. soldier 5 purple dead]
+Imperial General: Ugh...!<>
+
+[0045:001912C0:02189300 I. soldier 3 blue]
+Kramer: So you made it, huh?
+Well, you're not getting any further
+than this!<>
+
+[0046:001912CA:02189300 I. soldier 3 blue]
+Kramer: You won't make it to Kalxath!<>
+
+[0047:001912DA:02189401 I. soldier 3 blue dead]
+Kramer: Even General Vargas
+wasn't able to help me...<wait>
+But...if what I did was...enough...
+then...<wait>
+Soon...Kalxath Castle...will...gah!<>
+
+[0048:001912E8:02189401 I. soldier 3 blue dead]
+Kramer: If you want to make it...
+you'd better hurry.
+Soon, Kalxath castle will...<wait>
+....Guh!<>
+
+[0049:00191304:020F5401 Vargas]
+Vargas: Hrm, impressive.
+No choice, retreat!<>
+
+[004A:00191318:020F5401 Vargas]
+Vargas: Damn it, retreat!<>
+
+[004B:00191326:020F5401 Vargas]
+Vargas: Don't you see?
+We need to drop the bridge.
+If the bridge is down, than
+they're done for.<>
+
+[004C:0019132E:02136001 Zolm]
+Zolm: Huh!?
+Gotcha.  I'll hurry and drop
+the bridge!<>
+
+[004D:0019133C:020F5401 Vargas]
+Vargas: Is this it...?<>
+
+[004E:00191344:020F5401 Vargas]
+Vargas: I wonder how much longer
+this is going to take.<wait>
+Right now Leon's busy with Kalxath, and
+these guys are done for.<wait>
+It's not looking good, fellas!
+You'd better hurry to Kalxath
+if you want to make it!<>
+
+[004F:00191356:02082501 Aaron]
+Aaron: Hrmmm.
+Kalxath's already probably in
+danger.<>
+
+[0050:00191364:02051101 Hain]
+Hain: Hnn...
+The old guy's gone mad.<>
+
+[0051:0019136C:02082501 Aaron]
+Aaron: Oh, really?
+I'm not worrying about nothing,
+you know.<wait>
+If Kalxath were to fall, it'd be
+terrible. We have to help out
+at once!<>
+
+[0052:0019137A:02040D01 Sherry]
+Sherry: Guys....<>
+
+[0053:00191382:02010101 Elwin]
+Elwin: I know, we gotta hurry to
+Kalxath!<>
+
+[0054:00191390:02010101 Elwin]
+Elwin: We don't have much time.
+Everybody, make haste to Kalxath!<>
+
+[0055:0019139E:02189301 I. soldier 3 blue]
+Kramer: No, not yet!
+I've not lost yet!<>
+
+[0056:001913B6:020F5401 Vargas]
+Vargas: It looks like this is our
+last chance.<wait>
+We can't let them get to the
+Blue Dragon Knights.
+Zolm, let's help!<>
+
+[0057:001913BE:02189301 I. soldier 3 blue]
+Kramer: General Vargas!?
+Please understand that your
+involvement is not required.<wait>
+This is a job for a Blue Dragon Knight.
+Even if it's just me, I won't allow them
+passage to Kalxath!<>
+
+[0058:001913C6:020F5401 Vargas]
+Vargas: I'm just offering my assistance.
+I guess there's no point, as you've got
+too much pride.<>
+
+[0059:001913D4:02136000 Zolm]
+Zolm: Die!<>
+
+[005A:001913DE:02136101 Zolm dead]
+Zolm: Argh!
+Again, I failed!
+I'll see y'all again soon!<>
+
+[005B:001913E8:020F5401 Vargas]
+Vargas: Listen, Kramer.
+I didn't come here just to help you
+out.<wait>
+I'm here only to see you perform
+as a commanding officer, that's
+all.<>
+
+[005C:001913F0:02189301 I. soldier 3 blue]
+Kramer: ...Thank you, General.<wait>
+I won't forget this.<>
+
+[005D:001913FE:020F5401 Vargas]
+Vargas: Don't worry about it.<wait>
+Now then, let's go, Zolm!<>
+
+[005E:00191406:02136001 Zolm]
+Zolm: Leave it to me!<>
+
+[005F:00191414:020F5401 Vargas]
+Vargas: Don't worry about it.<wait>
+Now, let's dance, fellas!<>
+
+[0060:0019141E:020F5400 Vargas]
+Vargas: Open your eyes!<>
+
+[0061:00191428:020F5400 Vargas]
+Vargas: Have a dose of this!<>
+
+[0062:00191432:020F5501 Vargas dead]
+Vargas: And to think I prepared
+what I thought was a worthy armed
+force and hurried here...<wait>
+Can't help it, fella.
+I have to run!<>
+
+[0063:00191450:02189301 I. soldier 3 blue]
+Kramer: So, you think you're
+tough stuff, eh? Well, I'm just
+gonna have to up the ante a bit.
+Second wave, break off and attack!<>
+
+[0064:0019146E:02189301 I. soldier 3 blue]
+Kramer: Give the enemy what's
+coming to them!
+Pound the enemy into a mat!<>
+
+[0065:0019147A:02189301 I. soldier 3 blue]
+Kramer: Impossible!
+They're way too strong!
+However, they're not getting
+over this bridge!<>
+
+[0066:00191484:02136001 Zolm]
+Zolm: But, General Vargas,
+we haven't fought yet!<wait>
+Don't you want to gut the enemy
+just a little bit?<>
+
+

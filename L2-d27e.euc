@@ -1,0 +1,373 @@
+<Scenario 27>
+[0000:001B3A6E:020E4A01 Bernhart]
+Bernhart: You finally\nmade it.
+As I would expect of Langrisser.<>
+
+[0001:001B3A76:02030901 Larna]
+Larna: That's not the reason!<>
+
+[0002:001B3A7E:02020501 Riana]
+Riana: Since we believed in our fight we made it here!
+We simply borrowed Langrisser's strength...<>
+
+[0003:001B3A86:02040D01 Sherry]
+Sherry: Yes!
+That's the power of light!<>
+
+[0004:001B3A8E:02010101 Elwin]
+Elwin: A man of your stature hasn't noticed that, Bernhart!<>
+
+[0005:001B3A96:020E4A01 Bernhart]
+Bernhart: Silence!
+With power I have acheived every victory.<wait>
+If there is a mighty strength, with that you can gather people.
+Money. People without that are nothing.
+Yes it that kind of world!<wait>
+I have those means, and I have Alhazard too!<>
+
+[0006:001B3A9E:02082501 Aaron]
+Aaron: You are just an egotistical fool,
+Bernhart!<>
+
+[0007:001B3AA6:020E4A01 Bernhart]
+Bernhart: Fuhahaha...\nYou losers...<wait>
+This victory is already mine, and it is even
+more certain if I take Langrisser away from you...<wait>
+Rise, servants of evil!<>
+
+[0008:001B3AC2:02010101 Elwin]
+Elwin: I swear upon the sword of light we won't lose!<>
+
+[0009:001B3ADE:020D5301 Leon dead (eye closed)]
+Leon: W, Wait!
+You won't lay a finger on his Majesty!<>
+
+[000A:001B3AE6:02010101 Elwin]
+Elwin: Leon...!<>
+
+[000B:001B3AEE:020E4A01 Bernhart]
+Bernhart: Don't press yourself Leon.
+Don't waste your life.<>
+
+[000C:001B3AF6:020D5301 Leon dead (eye closed)]
+Leon: No! I am the Rayguard's Imperial Army's
+Blue Dragon's Corps Captain!
+Let me do my duty till the end!<>
+
+[000D:001B3AFE:020E4A01 Bernhart]
+Bernhart: ....What\ndevotion.<>
+
+[000E:001B3B06:020D5301 Leon dead (eye closed)]
+Leon: Yessir!<>
+
+[000F:001B3B14:020E4A01 Bernhart]
+Bernhart: With strength\nto unify the continent is
+the only reliable way to bring peace!
+If that power is weak, no money, no people,
+just betrayal... A single, mighty powerful ruler is
+what this world needs!<>
+
+[0010:001B3B1E:02010100 Elwin]
+Elwin: It's over! Your ambition is finished!<>
+
+[0011:001B3B26:020E4A00 Bernhart]
+Bernhart: Funny. Try\nand stop me!<>
+
+[0012:001B3B30:02010201 Elwin dead]
+Elwin: I came all the way here, just to die like this...<>
+
+[0013:001B3B3E:020D5301 Leon dead (eye closed)]
+Leon: Kuuu...<>
+
+[0014:001B3B46:02010101 Elwin]
+Elwin: Leon! You still want to fight!
+Don't you know anymore fighting is a waste!<>
+
+[0015:001B3B4E:020D5300 Leon dead (eye closed)]
+Leon: I already told you! I will fight to the end!<>
+
+[0016:001B3B58:02051100 Hain]
+Hain: I'm gonna kick your butt!<>
+
+[0017:001B3B62:02051201 Hain dead]
+Hain: I'm sorry everyone, I just can't go on anymore...<>
+
+[0018:001B3B6C:02040D00 Sherry]
+Sherry: Your troops are no match for mine! Prepare to die!<>
+
+[0019:001B3B76:02040E01 Sherry dead]
+Sherry: This is the worst... How could I die like this?!<>
+
+[001A:001B3B80:02082601 Aaron dead]
+Aaron: Uuuhh... That's enough...<>
+
+[001B:001B3B8E:02082500 Aaron]
+Aaron: You may be strong, but you will fall by my hand!<>
+
+[001C:001B3B98:02072100 Keith]
+Keith: This is it!
+The Empire's history ends here.<>
+
+[001D:001B3BA0:020E4A00 Bernhart]
+Bernhart: I wouldn't\nbe so sure about that.
+You really think you can beat me.<>
+
+[001E:001B3BAA:02072201 Keith dead]
+Keith: Kuuuu... I was too careless...<>
+
+[001F:001B3BB4:02091D00 Lester]
+Lester: You wimps! I'm gonna kick your ass so hard,
+you'll be choking on it!!<>
+
+[0020:001B3BBE:02091E01 Lester dead]
+Lester: Sorry everyone, I messed up...<>
+
+[0021:001B3BC8:02020500 Riana]
+Riana: We can't let Alhazard awaken.....
+We must seal Alhazard again!<>
+
+[0022:001B3BD0:020E4A00 Bernhart]
+Bernhart: In that case\nyou must defeat me!<>
+
+[0023:001B3BDA:02020601 Riana dead]
+Riana: I am sorry, I must retreat...<>
+
+[0024:001B3BE4:02030C00 Larna sad]
+Larna: Leon...
+If you must fight no matter what, then I will have 
+defeat you....<>
+
+[0025:001B3BEC:020D5300 Leon dead (eye closed)]
+Leon: ...It pains me greatly also, and that is the fate of a battlefield.
+There is no greater reason than this for the unification of the continent,
+hence the need for that sword!<>
+
+[0026:001B3BF6:02030900 Larna]
+Larna: No! We will destroy Alhazard!<>
+
+[0027:001B3C00:02030A01 Larna dead]
+Larna: Kkks... I can't die just yet...<>
+
+[0028:001B3C0A:020A1900 Jessica]
+Jessica: This is the final battle between light and dark...
+We shall prevail soon!<>
+
+[0029:001B3C14:020A1A01 Jessica dead]
+Jessica: Ahhh, the sky is blue....<>
+
+[002A:001B3C1E:02061500 Scott]
+Scott: Let's go!
+Let's finish this war!<>
+
+[002B:001B3C28:02061601 Scott dead]
+Scott: Wow... I can't...<>
+
+[002C:001B3C32:020D5301 Leon dead (eye closed)]
+Leon: Let's go Elwin!<>
+
+[002D:001B3C3A:02010101 Elwin]
+Elwin: Leon, stop it! It's pointless to sacrafice yourself for the Empire!<>
+
+[002E:001B3C42:020D5301 Leon dead (eye closed)]
+Leon: If you're a man of honour, you can't change your decisions so easily!
+And I'm not sacraficing myself for the Empire!
+I'm risking everything for the Emperor!!<>
+
+[002F:001B3C50:02030C01 Larna sad]
+Larna: Please stop it!
+It's impossible to continue!<>
+
+[0030:001B3C58:020D5301 Leon dead (eye closed)]
+Leon: I can understand if I seem unreasonable! But I will continue to fight.
+I promised to fight for Your Majesty until this body did not move.
+I keep an oath of a knight and must fight until the end.<>
+
+[0031:001B3C62:020D5101 Leon dead (eye open)]
+Leon: Guha!<>
+
+[0032:001B3C6A:02010101 Elwin]
+Elwin: Leon! Anymore fighting is pointless!<>
+
+[0033:001B3C72:020D5101 Leon dead (eye open)]
+Leon: Are you trying to give me mercy!
+I'll kill you!<>
+
+[0034:001B3C7A:02010101 Elwin]
+Elwin: Stop it.
+You don't have the strength to fight.<>
+
+[0035:001B3C82:020E4A01 Bernhart]
+Bernhart: That's enough leon. You've done a fine job. Now just sit
+back and watch the fight.<>
+
+[0036:001B3C8A:020D5101 Leon dead (eye open)]
+Leon: Yessir!<>
+
+[0037:001B3C94:020E4A01 Bernhart]
+Bernhart: You defeated Leon, but do not become complacent.
+The Empire will not fall as long as I am not defeated. And you cannot defeat me
+when I have the power of Alhazard.
+I want to attempt to defeat me and make desperate efforts, then you
+may throw your life away. But I will win this fight!<>
+
+[0038:001B3C9C:02010101 Elwin]
+Elwin: Nope....
+We will win this battle!
+We must win!<>
+
+[0039:001B3CA6:022A7601 I. archmage blue/purple dead]
+Imperial General: Banzai!<>
+
+[003A:001B3CB0:022B8401 I. saint blue dead]
+Imperial General: Kyaaa!<>
+
+[003B:001B3CBA:022C8401 I. saint blue dead]
+Imperial General: Uuuhh.... Me.....<>
+
+[003C:001B3CC4:022D7601 I. archmage blue/purple dead]
+Imperial General: Not yet...<>
+
+[003D:001B3CCE:024AC500 Vampire lord]
+Vampire Lord: It will be assumed that I bring back a human to the other world.<>
+
+[003E:001B3CD8:024AC501 Vampire lord]
+Vampire Lord: Me... And immortal king is failing..?!<>
+
+[003F:001B3CE8:0265C301 Bone minotaur]
+Demon Lord: Gugigigi!<>
+
+[0040:001B3CF2:0266C301 Bone minotaur]
+Demon Lord: Guga!<>
+
+[0041:001B3CFC:0267C301 Bone minotaur]
+Demon Lord: Guha!<>
+
+[0042:001B3D0C:020D5301 Leon dead (eye closed)]
+Leon: Empire!<>
+
+[0043:001B3D22:020E4B01 Bernhart dead]
+Bernhart: Impressive.\nAs I would expect of Langrisser...<>
+
+[0044:001B3D2A:02010101 Elwin]
+Elwin: That's wrong! What defeated you
+was combining everyone's power!<>
+
+[0045:001B3D32:020E4B01 Bernhart dead]
+Bernhart: That is the\npower of Langrisser. People's hearts are weak.<wait>
+Jealousy,  distrust,  resentment and betrayal.....<wait>
+Such feelings cause petty conflicts. People who don't even beleive in themselves
+believe in others....<wait> There's no way to stop people from causing wars. From when I was
+a young soldier I thought it disgusting.
+And I thought......<wait>
+Somebody, if somebody could rule this world....<wait>
+If there was an absolute ruler wars could be eliminated.
+Therefore power... the power to rule all was what I wanted.<>
+
+[0046:001B3D3A:02010101 Elwin]
+Elwin: ....<>
+
+[0047:001B3D42:020E4B01 Bernhart dead]
+Bernhart: But, the way\nI took power to rule wasn't true peace.
+In the end, the weak people who didn't believe in others were all around me...<>
+
+[0048:001B3D4A:02010101 Elwin]
+Elwin: Emperor.
+Wars are now over.
+From now on for the sake of the contitent's people....<>
+
+[0049:001B3D52:020E4B01 Bernhart dead]
+Bernhart: Stop!
+Though I am defeated, I am the
+proud King of Rayguard! I won't die by your sword!
+And I'd rather die than submit myself to your mercy!
+Alhazard! Give me your final strength!<>
+
+[004A:001B3D68:020A1901 Jessica]
+Jessica: Ahhhh! Alhazard's power is going wild!<>
+
+[004B:001B3D76:021B2C00 Soldier 2 grey]
+Soldier: Ahhhh!! That sword's power is going crazy!!!<>
+
+[004C:001B3D8A:020D5101 Leon dead (eye open)]
+Leon: Your Majesty!
+I will join you!<>
+
+[004D:001B3D92:020E4B01 Bernhart dead]
+Bernhart: ....Leon.\n
+It's not the time for you to die.
+You will live and witness the end of the Empire!<>
+
+[004E:001B3D9A:020D5101 Leon dead (eye open)]
+Leon: A world without his Majesty has no meaning to me.
+I thought of His Majesty's ideals as my own, I've done
+that much...I want to enforce my ideals till the end.
+Even if it leads to death....
+Your Majesty!
+Please let me join you till the end!<>
+
+[004F:001B3DA2:020E4B01 Bernhart dead]
+Bernhardt: Fuu....
+Do\nas you wish.<>
+
+[0050:001B3DAA:02010401 Elwin sad]
+Elwin: Leon...<>
+
+[0051:001B3DB2:020D5101 Leon dead (eye open)]
+Leon: Elwin....
+I leave this continent to you.
+Only you can help me to rest safely.
+Please, farewell!<>
+
+[0052:001B3DC0:02030901 Larna]
+Larna: Leon!<>
+
+[0053:001B3DC8:020D5101 Leon dead (eye open)]
+Leon: I'm sorry Larna....
+Until the end I want to be with the ideals I believed in..<>
+
+[0054:001B3DD0:02030901 Larna]
+Larna: Leon...
+I'll go to, together with you..<>
+
+[0055:001B3DDE:02020501 Riana]
+Riana: Sister!<>
+
+[0056:001B3DE6:020D5101 Leon dead (eye open)]
+Leon: ...I can't answer your feelings....
+Stubborn aren't I....<wait>
+.....Thank you, Larna....<>
+
+[0057:001B3DEE:02030901 Larna]
+Larna: Leeeeeoooooonnnn!<>
+
+[0058:001B3E04:02030C01 Larna sad]
+Larna: ..Leon...<>
+
+[0059:001B3E12:02020801 Riana sad]
+Riana: After this long fight all that's left is this Alhazard,
+what sadness....<>
+
+[005A:001B3E20:02072101 Keith]
+Keith: A person even as strong as him desired power...<>
+
+[005B:001B3E2E:021B2C00 Soldier 2 grey]
+Soldier: A person even as strong as him desired power...<>
+
+[005C:001B3E36:02010101 Elwin]
+Elwin: But the power of darkness is not for humans to use...<wait>
+Darkness is the enemy of humans...<>
+
+[005D:001B3E3E:02040D01 Sherry]
+Sherry: Alhazard was forged from people's desires.<>
+
+[005E:001B3E46:02082501 Aaron]
+Aaron: Probably.<>
+
+[005F:001B3E4E:02051101 Hain]
+Hain: But we've finished the battle.<>
+
+[0060:001B3E56:02030901 Larna]
+Larna: Well, lets been an end to this age of wars.<>
+
+[0061:001B3E5E:02020501 Riana]
+Riana: Langrisser. This is your final duty...<>

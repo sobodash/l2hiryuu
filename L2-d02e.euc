@@ -1,0 +1,470 @@
+<Scenario 02>
+[0000:0018629C:02010101 Elwin]
+Elwin: I feel uneasy.
+This conflict seems like a dream...
+For what reason do the
+Blue Dragon Knights seek
+Riana? There is something
+important about Riana, when
+the strongest knights of the
+Rayguard empire seek her...<>
+
+[0001:001862AE:02020501 Riana]
+Riana: Can't sleep, Sir Elwin?<>
+
+[0002:001862B6:02010101 Elwin]
+Elwin: Ah... today's events have
+made me anxious.
+Please, stop calling me Sir.
+It feels strange.<>
+
+[0003:001862BE:02020501 Riana]
+Riana: I am sorry...
+I said it inadvertently.
+It seems as if we knew each
+other from old times...
+I don't know why.
+I think if my father still
+lived, he would be a strong,
+gentle person such as you.
+Ah! I'm sorry. Perhaps
+I said too much...<>
+
+[0004:001862C6:02010101 Elwin]
+Elwin: It is all right.
+Riana, I have heard from
+Hain about your difficult
+childhood.<>
+
+[0005:001862CE:02020801 Riana sad]
+Riana: Yes. As a baby, I was left
+at the entrance to the temple.
+After that, the people in the
+temple brought me up as their own.
+I was not sad because the people
+were good and kind.<>
+
+[0006:001862D6:02010401 Elwin sad]
+Elwin: I see...<>
+
+[0007:001862DE:02020501 Riana]
+Riana: Elwin... why are you travelling?
+If it is all right with you,
+I would like to know the reason.<>
+
+[0008:001862E6:02010101 Elwin]
+Elwin: I am not travelling for
+some wonderful purpose.
+My parents died when I was
+a sleeping as a small boy...
+Since then, a traveller named
+Doren took care of me.
+He was like a father to me.
+I learned much from Doren,
+especially swordplay.
+He is dead now... but...<>
+
+[0009:001862EE:02020500 Riana]
+Riana: But...?<>
+
+[000A:001862F6:02010101 Elwin]
+Elwin: Who killed Doren?
+That is why I am travelling.
+I must avenge his death.<>
+
+[000B:001862FE:02020801 Riana sad]
+Riana: I am sorry...
+I have recalled a
+painful memory...<>
+
+[000C:00186306:02010101 Elwin]
+Elwin: Please don't worry.
+...It's getting late. Let's
+call it a night.<>
+
+[000D:00186310:02020501 Riana]
+Riana: ...Good night, Elwin...<>
+
+[000E:0018633E:02263501 Rolan]
+Rolan: Well, was everyone
+able to sleep well?<>
+
+[000F:00186346:02051100 Hain]
+Hain: Yes, I was sound asleep.<>
+
+[0010:0018634E:02263500 Rolan]
+Rolan: Whether that will be
+possible in the future...<wait>
+Defending Riana from the
+Empire's army will indeed
+be near impossible...
+I am but a local lord,
+and the Empire seems to
+be serious about obtaining
+Riana...<>
+
+[0011:00186356:02061501 Scott]
+Scott: I don't think the Empire
+seeks to harm Miss Riana. Since the
+Empire has been expanding its
+borders, they probably have some
+military purpose for Miss Riana.<>
+
+[0012:0018635E:02263501 Rolan]
+Rolan: This premonition I feel
+is very strong... I don't
+think I can defend Riana
+much longer...<>
+
+[0013:00186366:02020501 Riana]
+Riana: Wait...<wait>
+Is the Shinto Priest of Estol
+not strong? I know him well,
+he will surely help us
+against the Empire.<>
+
+[0014:0018636E:02051101 Hain]
+Hain: That's right!
+However, Estol is far,
+and it would be dangerous
+for Riana to travel alone.
+I will be glad to accompany her.<>
+
+[0015:00186376:02010101 Elwin]
+Elwin: The empire still seeks
+Riana... Well, since I travel
+without any particular destination,
+I will go as well.<>
+
+[0016:0018637E:02020501 Riana]
+Riana: Thank you, everyone!<>
+
+[0017:00186386:02061501 Scott]
+Scott: Father!
+Please let me go too!
+I desire to travel and
+learn.<>
+
+[0018:0018638E:02263501 Rolan]
+Rolan: ...Alright. It is
+good experience to travel.
+Learn well from your experiences.<wait>
+Elwin, watch over Riana well.
+Scott, be careful...<>
+
+[0019:00186396:02061501 Scott]
+Scott: Yes, father.<>
+
+[001A:0018639E:02051101 Hain]
+Hain: Well then, let's travel
+to the temple carefully.
+It is a long journey...<>
+
+[001B:001863B2:02263501 Rolan]
+Rolan: Hmm?!
+What's going on?<>
+
+[001C:001863BA:021D3801 I. general 1 yellow]
+General: Sir Rolan.
+Trespassers have been sighted.<>
+
+[001D:001863D2:02136001 Zolm]
+Zolm: Hahaha! Take note.
+I am Zolm, commander and
+right hand man under
+General Vargas' Fire
+Dragon Corps. We'll
+be taking the girl.<>
+
+[001E:001863DA:02010101 Elwin]
+Elwin: What now?!<>
+
+[001F:001863E2:02263501 Rolan]
+Rolan: We will hold our position
+here. All of you escort Riana
+out the back door.<>
+
+[0020:001863EA:02010101 Elwin]
+Elwin: Understood. Let's go,
+everyone!<>
+
+[0021:001863F4:02136001 Zolm]
+Zolm: Kill everyone in our
+way! We shall catch the lass
+quickly!<>
+
+[0022:001863FC:022A8D01 I. soldier 2 grey]
+Imperial General: Leave it to me.
+Let's move!<>
+
+[0023:00186418:02010101 Elwin]
+Elwin: What?!
+An ambush?<>
+
+[0024:0018643A:02051101 Hain]
+Hain: What?! An ambush!?<>
+
+[0025:0018645C:02263501 Rolan]
+Rolan: What?! How did they...<>
+
+[0026:0018647E:02061501 Scott]
+Scott: Enemies!<>
+
+[0027:001864A0:02020501 Riana]
+Riana: Help!<>
+
+[0028:001864BC:02010101 Elwin]
+Elwin: Retreat, Riana!<>
+
+[0029:001864C4:02020501 Riana]
+Riana: O, okay!<>
+
+[002A:001864D2:02136001 Zolm]
+Zolm: Shit, they got away.
+After them!<>
+
+[002B:001864DA:02010101 Elwin]
+Elwin: No way! No matter what,
+I'm going to protect Riana!<>
+
+[002C:001864F4:0200FF00 ]
+ ": Speedboots found!<>
+
+[002D:00186504:02010100 Elwin]
+Elwin: Let's go!<>
+
+[002E:0018650E:02010201 Elwin dead]
+Elwin: To have lost before protecting
+Riana...<>
+
+[002F:0018651C:02051201 Hain dead]
+Hain: I must retreat...<>
+
+[0030:0018652A:02051101 Hain]
+Hain: Wow!<>
+
+[0031:0018653A:02136000 Zolm]
+Zolm: Hahaha! It's too late,
+too late to do anything.<>
+
+[0032:00186552:02136001 Zolm]
+Zolm: I finally got you.
+Come with me.<>
+
+[0033:0018655A:02020601 Riana dead]
+Riana: No! Let me go!<>
+
+[0034:00186568:02136001 Zolm]
+Zolm: Mission complete. Let's
+return.<>
+
+[0035:00186570:02010401 Elwin sad]
+Elwin: What happened... I couldn't
+protect them...<>
+
+[0036:0018657C:02061501 Scott]
+Scott: The Knight and Lord
+are too strong! Let's try
+the back entrance.<>
+
+[0037:00186586:02061500 Scott]
+Scott: They're not going to stop me!<>
+
+[0038:00186590:02061601 Scott dead]
+Scott:Damn... am I still too
+weak to fight?!<>
+
+[0039:0018659A:02263501 Rolan]
+Rolan: We're going to get them!<>
+
+[003A:001865A4:02263500 Rolan]
+Rolan: I'll never forgive them.<>
+
+[003B:001865AE:02263501 Rolan]
+Rolan: We can't lose here...<>
+
+[003C:001865BC:02061801 Scott sad]
+Scott: Father, you can't go much
+further at this rate. Please retreat,
+I'll take care of it.<>
+
+[003D:001865C4:02263501 Rolan]
+Rolan: I'm sorry... I'm counting
+on you.<>
+
+[003E:001865D0:021C3600 I. general 1 grey]
+General: Don't even think you can make it out alive.<>
+
+[003F:001865DA:021C3701 I, general 1 grey dead]
+General: Rolan...<>
+
+[0040:00186602:021D3800 I. general 1 yellow]
+General: You're not getting past me!<>
+
+[0041:0018660C:021D3901 I. general 1 yellow dead]
+General: Oow...<>
+
+[0042:00186634:02136001 Zolm]
+Zolm: You're not getting away
+so easily.<>
+
+[0043:00186644:02136101 Zolm dead]
+Zolm: Uh!<wait>
+You!!
+Bastards!!! Don't think you're going
+to get away with this!!<>
+
+[0044:00186654:02136101 Zolm dead]
+Zolm: Ughh!<>
+
+[0045:00186662:022D8B01 I. soldier 1 yellow]
+Imperial General: Commander Zolm!<>
+
+[0046:0018666A:02136101 Zolm dead]
+Zolm: Listen up! Get the girl!<>
+
+[0047:00186672:022E8B01 I. soldier 1 yellow]
+Imperial General: Yes sir!<>
+
+[0048:0018667A:02136101 Zolm dead]
+Zolm: I'm counting on you.<>
+
+[0049:0018668A:02051101 Hain]
+Hain: Uryyaa!
+Hiding in a place like that, are you sure
+that's a good place to hide?<>
+
+[004A:0018669A:022A8D00 I. soldier 2 grey]
+Imperial General: Move!
+You will die!<>
+
+[004B:001866A4:022A8E01 I. soldier 2 grey dead]
+Imperial General: M, me...
+losing to you guys...
+Gahh!<>
+
+[004C:001866AE:022B8801 I. soldier 1 grey dead]
+Imperial General: Gahh!<>
+
+[004D:001866B8:022C8A01 I. soldier 1 purple dead]
+Imperial General: Gahh!<>
+
+[004E:001866C2:022D8B01 I. soldier 1 yellow]
+Imperial General: Whahaha...
+The girl is ours!<>
+
+[004F:001866CC:022D8B00 I. soldier 1 yellow]
+Imperial General: You impertinent!<>
+
+[0050:001866D6:022A8B00 I. soldier 1 yellow]
+Imperial General: You can't stand up to us!<>
+
+[0051:001866E0:022D8C01 I. soldier 1 yellow dead]
+Imperial General: Fool...<>
+
+[0052:001866EA:022E8B00 I. soldier 1 yellow]
+Imperial General: Don't even try!<>
+
+[0053:001866F4:022E8B00 I. soldier 1 yellow]
+Imperial General: Just watch me!<>
+
+[0054:001866FE:022E8C01 I. soldier 1 yellow dead]
+Imperial General: Gaaahhhh!<>
+
+[0055:00186710:02051101 Hain]
+Hain: Yes!!<>
+
+[0056:00186718:02010101 Elwin]
+Elwin: Well then, I guess that's
+all of them.<>
+
+[0057:00186726:02061501 Scott]
+Scott: Come on, let's hurry
+to Estol! The Imperial soldiers
+are bound to return.<>
+
+[0058:0018673A:02051101 Hain]
+Hain: Let's hurry to Estol!
+They will surely return.<>
+
+[0059:00186748:02051200 Hain dead]
+Hain: Uwaa...
+That was close...<wait>
+Let's hurry to Estol!
+They will surely return.<>
+
+[005A:00186750:02010101 Elwin]
+Elwin: That's right.
+Let's go, Riana.
+It's time to escape from the Imperial soldiers.<>
+
+[005B:00186762:02010101 Elwin]
+Elwin: Let's escape through
+the back!<>
+
+[005C:0018676A:02020501 Riana]
+Riana: Yes.<>
+
+[005D:0018678C:02263501 Rolan]
+Rolan: Alright, let's see how they will get through.
+If they couldn't beat Zolm, there will be no way that they can get to the empire. And it'll be a good chance for Scott to go through this.<>
+
+[005E:0018679A:02263501 Rolan]
+Rolan: Alright, let's see how they will get through.
+If they couldn't beat Zolm, there will be no way that they can get to the empire.<>
+
+[005F:001867C8:02263501 Rolan]
+Rolan: Fool...
+Our soldiers so easily beaten.<>
+
+[0060:001867D2:02263501 Rolan]
+Rolan: Ah, shit!
+We can't lose Riana!<>
+
+[0061:001867DC:02020500 Riana]
+Riana: Kyaa! Help, Elwin!<>
+
+[0062:001867E4:02010100 Elwin]
+Elwin: Wait! I'll be right there.
+Hold on!<>
+
+[0063:00186800:02136001 Zolm]
+Zolm: Hahaha! There's no way
+she'll escape from me!!<>
+
+[0064:00186810:02010101 Elwin]
+Elwin: Riana!
+Retreat at once!<>
+
+[0065:0018681E:02010101 Elwin]
+Elwin: Riana!
+Until they are defeated, stay inside!<>
+
+[0066:00186826:02020501 Riana]
+Riana: Yes, yes!<>
+
+[0067:0018684C:02263501 Rolan]
+Rolan: Wait. Take this sword.
+It is the sword I used to use.<>
+
+[0068:00186858:0200FF00 ]
+ ": Greatsword obtained!<>
+
+[0069:00186862:02010101 Elwin]
+Elwin: Thanks!
+I'll take good care of it.<>
+
+[006A:0018686A:02263500 Rolan]
+Rolan: Alright.
+Be careful.<>
+
+[006B:00186872:02020501 Riana]
+Riana: Thanks, everyone!
+All this, just for me...<>
+
+[006C:0018687A:02010101 Elwin]
+Elwin: We do it of our own will.
+Don't worry about it. Let's go!<>
+
+[006D:00186882:02020501 Riana]
+Riana: Yes!<>

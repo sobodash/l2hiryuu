@@ -1,0 +1,382 @@
+<Scenario 16>
+[0000:001A0CD8:02010101 Elwin]
+Elwin:ついにここまで
+来たか！<>
+
+[0001:001A0CE0:02040D01 Sherry]
+Sherry:この上に帝王が、
+‥‥Bernhartがいるのね。<>
+
+[0002:001A0CE8:020D5001 Leon]
+Leon:どうやらImeldaは
+しくじったようだな‥‥<wait>
+だが、そのおかげで
+Elwinと正面対決が
+できるというものだな。<>
+
+[0003:001A0CF0:02010101 Elwin]
+Elwin:Leonか！
+だが、絶対負けられない！
+Bernhartを倒し、Rianaを
+助け出すまでは！<>
+
+[0004:001A0D14:020C5A01 Lana dark princess]
+Larna:手伝ってあげるわ、
+Leon。<>
+
+[0005:001A0D1C:020D5001 Leon]
+Leon:Larnaか？！
+悪いが女の手をかりるつもりは
+ない。<>
+
+[0006:001A0D24:020C5A01 Lana dark princess]
+Larna:あいにく、あなたには
+いろいろかりがあるからね‥‥。
+勝手にやらせてもらうわ。<>
+
+[0007:001A0D2C:020D5001 Leon]
+Leon:そうか‥‥。
+好きにするがいい。<>
+
+[0008:001A0D34:02010101 Elwin]
+Elwin:どちらにしても
+ここは通してもらうぞ！<>
+
+[0009:001A0D3E:020D5001 Leon]
+Leon:チィッ！
+侵入をゆるしたか。
+いいか、Elwin！
+この決着はいずれつけてやる！<>
+
+[000A:001A0D5A:020C5A01 Lana dark princess]
+Larna:まさか突破されるとはね。<wait>
+‥‥まあいいわ。
+Bernhartがどうなろうと、
+私にはどうでもいい事だわ。<>
+
+[000B:001A0D76:0200FF00 ]
+ ":グレイプニールを見つけた！<>
+
+[000C:001A0D88:020C5A01 Lana dark princess]
+Larna:よくここまで来れたわね！
+でもLeonやあのお方のためにも
+ここで死んでもらうわ！<>
+
+[000D:001A0D92:02010201 Elwin dead]
+Elwin:くっ！
+ここまでか‥‥<>
+
+[000E:001A0DA0:02051201 Hein dead]
+Hain:ごめん、みんな。
+やられちゃったよ‥‥<>
+
+[000F:001A0DAA:02040E01 Sherry dead]
+Sherry:いたたた‥‥<>
+
+[0010:001A0DB4:02082601 Aaron dead]
+Aaron:もう年かのう‥‥<>
+
+[0011:001A0DBE:02072201 Keith dead]
+Keith:油断したか‥‥<>
+
+[0012:001A0DC8:02091E01 Lester dead]
+Lester:不覚を取ったな‥‥<>
+
+[0013:001A0DD2:020A1A01 Jessica dead]
+Jessica:そんな‥‥<>
+
+[0014:001A0DDC:02061601 Scott dead]
+Scott:まだ修業が足りなかった
+のか‥‥<>
+
+[0015:001A0DE6:022A9F00 I. soldier 5 blue]
+Imperial General:俺のこの攻撃を
+たえてみろ！<>
+
+[0016:001A0DF0:022AA001 I. soldier 5 blue dead]
+Imperial General:Leon様ーッ！<>
+
+[0017:001A0DFE:022A9F01 I. soldier 5 blue]
+Imperial General:貴様らの力は
+この程度か！<>
+
+[0018:001A0E08:022B9B00 I. soldier 4 purple]
+Imperial General:なめるなッ！<>
+
+[0019:001A0E12:022B9C01 I. soldier 4 purple dead]
+Imperial General:なにっ？！<>
+
+[001A:001A0E20:022B9B01 I. soldier 4 purple]
+Imperial General:ハッ！
+きかぬわ！！<>
+
+[001B:001A0E2A:022C7900 I. archmage red/grey]
+Imperial General:くらえ！！<>
+
+[001C:001A0E34:022C7A01 I. archmage red/grey dead]
+Imperial General:ぐはっ！<>
+
+[001D:001A0E42:022C7900 I. archmage red/grey]
+Imperial General:やるな‥‥
+油断のできぬヤツらだ。<>
+
+[001E:001A0E4C:022D8300 I. saint blue]
+Imperial General:あんた達の力、
+一体どれ程のものか見せて
+もらうわ！<>
+
+[001F:001A0E5A:022D8401 I. saint blue dead]
+Imperial General:ウグッ！
+私を倒すとはさすがね‥‥<>
+
+[0020:001A0E6A:022D8301 I. saint blue]
+Imperial General:ウッ‥‥、
+だがここは死守してみせる！<>
+
+[0021:001A0E74:0211C600 Laird]
+Laird:城内へは一歩たりとも
+入らせはしない！<>
+
+[0022:001A0E7E:0211C701 Laird dead]
+Laird:ぐっ‥‥<>
+
+[0023:001A0E86:020D5001 Leon]
+Leon:さがれ、Laird！
+お前を失うわけにはいかぬ。<>
+
+[0024:001A0E8E:0211C701 Laird dead]
+Laird:申しわけありません。<>
+
+[0025:001A0E98:022E7900 I. archmage red/grey]
+Imperial General:やらせるものか！<>
+
+[0026:001A0EA2:022E7A01 I. archmage red/grey dead]
+Imperial General:ゲフッ‥‥<>
+
+[0027:001A0EB0:022E7900 I. archmage red/grey]
+Imperial General:なめるな！<>
+
+[0028:001A0EC2:020C5A01 Lana dark princess]
+Larna:なかなかやるわね‥‥<>
+
+[0029:001A0ED6:020D5000 Leon]
+Leon:いいか！
+しょうもう戦になれば、
+数の少ない我々の方が不利だ。
+しかもヤツらは手強い。<wait>
+全力で戦わなければ、我々と
+いえども勝てる見込みはないと
+思え！<>
+
+[002A:001A0EE4:0211C601 Laird]
+Laird:ハッ！<>
+
+[002B:001A0EF4:020D5001 Leon]
+Leon:行くぞ、Larna！
+このままヤツらを通すわけには
+いかぬ！<>
+
+[002C:001A0EFC:020C5A01 Lana dark princess]
+Larna:ふふっ‥‥。
+あなたと私がいっしょになれば
+怖いものはないわ。<>
+
+[002D:001A0F04:020D5001 Leon]
+Leon:油断はするなよ。<>
+
+[002E:001A0F16:020D5001 Leon]
+Leon:ここは通さぬ！
+勝負だ、Elwin！<>
+
+[002F:001A0F20:020D5000 Leon]
+Leon:Elwinよ！
+キサマと戦えるこの時をずっと
+待っていたのだ！<wait>
+今までのかり、まとめて返して
+やるぞ！<>
+
+[0030:001A0F2A:020D5101 Leon dead (eye open)]
+Leon:くっ、やるな！<wait>
+しかし、キサマらの力は
+そのラングリッサーのおかげだと
+いう事を忘れるなよ。<wait>
+アルハザードの復活は目前だ。
+そうなればキサマらに勝ち目は
+ない！<>
+
+[0031:001A0F38:020C5A01 Lana dark princess]
+Larna:ラングリッサーの力が
+あるとはいえ、Leonまで
+やられてしまうとはね‥‥。<wait>
+Bernhartがどうなろうと
+知った事じゃないけど、
+Leonに傷を負わせるのは
+感心しないね！<wait>
+我々、闇の一族の真の力を
+思い知らせてあげるわ！！<>
+
+[0032:001A0F40:020D5101 Leon dead (eye open)]
+Leon:‥‥やめろ、Larna。
+ここは不利だ、引け！<>
+
+[0033:001A0F48:020C5A01 Lana dark princess]
+Larna:Leon‥‥。
+でも、このままでは私の気が
+おさまらないわ。<>
+
+[0034:001A0F50:020D5101 Leon dead (eye open)]
+Leon:いいから退け！
+私のために、あなたを危険に
+さらすわけにいかぬ。<>
+
+[0035:001A0F58:020C5A01 Lana dark princess]
+Larna:‥‥‥それは、
+Bernhartのため？<>
+
+[0036:001A0F60:020D5100 Leon dead (eye open)]
+Leon:‥‥そう‥思うか？<>
+
+[0037:001A0F68:020C5A00 Lana dark princess]
+Larna:‥‥‥。
+今回はLeonにめんじて
+見逃してあげる。
+次はようしゃしないわよ！<>
+
+[0038:001A0F76:020D5101 Leon dead (eye open)]
+Leon:さらばだ、
+Elwin！<>
+
+[0039:001A0F88:020D5000 Leon]
+Leon:腕を上げたな、
+Elwin！<>
+
+[003A:001A0F92:020C5A00 Lana dark princess]
+Larna:私のかわいい
+モンスター達よ。
+彼らを援護しておやり。<>
+
+[003B:001A0F9C:024BB501 Face mist]
+Ghost:ヒュー‥‥<>
+
+[003C:001A0FA6:024CB501 Face mist]
+Ghost:ウオォォォーン<>
+
+[003D:001A0FB0:020C5A01 Lana dark princess]
+Larna:光輝の末裔達に
+もう邪魔はさせないわ！<>
+
+[003E:001A0FBA:02010101 Elwin]
+Elwin:よせ、Riana！
+なぜ俺達が戦う必要がある。
+みんな仲間じゃないか！<>
+
+[003F:001A0FC4:020C5B01 Lana dark princess dead]
+Larna:クッ、なかなか
+やるわね！<>
+
+[0040:001A0FCC:020D5001 Leon]
+Leon:無事か、Larna！<>
+
+[0041:001A0FD4:020C5B01 Lana dark princess dead]
+Larna:ええ、心配ないわ。
+不覚をとってしまったわね‥‥。<>
+
+[0042:001A0FDC:020D5001 Leon]
+Leon:ここは退け。
+私のために、あなたを危険に
+さらすわけにいかぬ‥‥。<>
+
+[0043:001A0FE4:020C5B01 Lana dark princess dead]
+Larna:‥‥‥それは、
+Bernhartのため？<>
+
+[0044:001A0FEC:020D5000 Leon]
+Leon:‥‥そう‥思うか？<>
+
+[0045:001A0FF4:020C5B00 Lana dark princess dead]
+Larna:‥‥分かったわ‥‥。
+一時、退きましょう。<>
+
+[0046:001A1004:020D5001 Leon]
+Leon:‥‥行くぞLaird！
+ヤツらを陛下の元へ行かせては
+ならん！<>
+
+[0047:001A100C:0211C601 Laird]
+Laird:ハッ！<>
+
+[0048:001A101A:020D5001 Leon]
+Leon:たとえ一人になろうとも
+陛下の元には行かせぬ！<>
+
+[0049:001A1022:020D5001 Leon]
+Leon:さあ、勝負だ、
+Elwin！<>
+
+[004A:001A1030:020C5A01 Lana dark princess]
+Larna:さすが光輝の末裔‥‥。
+やはり、ひとすじナワでは
+倒せないようね。<>
+
+[004B:001A1044:020D5001 Leon]
+Leon:あれだけ激しい攻撃を
+受けても、ここまでたどり着く
+とはな‥‥。<wait>
+だが、今度は私が相手だ！
+それ以上は進ませぬ！<>
+
+[004C:001A1052:020C5A01 Lana dark princess]
+Larna:私も戦わせてもらうわよ！<>
+
+[004D:001A105A:020D5001 Leon]
+Leon:やめろ、Larna！
+ここは私にまかせろ！<>
+
+[004E:001A1062:020C5A01 Lana dark princess]
+Larna:いやよ。
+私はまだ、あなたにかりを返して
+いないわ。<>
+
+[004F:001A106A:020D5001 Leon]
+Leon:ふっ、変わった人だ‥‥。
+いいだろう、だが無理はするな。<>
+
+[0050:001A1080:02010100 Elwin]
+Elwin:くそっ！
+Rianaを操っている術者は
+どこにいるんだ！<>
+
+[0051:001A108E:02040D01 Sherry]
+Sherry:Elwin‥‥。<>
+
+[0052:001A109C:02082501 Aaron]
+Aaron:いよいよ最後の戦いと
+なりそうじゃの。
+みな気を引きしめてゆくぞい。<>
+
+[0053:001A10AA:02051101 Hein]
+Hain:行こうよ、
+Elwin。
+Rianaの事が心配だよ。<>
+
+[0054:001A10B8:02061501 Scott]
+Scott:Bernhartを倒せば
+この戦乱も終らせる事ができる
+でしょう。<>
+
+[0055:001A10C0:020A1901 Jessica]
+Jessica:さあ、急ぎましょう。
+アルハザードが目覚める前に
+Bernhartを倒すのです！<wait>
+‥‥アルハザードのある所に
+Rianaさんを操る術師も現れる
+事でしょう。<>
+
+[0056:001A10C8:02010101 Elwin]
+Elwin:よし！
+このまま一気に攻めこむぞ！
+そして帝王Bernhartを
+倒すんだ！<wait>
+そして‥‥、Rianaも
+必ず救ってみせる！<>
+

@@ -1,0 +1,316 @@
+<Scenario 26>
+[0000:001B21FA:02144D01 Eggbert]
+Eggbert: ...You finally came....
+Jessica...<wait>
+I reluctant to fight my former teacher but
+at least I can give you a suiting death.<>
+
+[0001:001B2202:02010101 Elwin]
+Elwin: Eggbert?<>
+
+[0002:001B220A:02144D01 Eggbert]
+Eggbert: This the first time we've fought
+firsthand....<>
+
+[0003:001B2212:02091D01 Lester]
+Lester: I'll send you where I sent your friends.<>
+
+[0004:001B221A:02144D01 Eggbert]
+Eggbert: My...
+What a mighty proclamation.
+But can you break through this Magician's camp?<>
+
+[0005:001B222C:02144D01 Eggbert]
+Eggbert: This is the hall to repel the invaders.<wait>
+Jessica, I'm impressed. You're group was even
+able to pass Leon.<wait>
+But you will not defeat me, the leader of the
+Black Dragon Sorcerers!!!<>
+
+[0006:001B223C:020A1901 Jessica]
+Jessica: Please give up Eggbert!<wait>
+You studied magic to battle against the
+forces of evil....<wait>
+Please one more time,
+study magic with us!<>
+
+[0007:001B2244:02144D01 Eggbert]
+Eggbert: Naturally I knew of the existence of evil and
+thinking of destroying it, I become your
+apprentice.<wait>
+But when you used Rebirth, Bozel was trying to
+acheive his ressurection....<Wait>
+I thought I could depend on the descendants of
+light to defeat Bozel. But at the time, they
+didn't posess the power to confront Bozel....<wait>
+Around that time I encoutered his young Majesty....
+And I thought His Highness could it, therefore I
+lend him a hand in acheiving his nation.<>
+
+[0008:001B2252:02091D01 Lester]
+Lester: So that's why you left me and Jessica....<>
+
+[0009:001B225A:02144D01 Eggbert]
+Eggbert: That is why.<wait>
+Because of that, together with
+His Majesty we used Bozel and took Alhazard.
+With a massive power unifying the contient
+is possible.<wait>
+Before a powerful military nation's reign,
+even wars will die out.  And before a military
+kingdom, destroying the forces of evil is
+child's play....<wait>
+For that I wanted dangerously massive power......<>
+
+[000A:001B2262:020A1901 Jessica]
+Jessica: With that power you could do that.
+But....You would lose your soul in the process.<>
+
+[000B:001B226A:02144D01 Eggbert]
+Eggbert: I did not choose this path on purpose.
+It is the only means to the end.<>
+
+[000C:001B2278:02144F01 Eggbert mad]
+Eggbert: !?
+Tenacious little insects!<wait>
+His Majesty, Emporer Bernhardt won't let a
+single of you pass!<>
+
+[000D:001B2288:02144D01 Eggbert]
+Eggbert: If you are to defeat me here, you will
+only be able to do it with Langrisser.<wait>
+But even so you will not be able to defeat the
+Empire with it's newfound power!<>
+
+[000E:001B2290:020A1901 Jessica]
+Jessica: You know better than anyone else in
+the empire how dangerous the power of darkness
+is.<wait>
+When then, in spite of that danger, are you 
+trying to use the power of darkness?!<>
+
+[000F:001B2298:02144D01 Eggbert]
+Eggbert:We must end this dark age.
+Also we should seal the chaos with Langrisser.<wait>
+But tell me, if you used the power of darkness,
+would it make you any different a person?
+As long as you yourself have the strength, the power
+can be controlled and surely power is power no matter
+whether it is the power of evil or not.<>
+
+[0010:001B22A0:020A1901 Jessica]
+Jessica: But even if you can do that, the
+power of darkness ruins people's souls.<wait>
+You'll become the next Bozel, the power of evil!<>
+
+[0011:001B22A8:02144D01 Eggbert]
+Eggbert: That's the case for the weak.
+But as for me... We don't know if that unless we try.<>
+
+[0012:001B22B0:020A1B01 Jessica mad]
+Jessica: I simply won't allow such dangerous actions!<>
+
+[0013:001B22C0:0200FF00 ]
+ ": You found a Runestone!<>
+
+[0014:001B22E0:02010201 Elwin dead]
+Elwin: What?!
+Impossible...<>
+
+[0015:001B22E8:02144D01 Eggbert]
+Eggbert: You fought well.
+But this is the end for you.
+To defy our Empire is truly reckless....<>
+
+[0016:001B22F0:02010201 Elwin dead]
+Elwin: Damn!
+This is it....<>
+
+[0017:001B22FE:02051201 Hain dead]
+Hain: Dammit!
+I'm beat....<>
+
+[0018:001B2308:02040E01 Sherry dead]
+Sherry: So terrible...!
+What is this?!?<>
+
+[0019:001B2312:02082601 Aaron dead]
+Aaron: Ugh... I just can't take it anymore...<>
+
+[001A:001B231C:02072201 Keith dead]
+Keith: This is it.....<>
+
+[001B:001B2326:02091E01 Lester dead]
+Lester: Shithead!<>
+
+[001C:001B2330:02020601 Riana dead]
+Riana: Ahhhh.....
+Elwin......<>
+
+[001D:001B2338:02010101 Elwin]
+Elwin: Don't push yourself!
+Retreat!<>
+
+[001E:001B2340:02020601 Riana dead]
+Riana: Um, Ok....<>
+
+[001F:001B234A:02030A01 Lana dead]
+Lana: This can't be.....<>
+
+[0020:001B2354:020A1B00 Jessica mad]
+Jessica: Your idea's are heavily flawed!!<>
+
+[0021:001B235C:02144D00 Eggbert]
+Eggbert: That's one perspective....
+But there are an infinite number of ways
+to get to a place in life.... Isn't that so?<>
+
+[0022:001B2366:020A1A01 Jessica dead]
+Jessica: Ahhhh!?<>
+
+[0023:001B2370:02061601 Scott dead]
+Scott: How could this happen now....<>
+
+[0024:001B237A:022A7700 I. archmage green/red]
+Imperial General: You can't get away from me!<>
+
+[0025:001B2384:022A7801 I. archmage green/red dead]
+Imperial General: Gefuuu!<>
+
+[0026:001B238E:022B7A01 I. archmage red/grey dead]
+Imperial General: Ugghhhh!<>
+
+[0027:001B239C:022B7900 I. archmage red/grey]
+Imperial General: To not let them get to me!<>
+
+[0028:001B23A6:022C8500 I. saint grey]
+Imperial General: I cannot let the descendant's of light win...<>
+
+[0029:001B23B0:022C8601 I. saint grey dead]
+Imperial General: Impossible....<>
+
+[002A:001B23BA:022D7700 I. archmage green/red]
+Imperial General: You must've come here to die
+on purpose!<>
+
+[002B:001B23C4:022D7801 I. archmage green/red dead]
+Imperial General: Gyhaa!<>
+
+[002C:001B23CE:022E7801 I. archmage green/red dead]
+Imperial General: Eggbert.....<wait>
+Uggggghhh!<>
+
+[002D:001B23D8:022F7801 I. archmage green/red dead]
+Imperial General: Does this mean I'm dead....<>
+
+[002E:001B23E2:02307A01 I. archmage red/grey dead]
+Imperial General: Just a little....<>
+
+[002F:001B23EC:02318401 I. saint blue dead]
+Imperial General: Regrettable...<>
+
+[0030:001B23F6:02329D01 I. soldier 4 yellow]
+Imperial General: I will protect Eggbert till the
+very end!<>
+
+[0031:001B2400:02329D00 I. soldier 4 yellow]
+Imperial General: Gotcha!<>
+
+[0032:001B240A:02329E01 I. soldier 4 yellow dead]
+Imperial General: Eggbert, please...run..... away....<>
+
+[0033:001B2414:02144D00 Eggbert]
+Eggbert: Ku ku ku....
+What a reckless bunch....<>
+
+[0034:001B241E:02144D00 Eggbert]
+Eggbert: I'm sorry Jessica... But you came
+to this place to fight!<wait>
+Now this one things is left! Prepare yourself!<>
+
+[0035:001B242E:02144D01 Eggbert]
+Eggbert: Still... I guess you're not defeated yet...<>
+
+[0036:001B2436:02051101 Hain]
+Hain: We may defeat you! Fight with
+everything you've got, people!<>
+
+[0037:001B243E:02144D01 Eggbert]
+Eggbert: Wait. I have a proposition for you... A challange.
+It is only for the strong and strong willed.<>
+
+[0038:001B2446:1D00FF00 ]
+ ": Will you accept Eggbert's challenge?<>
+
+[0039:001B2452:02010101 Elwin]
+Elwin: Got it!
+I'll accept your challenge!<>
+
+[003A:001B245A:02144D01 Eggbert]
+Eggbert: Mya ha ha...
+How foolish....<wait>
+The fight is in Death Tower. The tower I made,
+the tower of our stregthened magic.
+You might not make it out alive.
+Just in case, make another save spot.<>
+
+[003B:001B246A:02010101 Elwin]
+Elwin: I have no plans for a pointless battle.<>
+
+[003C:001B2472:02144E01 Eggbert dead]
+Eggbert: Is that so? That is a pity indeed...<>
+
+[003D:001B2480:02144E01 Eggbert dead]
+Eggbert: My dear teacher....
+The descendants of light you believe in
+are unmistakenably strong....<wait>
+I think....I think they can change the
+world......<wait>
+....Thanks to them I can peacefully go......to
+hell......<wait>
+If I....was....given a...second...
+chance....I would, with my teacher....
+one...more....time....<><>
+
+[003E:001B2490:020A1C01 Jessica sad]
+Jessica:Eggbert....<>
+
+[003F:001B24A0:02092001 Lester sad]
+Lester: Eggbert....
+Why didn't you wait?<>
+
+[0040:001B24AE:020A1C01 Jessica sad]
+Jessica: Eggbert needed tremendous power to fight
+Bozel. But... he needed it urgently.....<wait>
+...Therefore, he extended himself to forbidden
+black magic. As a result he could acquire an
+immense magic power......<wait>
+But in exchange for his soul....
+His flesh was decayed from the influence of evil.<wait>
+Therefore with the little time left of
+his life he risked his life for the only
+man he approved of.....Bernhart.<>
+
+[0041:001B24B6:02092001 Lester sad]
+Lester: Yeh... He seemed almost crazy...<>
+
+[0042:001B24C4:02030C01 Lana sad]
+Lana: Such a thing is even greater proof that we must, now or never,
+defeat Bosel and Emporer Bernhardt!<>
+
+[0043:001B24D2:02020501 Riana]
+Riana: To end the history of evil...<>
+
+[0044:001B24DA:02010101 Elwin]
+Elwin: That's right.
+This is our final battle!
+No matter what we will win!<>
+
+[0045:001B24E8:02010101 Elwin]
+Elwin: Let's finish it!
+Let's end this history of darkness!<>
+
+[0046:001B24F6:02144D01 Eggbert]
+Eggbert: It seems to fall away and not be troubled...
+May it fall into an everylasting rest...<>
+
